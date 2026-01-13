@@ -1,0 +1,293 @@
+
+hechengguocheng.png
+size: 712,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Noise_Ober_00
+  rotate: false
+  xy: 118, 9
+  size: 118, 118
+  orig: 128, 128
+  offset: 5, 2
+  index: -1
+images/Noise_Ober_01
+  rotate: false
+  xy: 556, 363
+  size: 127, 122
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/Noise_Ober_02
+  rotate: true
+  xy: 130, 356
+  size: 116, 125
+  orig: 128, 128
+  offset: 6, 1
+  index: -1
+images/Noise_Ober_03
+  rotate: false
+  xy: 257, 319
+  size: 123, 123
+  orig: 128, 128
+  offset: 2, 0
+  index: -1
+images/Noise_Ober_04
+  rotate: true
+  xy: 129, 234
+  size: 120, 123
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/cube_bg
+  rotate: false
+  xy: 260, 549
+  size: 163, 161
+  orig: 165, 163
+  offset: 1, 1
+  index: -1
+images/df86693f02
+  rotate: false
+  xy: 2, 474
+  size: 256, 236
+  orig: 256, 256
+  offset: 0, 10
+  index: -1
+images/line_act_00
+  rotate: true
+  xy: 685, 467
+  size: 18, 23
+  orig: 360, 640
+  offset: 111, 313
+  index: -1
+images/line_act_01
+  rotate: true
+  xy: 604, 210
+  size: 37, 44
+  orig: 360, 640
+  offset: 110, 304
+  index: -1
+images/line_act_02
+  rotate: false
+  xy: 650, 178
+  size: 57, 57
+  orig: 360, 640
+  offset: 110, 299
+  index: -1
+images/line_act_03
+  rotate: true
+  xy: 254, 238
+  size: 79, 62
+  orig: 360, 640
+  offset: 110, 298
+  index: -1
+images/line_act_04
+  rotate: false
+  xy: 545, 65
+  size: 98, 63
+  orig: 360, 640
+  offset: 112, 297
+  index: -1
+images/line_act_05
+  rotate: true
+  xy: 539, 130
+  size: 113, 63
+  orig: 360, 640
+  offset: 116, 298
+  index: -1
+images/line_act_06
+  rotate: true
+  xy: 645, 64
+  size: 112, 63
+  orig: 360, 640
+  offset: 132, 298
+  index: -1
+images/line_act_07
+  rotate: true
+  xy: 244, 132
+  size: 100, 59
+  orig: 360, 640
+  offset: 151, 301
+  index: -1
+images/line_act_08
+  rotate: false
+  xy: 382, 320
+  size: 84, 48
+  orig: 360, 640
+  offset: 168, 310
+  index: -1
+images/line_act_09
+  rotate: true
+  xy: 604, 138
+  size: 70, 39
+  orig: 360, 640
+  offset: 183, 314
+  index: -1
+images/line_act_10
+  rotate: true
+  xy: 389, 494
+  size: 53, 28
+  orig: 360, 640
+  offset: 200, 314
+  index: -1
+images/line_act_11
+  rotate: true
+  xy: 685, 434
+  size: 31, 19
+  orig: 360, 640
+  offset: 221, 315
+  index: -1
+images/line_act_12
+  rotate: false
+  xy: 700, 703
+  size: 9, 7
+  orig: 360, 640
+  offset: 241, 317
+  index: -1
+images/line_glow_1
+  rotate: true
+  xy: 656, 237
+  size: 64, 52
+  orig: 64, 64
+  offset: 0, 6
+  index: -1
+images/partical_bg_0000
+  rotate: true
+  xy: 260, 444
+  size: 103, 127
+  orig: 256, 256
+  offset: 74, 63
+  index: -1
+images/partical_bg_0001
+  rotate: true
+  xy: 389, 370
+  size: 101, 127
+  orig: 256, 256
+  offset: 75, 65
+  index: -1
+images/partical_bg_0002
+  rotate: true
+  xy: 2, 243
+  size: 115, 125
+  orig: 256, 256
+  offset: 75, 68
+  index: -1
+images/partical_bg_0003
+  rotate: false
+  xy: 425, 586
+  size: 138, 124
+  orig: 256, 256
+  offset: 50, 71
+  index: -1
+images/partical_bg_0004
+  rotate: false
+  xy: 565, 600
+  size: 133, 110
+  orig: 256, 256
+  offset: 52, 73
+  index: -1
+images/partical_bg_0005
+  rotate: false
+  xy: 565, 487
+  size: 132, 111
+  orig: 256, 256
+  offset: 54, 76
+  index: -1
+images/partical_bg_0006
+  rotate: false
+  xy: 425, 473
+  size: 129, 111
+  orig: 256, 256
+  offset: 56, 79
+  index: -1
+images/partical_bg_0007
+  rotate: false
+  xy: 2, 360
+  size: 126, 112
+  orig: 256, 256
+  offset: 58, 81
+  index: -1
+images/partical_bg_0008
+  rotate: false
+  xy: 2, 129
+  size: 123, 112
+  orig: 256, 256
+  offset: 60, 84
+  index: -1
+images/partical_bg_0009
+  rotate: true
+  xy: 2, 8
+  size: 119, 114
+  orig: 256, 256
+  offset: 62, 86
+  index: -1
+images/partical_bg_0010
+  rotate: true
+  xy: 314, 12
+  size: 116, 114
+  orig: 256, 256
+  offset: 64, 89
+  index: -1
+images/partical_bg_0011
+  rotate: false
+  xy: 430, 13
+  size: 113, 115
+  orig: 256, 256
+  offset: 66, 91
+  index: -1
+images/partical_bg_0012
+  rotate: true
+  xy: 422, 130
+  size: 109, 115
+  orig: 256, 256
+  offset: 69, 94
+  index: -1
+images/partical_bg_0013
+  rotate: true
+  xy: 305, 130
+  size: 106, 115
+  orig: 256, 256
+  offset: 70, 96
+  index: -1
+images/partical_bg_0014
+  rotate: true
+  xy: 127, 129
+  size: 103, 115
+  orig: 256, 256
+  offset: 72, 99
+  index: -1
+images/partical_bg_0015
+  rotate: true
+  xy: 318, 241
+  size: 76, 116
+  orig: 256, 256
+  offset: 98, 101
+  index: -1
+images/partical_bg_0016
+  rotate: false
+  xy: 238, 10
+  size: 74, 117
+  orig: 256, 256
+  offset: 99, 103
+  index: -1
+images/partical_bg_0017
+  rotate: false
+  xy: 468, 245
+  size: 72, 116
+  orig: 256, 256
+  offset: 100, 106
+  index: -1
+images/uiglow
+  rotate: true
+  xy: 656, 303
+  size: 58, 54
+  orig: 64, 64
+  offset: 4, 6
+  index: -1
+images/yuan_bg
+  rotate: false
+  xy: 542, 249
+  size: 112, 112
+  orig: 114, 114
+  offset: 1, 1
+  index: -1

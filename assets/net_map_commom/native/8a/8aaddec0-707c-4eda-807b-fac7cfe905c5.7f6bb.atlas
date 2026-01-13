@@ -1,0 +1,153 @@
+
+MC-7-6-ani.png
+size: 543,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj/huo_0
+  rotate: false
+  xy: 84, 137
+  size: 80, 137
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_1
+  rotate: false
+  xy: 166, 137
+  size: 80, 137
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_2
+  rotate: false
+  xy: 2, 135
+  size: 80, 139
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_3
+  rotate: false
+  xy: 248, 139
+  size: 80, 135
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_4
+  rotate: false
+  xy: 248, 9
+  size: 82, 128
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_5
+  rotate: true
+  xy: 412, 194
+  size: 80, 120
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_6
+  rotate: false
+  xy: 330, 148
+  size: 80, 126
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_7
+  rotate: false
+  xy: 2, 3
+  size: 80, 130
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_8
+  rotate: false
+  xy: 84, 5
+  size: 80, 130
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+bj/huo_9
+  rotate: false
+  xy: 166, 6
+  size: 80, 129
+  orig: 100, 140
+  offset: 9, 1
+  index: -1
+wood-1
+  rotate: true
+  xy: 465, 17
+  size: 36, 65
+  orig: 38, 66
+  offset: 1, 0
+  index: -1
+wood-10
+  rotate: false
+  xy: 394, 38
+  size: 69, 28
+  orig: 71, 30
+  offset: 1, 1
+  index: -1
+wood-11
+  rotate: true
+  xy: 362, 2
+  size: 51, 28
+  orig: 53, 30
+  offset: 1, 1
+  index: -1
+wood-2
+  rotate: true
+  xy: 480, 55
+  size: 64, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+wood-3
+  rotate: true
+  xy: 332, 56
+  size: 41, 60
+  orig: 42, 62
+  offset: 0, 1
+  index: -1
+wood-4
+  rotate: false
+  xy: 412, 138
+  size: 73, 54
+  orig: 75, 55
+  offset: 1, 0
+  index: -1
+wood-5
+  rotate: false
+  xy: 332, 109
+  size: 72, 37
+  orig: 74, 39
+  offset: 1, 1
+  index: -1
+wood-6
+  rotate: false
+  xy: 394, 68
+  size: 70, 29
+  orig: 71, 30
+  offset: 0, 1
+  index: -1
+wood-7
+  rotate: true
+  xy: 332, 2
+  size: 51, 28
+  orig: 53, 30
+  offset: 1, 1
+  index: -1
+wood-8
+  rotate: true
+  xy: 487, 121
+  size: 71, 53
+  orig: 74, 55
+  offset: 1, 1
+  index: -1
+wood-9
+  rotate: false
+  xy: 406, 99
+  size: 72, 37
+  orig: 74, 39
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+mianyang.png
+size: 150,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tui1
+  rotate: false
+  xy: 93, 15
+  size: 18, 17
+  orig: 20, 19
+  offset: 1, 1
+  index: -1
+Tui2
+  rotate: false
+  xy: 5, 8
+  size: 19, 16
+  orig: 21, 18
+  offset: 1, 1
+  index: -1
+Tui3
+  rotate: false
+  xy: 74, 6
+  size: 15, 14
+  orig: 17, 16
+  offset: 1, 1
+  index: -1
+Tui4
+  rotate: true
+  xy: 28, 8
+  size: 12, 14
+  orig: 14, 16
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 5, 23
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 115, 19
+  size: 89, 30
+  orig: 91, 32
+  offset: 1, 1
+  index: -1

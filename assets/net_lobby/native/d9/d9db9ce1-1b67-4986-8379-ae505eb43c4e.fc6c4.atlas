@@ -1,0 +1,76 @@
+
+tb2.png
+size: 1212,486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+one/honh_0
+  rotate: false
+  xy: 2, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/hua_0
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/lan_0
+  rotate: false
+  xy: 244, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/lv_0
+  rotate: false
+  xy: 244, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/pine_0
+  rotate: false
+  xy: 486, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/sj2_0
+  rotate: false
+  xy: 486, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/sun_0
+  rotate: false
+  xy: 728, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/xh2_0
+  rotate: false
+  xy: 728, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/yellow_0
+  rotate: false
+  xy: 970, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+one/zi_0
+  rotate: false
+  xy: 970, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

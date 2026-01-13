@@ -1,0 +1,146 @@
+
+rukou2.png
+size: 956,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 634, 3
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+effect/fs_0
+  rotate: false
+  xy: 894, 86
+  size: 60, 120
+  orig: 60, 120
+  offset: 0, 0
+  index: -1
+effect/liu_0
+  rotate: false
+  xy: 2, 208
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_10
+  rotate: false
+  xy: 318, 105
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_11
+  rotate: false
+  xy: 476, 208
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_12
+  rotate: false
+  xy: 318, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_13
+  rotate: false
+  xy: 476, 105
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_15
+  rotate: false
+  xy: 634, 208
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_16
+  rotate: false
+  xy: 476, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_17
+  rotate: false
+  xy: 634, 105
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_19
+  rotate: false
+  xy: 792, 208
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_2
+  rotate: false
+  xy: 2, 105
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_3
+  rotate: false
+  xy: 160, 208
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_4
+  rotate: false
+  xy: 2, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_6
+  rotate: false
+  xy: 160, 105
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_7
+  rotate: false
+  xy: 318, 208
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_8
+  rotate: false
+  xy: 160, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/xx_0
+  rotate: false
+  xy: 792, 106
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lb
+  rotate: false
+  xy: 766, 9
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+lb2
+  rotate: false
+  xy: 850, 8
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1

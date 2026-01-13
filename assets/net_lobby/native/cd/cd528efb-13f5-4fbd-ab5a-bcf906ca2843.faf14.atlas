@@ -1,0 +1,258 @@
+
+skin-zhanChe.png
+size: 1969,921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci1
+  rotate: true
+  xy: 1947, 80
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+ci2
+  rotate: false
+  xy: 1941, 783
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+effect/tex_0
+  rotate: false
+  xy: 2, 317
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_1
+  rotate: false
+  xy: 504, 619
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_2
+  rotate: false
+  xy: 2, 15
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_3
+  rotate: false
+  xy: 504, 317
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_4
+  rotate: false
+  xy: 1006, 619
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_5
+  rotate: false
+  xy: 504, 15
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_6
+  rotate: false
+  xy: 1006, 317
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_7
+  rotate: true
+  xy: 1508, 419
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_8
+  rotate: false
+  xy: 1006, 15
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+effect/tex_9
+  rotate: false
+  xy: 2, 619
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+fangzi1
+  rotate: false
+  xy: 1707, 147
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+fangzi2
+  rotate: true
+  xy: 1833, 317
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+fangzi3
+  rotate: false
+  xy: 1810, 609
+  size: 129, 193
+  orig: 129, 193
+  offset: 0, 0
+  index: -1
+fangzi3_1
+  rotate: false
+  xy: 1947, 105
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+fangzi3_2
+  rotate: false
+  xy: 1773, 47
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+houlun
+  rotate: false
+  xy: 1838, 230
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+houlun2
+  rotate: false
+  xy: 1683, 40
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 1508, 32
+  size: 173, 64
+  orig: 173, 64
+  offset: 0, 0
+  index: -1
+mu1
+  rotate: true
+  xy: 1810, 468
+  size: 139, 123
+  orig: 139, 123
+  offset: 0, 0
+  index: -1
+mu2
+  rotate: true
+  xy: 1707, 279
+  size: 138, 124
+  orig: 138, 124
+  offset: 0, 0
+  index: -1
+nu1
+  rotate: true
+  xy: 1810, 430
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+nu2
+  rotate: true
+  xy: 1924, 195
+  size: 120, 39
+  orig: 120, 39
+  offset: 0, 0
+  index: -1
+nu3
+  rotate: true
+  xy: 1775, 162
+  size: 115, 61
+  orig: 115, 61
+  offset: 0, 0
+  index: -1
+nu4
+  rotate: false
+  xy: 1707, 88
+  size: 108, 57
+  orig: 108, 57
+  offset: 0, 0
+  index: -1
+nu5
+  rotate: true
+  xy: 1808, 9
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+qianlun
+  rotate: true
+  xy: 1838, 145
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+qianlun1
+  rotate: false
+  xy: 1817, 62
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+qianlun2
+  rotate: true
+  xy: 1900, 58
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+qizi1
+  rotate: true
+  xy: 1508, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+qizi2
+  rotate: true
+  xy: 1924, 146
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+qizi3
+  rotate: true
+  xy: 1540, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1508, 98
+  size: 319, 197
+  orig: 319, 197
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1810, 804
+  size: 157, 115
+  orig: 157, 115
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 1833, 383
+  size: 83, 134
+  orig: 83, 134
+  offset: 0, 0
+  index: -1

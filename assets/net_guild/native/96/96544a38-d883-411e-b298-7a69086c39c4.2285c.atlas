@@ -1,0 +1,41 @@
+
+xz.png
+size: 1134,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 904, 192
+  size: 312, 228
+  orig: 312, 228
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 6
+  size: 498, 498
+  orig: 498, 498
+  offset: 0, 0
+  index: -1
+lizi_0
+  rotate: false
+  xy: 502, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+quan_0
+  rotate: false
+  xy: 502, 104
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+star_8
+  rotate: false
+  xy: 904, 40
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

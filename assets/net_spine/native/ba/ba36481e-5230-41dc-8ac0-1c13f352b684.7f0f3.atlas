@@ -1,0 +1,62 @@
+
+jl.png
+size: 538,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cai_0
+  rotate: true
+  xy: 2, 41
+  size: 37, 162
+  orig: 37, 162
+  offset: 0, 0
+  index: -1
+h_0
+  rotate: true
+  xy: 2, 2
+  size: 37, 162
+  orig: 37, 162
+  offset: 0, 0
+  index: -1
+lizi2_0
+  rotate: false
+  xy: 382, 28
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+lizi3_0
+  rotate: false
+  xy: 330, 28
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+lizi4_0
+  rotate: false
+  xy: 434, 28
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+lizi_0
+  rotate: false
+  xy: 486, 28
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+r_0
+  rotate: true
+  xy: 166, 41
+  size: 37, 162
+  orig: 37, 162
+  offset: 0, 0
+  index: -1
+zi_0
+  rotate: true
+  xy: 166, 2
+  size: 37, 162
+  orig: 37, 162
+  offset: 0, 0
+  index: -1

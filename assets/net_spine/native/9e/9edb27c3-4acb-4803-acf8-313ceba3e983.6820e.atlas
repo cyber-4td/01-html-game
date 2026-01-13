@@ -1,0 +1,111 @@
+
+boar.png
+size: 825,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Houtui1
+  rotate: true
+  xy: 237, 3
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+Houtui2
+  rotate: true
+  xy: 355, 7
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 651, 229
+  size: 146, 118
+  orig: 146, 127
+  offset: 0, 9
+  index: -1
+Tou
+  rotate: false
+  xy: 651, 5
+  size: 111, 123
+  orig: 113, 137
+  offset: 1, 6
+  index: -1
+effect/0
+  rotate: true
+  xy: 651, 130
+  size: 97, 141
+  orig: 322, 245
+  offset: 99, 50
+  index: -1
+effect/1
+  rotate: false
+  xy: 468, 72
+  size: 181, 182
+  orig: 322, 245
+  offset: 65, 24
+  index: -1
+effect/2
+  rotate: false
+  xy: 563, 349
+  size: 260, 182
+  orig: 322, 245
+  offset: 31, 24
+  index: -1
+effect/3
+  rotate: true
+  xy: 191, 245
+  size: 286, 186
+  orig: 322, 245
+  offset: 21, 24
+  index: -1
+effect/4
+  rotate: true
+  xy: 2, 238
+  size: 293, 187
+  orig: 322, 245
+  offset: 19, 27
+  index: -1
+effect/5
+  rotate: false
+  xy: 181, 47
+  size: 285, 189
+  orig: 322, 245
+  offset: 27, 25
+  index: -1
+effect/6
+  rotate: true
+  xy: 379, 256
+  size: 275, 182
+  orig: 322, 245
+  offset: 33, 25
+  index: -1
+effect/7
+  rotate: true
+  xy: 2, 24
+  size: 212, 177
+  orig: 322, 245
+  offset: 38, 27
+  index: -1
+qiantui1
+  rotate: false
+  xy: 468, 10
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+qiantui2
+  rotate: true
+  xy: 295, 5
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 181, 2
+  size: 54, 43
+  orig: 56, 61
+  offset: 1, 4
+  index: -1

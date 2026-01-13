@@ -1,0 +1,27 @@
+
+sehngxing.png
+size: 369,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yixinghuanwei/guangtiao
+  rotate: true
+  xy: 2, 307
+  size: 7, 106
+  orig: 7, 106
+  offset: 0, 0
+  index: -1
+yixinghuanwei/guangzhu
+  rotate: true
+  xy: 252, 284
+  size: 83, 115
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+yixinghuanwei/quanshang
+  rotate: false
+  xy: 2, 316
+  size: 248, 51
+  orig: 252, 55
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,391 @@
+
+red-light-weapon.png
+size: 2014,1750
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bashou
+  rotate: true
+  xy: 147, 1241
+  size: 55, 187
+  orig: 55, 187
+  offset: 0, 0
+  index: -1
+effect/att_0
+  rotate: false
+  xy: 2, 11
+  size: 200, 313
+  orig: 200, 313
+  offset: 0, 0
+  index: -1
+effect/att_1
+  rotate: false
+  xy: 204, 11
+  size: 200, 313
+  orig: 200, 313
+  offset: 0, 0
+  index: -1
+effect/att_2
+  rotate: false
+  xy: 406, 22
+  size: 200, 313
+  orig: 200, 313
+  offset: 0, 0
+  index: -1
+effect/att_3
+  rotate: false
+  xy: 608, 79
+  size: 200, 313
+  orig: 200, 313
+  offset: 0, 0
+  index: -1
+effect/att_4
+  rotate: false
+  xy: 810, 79
+  size: 200, 313
+  orig: 200, 313
+  offset: 0, 0
+  index: -1
+effect/att_5
+  rotate: false
+  xy: 1012, 85
+  size: 200, 313
+  orig: 200, 313
+  offset: 0, 0
+  index: -1
+effect/di_0
+  rotate: false
+  xy: 2, 778
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_10
+  rotate: false
+  xy: 526, 1298
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_11
+  rotate: false
+  xy: 506, 394
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_12
+  rotate: false
+  xy: 758, 846
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_14
+  rotate: false
+  xy: 778, 1298
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_15
+  rotate: false
+  xy: 758, 394
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_2
+  rotate: false
+  xy: 22, 1298
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_3
+  rotate: false
+  xy: 274, 1298
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_4
+  rotate: false
+  xy: 2, 326
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_6
+  rotate: false
+  xy: 254, 789
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_7
+  rotate: false
+  xy: 254, 337
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/di_8
+  rotate: false
+  xy: 506, 846
+  size: 250, 450
+  orig: 250, 450
+  offset: 0, 0
+  index: -1
+effect/glow_0
+  rotate: false
+  xy: 1680, 1137
+  size: 122, 207
+  orig: 122, 207
+  offset: 0, 0
+  index: -1
+effect/shang_0
+  rotate: false
+  xy: 1010, 896
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_2
+  rotate: false
+  xy: 1030, 1348
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_10
+  rotate: false
+  xy: 1030, 1348
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_3
+  rotate: false
+  xy: 1010, 494
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_11
+  rotate: false
+  xy: 1010, 494
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_4
+  rotate: false
+  xy: 1214, 2
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_12
+  rotate: false
+  xy: 1214, 2
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_6
+  rotate: true
+  xy: 1416, 1548
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_14
+  rotate: true
+  xy: 1416, 1548
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_7
+  rotate: true
+  xy: 1416, 1346
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_15
+  rotate: true
+  xy: 1416, 1346
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/shang_8
+  rotate: false
+  xy: 1212, 946
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+effect/xian_0
+  rotate: false
+  xy: 1212, 536
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/xian_10
+  rotate: false
+  xy: 1668, 47
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/xian_2
+  rotate: false
+  xy: 1678, 803
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/xian_3
+  rotate: false
+  xy: 1416, 284
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/xian_5
+  rotate: false
+  xy: 1464, 551
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/xian_6
+  rotate: false
+  xy: 1416, 32
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/xian_7
+  rotate: false
+  xy: 1716, 551
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/xian_9
+  rotate: false
+  xy: 1668, 299
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+gongbi1
+  rotate: true
+  xy: 1416, 900
+  size: 204, 260
+  orig: 204, 260
+  offset: 0, 0
+  index: -1
+gongbi3
+  rotate: false
+  xy: 1416, 1106
+  size: 262, 238
+  orig: 262, 238
+  offset: 0, 0
+  index: -1
+gongbi4
+  rotate: true
+  xy: 1212, 788
+  size: 156, 158
+  orig: 156, 158
+  offset: 0, 0
+  index: -1
+gongbi7
+  rotate: false
+  xy: 1232, 1501
+  size: 170, 247
+  orig: 170, 247
+  offset: 0, 0
+  index: -1
+gongbi8
+  rotate: false
+  xy: 1232, 1364
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+gongbi9
+  rotate: false
+  xy: 1168, 404
+  size: 156, 88
+  orig: 156, 88
+  offset: 0, 0
+  index: -1
+gongxian
+  rotate: false
+  xy: 2, 1230
+  size: 18, 518
+  orig: 18, 518
+  offset: 0, 0
+  index: -1
+gongxian1
+  rotate: false
+  xy: 336, 1244
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+gongxian2
+  rotate: false
+  xy: 374, 1244
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+hushou
+  rotate: false
+  xy: 1818, 1461
+  size: 190, 287
+  orig: 190, 287
+  offset: 0, 0
+  index: -1
+zhuangshi1
+  rotate: false
+  xy: 1804, 1055
+  size: 208, 150
+  orig: 208, 150
+  offset: 0, 0
+  index: -1
+zhuangshi3
+  rotate: false
+  xy: 22, 1237
+  size: 123, 59
+  orig: 123, 59
+  offset: 0, 0
+  index: -1
+zhuangshi4
+  rotate: false
+  xy: 1012, 2
+  size: 176, 81
+  orig: 176, 81
+  offset: 0, 0
+  index: -1
+zhuangshi5
+  rotate: false
+  xy: 1010, 400
+  size: 156, 92
+  orig: 156, 92
+  offset: 0, 0
+  index: -1
+zhuangshi6
+  rotate: false
+  xy: 1818, 1207
+  size: 166, 252
+  orig: 166, 252
+  offset: 0, 0
+  index: -1

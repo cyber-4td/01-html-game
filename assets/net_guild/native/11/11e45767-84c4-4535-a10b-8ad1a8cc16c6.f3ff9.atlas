@@ -1,0 +1,139 @@
+
+building-baoXiang.png
+size: 1199,874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxianggaizi
+  rotate: true
+  xy: 650, 449
+  size: 421, 281
+  orig: 421, 281
+  offset: 0, 0
+  index: -1
+building
+  rotate: false
+  xy: 5, 201
+  size: 641, 669
+  orig: 641, 670
+  offset: 0, 1
+  index: -1
+eff_Glow_000
+  rotate: false
+  xy: 680, 840
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eff_Smoke_000
+  rotate: false
+  xy: 650, 279
+  size: 169, 170
+  orig: 200, 200
+  offset: 14, 22
+  index: -1
+eff_Smoke_001
+  rotate: true
+  xy: 823, 164
+  size: 168, 171
+  orig: 200, 200
+  offset: 16, 23
+  index: -1
+eff_Smoke_002
+  rotate: false
+  xy: 917, 516
+  size: 166, 174
+  orig: 200, 200
+  offset: 19, 21
+  index: -1
+eff_Smoke_003
+  rotate: false
+  xy: 933, 336
+  size: 164, 176
+  orig: 200, 200
+  offset: 20, 19
+  index: -1
+eff_Smoke_004
+  rotate: false
+  xy: 860, 694
+  size: 166, 176
+  orig: 200, 200
+  offset: 19, 17
+  index: -1
+eff_Smoke_005
+  rotate: true
+  xy: 998, 166
+  size: 166, 173
+  orig: 200, 200
+  offset: 19, 16
+  index: -1
+eff_Smoke_006
+  rotate: false
+  xy: 650, 106
+  size: 167, 169
+  orig: 200, 200
+  offset: 18, 16
+  index: -1
+eff_Smoke_007
+  rotate: true
+  xy: 5, 33
+  size: 164, 167
+  orig: 200, 200
+  offset: 17, 16
+  index: -1
+eff_Smoke_008
+  rotate: true
+  xy: 176, 38
+  size: 159, 166
+  orig: 200, 200
+  offset: 20, 16
+  index: -1
+eff_Smoke_009
+  rotate: true
+  xy: 998, 5
+  size: 157, 166
+  orig: 200, 200
+  offset: 22, 17
+  index: -1
+eff_Smoke_010
+  rotate: true
+  xy: 346, 39
+  size: 158, 167
+  orig: 200, 200
+  offset: 22, 15
+  index: -1
+eff_Smoke_011
+  rotate: false
+  xy: 1030, 701
+  size: 164, 169
+  orig: 200, 200
+  offset: 18, 18
+  index: -1
+eff_Star
+  rotate: false
+  xy: 650, 562
+  size: 57, 58
+  orig: 64, 64
+  offset: 5, 3
+  index: -1
+light1
+  rotate: false
+  xy: 1087, 532
+  size: 66, 43
+  orig: 78, 53
+  offset: 8, 7
+  index: -1
+light2
+  rotate: false
+  xy: 650, 812
+  size: 26, 58
+  orig: 28, 60
+  offset: 1, 1
+  index: -1
+light3
+  rotate: false
+  xy: 1087, 579
+  size: 87, 118
+  orig: 94, 124
+  offset: 5, 3
+  index: -1

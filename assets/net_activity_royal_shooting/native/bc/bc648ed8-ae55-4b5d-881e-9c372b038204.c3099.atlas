@@ -1,0 +1,202 @@
+
+sheJian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aim
+  rotate: false
+  xy: 224, 143
+  size: 76, 76
+  orig: 86, 86
+  offset: 5, 5
+  index: -1
+arm-L
+  rotate: false
+  xy: 770, 63
+  size: 161, 85
+  orig: 162, 85
+  offset: 0, 0
+  index: -1
+arm-R
+  rotate: true
+  xy: 628, 18
+  size: 180, 94
+  orig: 180, 95
+  offset: 0, 1
+  index: -1
+armupper-R
+  rotate: false
+  xy: 300, 24
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+arrow-1
+  rotate: false
+  xy: 224, 2
+  size: 64, 48
+  orig: 68, 53
+  offset: 2, 3
+  index: -1
+arrow-2
+  rotate: true
+  xy: 724, 133
+  size: 65, 44
+  orig: 69, 48
+  offset: 2, 2
+  index: -1
+arrow-3
+  rotate: false
+  xy: 826, 8
+  size: 62, 53
+  orig: 66, 58
+  offset: 2, 3
+  index: -1
+arrowB
+  rotate: true
+  xy: 778, 150
+  size: 205, 50
+  orig: 209, 54
+  offset: 2, 2
+  index: -1
+body
+  rotate: false
+  xy: 519, 336
+  size: 178, 174
+  orig: 178, 174
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 304, 216
+  size: 94, 344
+  orig: 97, 346
+  offset: 1, 1
+  index: -1
+bowLine2
+  rotate: true
+  xy: 519, 324
+  size: 10, 257
+  orig: 10, 257
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 699, 357
+  size: 162, 153
+  orig: 163, 153
+  offset: 1, 0
+  index: -1
+dress-L
+  rotate: false
+  xy: 905, 318
+  size: 71, 95
+  orig: 73, 97
+  offset: 1, 1
+  index: -1
+dress-M
+  rotate: false
+  xy: 302, 118
+  size: 131, 96
+  orig: 133, 99
+  offset: 1, 2
+  index: -1
+dress-R
+  rotate: true
+  xy: 650, 200
+  size: 122, 113
+  orig: 124, 115
+  offset: 1, 1
+  index: -1
+fa-1
+  rotate: false
+  xy: 905, 415
+  size: 79, 95
+  orig: 81, 96
+  offset: 1, 0
+  index: -1
+fa-2
+  rotate: true
+  xy: 224, 52
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+fa-3
+  rotate: true
+  xy: 548, 34
+  size: 92, 73
+  orig: 93, 74
+  offset: 0, 1
+  index: -1
+fur
+  rotate: false
+  xy: 435, 128
+  size: 191, 86
+  orig: 194, 89
+  offset: 1, 2
+  index: -1
+hand-L1
+  rotate: true
+  xy: 70, 5
+  size: 33, 34
+  orig: 35, 37
+  offset: 1, 2
+  index: -1
+hand-L2
+  rotate: true
+  xy: 2, 5
+  size: 33, 66
+  orig: 37, 68
+  offset: 2, 1
+  index: -1
+head-0
+  rotate: false
+  xy: 304, 312
+  size: 213, 198
+  orig: 215, 201
+  offset: 1, 1
+  index: -1
+leg-L
+  rotate: false
+  xy: 435, 30
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+leg-R
+  rotate: false
+  xy: 724, 7
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+pif
+  rotate: true
+  xy: 2, 40
+  size: 179, 220
+  orig: 179, 220
+  offset: 0, 0
+  index: -1
+target
+  rotate: true
+  xy: 2, 221
+  size: 289, 300
+  orig: 291, 302
+  offset: 1, 1
+  index: -1
+targetShadow
+  rotate: true
+  xy: 863, 150
+  size: 360, 40
+  orig: 360, 40
+  offset: 0, 0
+  index: -1
+yanPi
+  rotate: true
+  xy: 699, 341
+  size: 14, 32
+  orig: 16, 34
+  offset: 1, 1
+  index: -1

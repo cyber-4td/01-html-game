@@ -1,0 +1,237 @@
+
+goblin_sheik.png
+size: 945,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: false
+  xy: 530, 10
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 720, 27
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+YouDabi
+  rotate: false
+  xy: 890, 323
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+YouXiaobi
+  rotate: true
+  xy: 425, 159
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 890, 362
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 890, 401
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 890, 286
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 890, 436
+  size: 45, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+effect/glow_0
+  rotate: true
+  xy: 459, 558
+  size: 212, 236
+  orig: 236, 236
+  offset: 13, 0
+  index: -1
+effect/rao_0
+  rotate: false
+  xy: 425, 2
+  size: 12, 11
+  orig: 268, 94
+  offset: 30, 66
+  index: -1
+effect/rao_1
+  rotate: true
+  xy: 668, 2
+  size: 81, 50
+  orig: 268, 94
+  offset: 24, 29
+  index: -1
+effect/rao_2
+  rotate: false
+  xy: 668, 147
+  size: 173, 65
+  orig: 268, 94
+  offset: 24, 17
+  index: -1
+effect/rao_3
+  rotate: false
+  xy: 690, 483
+  size: 228, 66
+  orig: 268, 94
+  offset: 21, 16
+  index: -1
+effect/rao_4
+  rotate: false
+  xy: 459, 489
+  size: 229, 67
+  orig: 268, 94
+  offset: 22, 17
+  index: -1
+effect/rao_5
+  rotate: false
+  xy: 227, 193
+  size: 227, 72
+  orig: 268, 94
+  offset: 26, 13
+  index: -1
+effect/rao_6
+  rotate: false
+  xy: 2, 6
+  size: 228, 75
+  orig: 268, 94
+  offset: 26, 11
+  index: -1
+effect/rao_7
+  rotate: false
+  xy: 231, 486
+  size: 226, 58
+  orig: 268, 94
+  offset: 28, 11
+  index: -1
+effect/rao_8
+  rotate: false
+  xy: 668, 214
+  size: 212, 58
+  orig: 268, 94
+  offset: 42, 11
+  index: -1
+effect/rao_9
+  rotate: false
+  xy: 668, 85
+  size: 157, 60
+  orig: 268, 94
+  offset: 93, 11
+  index: -1
+effect/xuan_0
+  rotate: true
+  xy: 232, 2
+  size: 189, 191
+  orig: 228, 228
+  offset: 22, 19
+  index: -1
+effect/xuan_1
+  rotate: true
+  xy: 679, 274
+  size: 207, 209
+  orig: 228, 228
+  offset: 13, 10
+  index: -1
+effect/xuan_2
+  rotate: true
+  xy: 229, 267
+  size: 217, 222
+  orig: 228, 228
+  offset: 10, 2
+  index: -1
+effect/xuan_3
+  rotate: false
+  xy: 231, 546
+  size: 226, 224
+  orig: 228, 228
+  offset: 2, 1
+  index: -1
+effect/xuan_4
+  rotate: false
+  xy: 2, 542
+  size: 227, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+effect/xuan_5
+  rotate: false
+  xy: 2, 312
+  size: 225, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+effect/xuan_6
+  rotate: false
+  xy: 2, 83
+  size: 223, 227
+  orig: 228, 228
+  offset: 1, 1
+  index: -1
+effect/xuan_7
+  rotate: true
+  xy: 697, 551
+  size: 219, 225
+  orig: 228, 228
+  offset: 3, 3
+  index: -1
+effect/xuan_8
+  rotate: true
+  xy: 459, 275
+  size: 212, 218
+  orig: 228, 228
+  offset: 6, 9
+  index: -1
+effect/xuan_9
+  rotate: false
+  xy: 456, 82
+  size: 210, 191
+  orig: 228, 228
+  offset: 18, 17
+  index: -1
+head
+  rotate: false
+  xy: 425, 15
+  size: 103, 65
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 617, 17
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 843, 109
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 827, 10
+  size: 115, 97
+  orig: 115, 97
+  offset: 0, 0
+  index: -1

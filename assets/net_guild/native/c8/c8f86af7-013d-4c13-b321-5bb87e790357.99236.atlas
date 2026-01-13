@@ -1,0 +1,48 @@
+
+home.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-flag
+  rotate: false
+  xy: 2, 2
+  size: 109, 42
+  orig: 109, 42
+  offset: 0, 0
+  index: -1
+Rjudian1
+  rotate: true
+  xy: 2, 179
+  size: 329, 273
+  orig: 348, 309
+  offset: 9, 19
+  index: -1
+Rjudian2
+  rotate: true
+  xy: 2, 46
+  size: 131, 254
+  orig: 131, 254
+  offset: 0, 0
+  index: -1
+Rjudian3
+  rotate: true
+  xy: 277, 179
+  size: 329, 273
+  orig: 348, 309
+  offset: 9, 19
+  index: -1
+light
+  rotate: true
+  xy: 454, 5
+  size: 172, 134
+  orig: 180, 144
+  offset: 4, 5
+  index: -1
+light-2
+  rotate: true
+  xy: 258, 20
+  size: 157, 194
+  orig: 163, 270
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,41 @@
+
+NvShenXiang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lady
+  rotate: true
+  xy: 2, 2
+  size: 242, 324
+  orig: 242, 324
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 460, 83
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+shapelight
+  rotate: false
+  xy: 328, 94
+  size: 59, 150
+  orig: 59, 150
+  offset: 0, 0
+  index: -1
+wind-L
+  rotate: true
+  xy: 328, 9
+  size: 83, 130
+  orig: 83, 130
+  offset: 0, 0
+  index: -1
+wind-R
+  rotate: false
+  xy: 389, 119
+  size: 107, 125
+  orig: 107, 125
+  offset: 0, 0
+  index: -1

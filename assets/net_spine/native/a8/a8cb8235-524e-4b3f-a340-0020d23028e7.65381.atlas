@@ -1,0 +1,76 @@
+
+slime_metal_fire.png
+size: 418,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci1
+  rotate: false
+  xy: 381, 10
+  size: 23, 26
+  orig: 25, 28
+  offset: 1, 1
+  index: -1
+ci2
+  rotate: false
+  xy: 390, 114
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+ci3
+  rotate: false
+  xy: 344, 94
+  size: 44, 47
+  orig: 47, 49
+  offset: 1, 1
+  index: -1
+ci4
+  rotate: false
+  xy: 344, 10
+  size: 35, 32
+  orig: 37, 34
+  offset: 1, 1
+  index: -1
+ci5
+  rotate: false
+  xy: 344, 44
+  size: 37, 48
+  orig: 126, 55
+  offset: 88, 6
+  index: -1
+huo
+  rotate: true
+  xy: 2, 2
+  size: 139, 165
+  orig: 139, 165
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 169, 9
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 408, 97
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: true
+  xy: 390, 104
+  size: 8, 16
+  orig: 10, 18
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 383, 38
+  size: 54, 25
+  orig: 56, 49
+  offset: 1, 7
+  index: -1

@@ -1,0 +1,132 @@
+
+shengji.png
+size: 966,869
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenji_0
+  rotate: false
+  xy: 2, 866
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shenji_1
+  rotate: false
+  xy: 246, 464
+  size: 214, 245
+  orig: 229, 251
+  offset: 15, 4
+  index: -1
+shenji_10
+  rotate: true
+  xy: 468, 221
+  size: 216, 245
+  orig: 229, 251
+  offset: 13, 4
+  index: -1
+shenji_11
+  rotate: true
+  xy: 715, 221
+  size: 216, 245
+  orig: 229, 251
+  offset: 13, 4
+  index: -1
+shenji_12
+  rotate: true
+  xy: 2, 528
+  size: 213, 242
+  orig: 229, 251
+  offset: 16, 6
+  index: -1
+shenji_13
+  rotate: true
+  xy: 701, 657
+  size: 210, 235
+  orig: 229, 251
+  offset: 19, 9
+  index: -1
+shenji_14
+  rotate: true
+  xy: 479, 667
+  size: 200, 220
+  orig: 229, 251
+  offset: 25, 17
+  index: -1
+shenji_15
+  rotate: true
+  xy: 310, 711
+  size: 156, 167
+  orig: 229, 251
+  offset: 29, 55
+  index: -1
+shenji_16
+  rotate: true
+  xy: 143, 743
+  size: 124, 165
+  orig: 229, 251
+  offset: 61, 57
+  index: -1
+shenji_17
+  rotate: true
+  xy: 5, 751
+  size: 116, 136
+  orig: 229, 251
+  offset: 63, 84
+  index: -1
+shenji_2
+  rotate: true
+  xy: 221, 2
+  size: 217, 249
+  orig: 229, 251
+  offset: 12, 0
+  index: -1
+shenji_3
+  rotate: false
+  xy: 2, 281
+  size: 217, 245
+  orig: 229, 251
+  offset: 12, 4
+  index: -1
+shenji_4
+  rotate: false
+  xy: 2, 34
+  size: 217, 245
+  orig: 229, 251
+  offset: 12, 4
+  index: -1
+shenji_5
+  rotate: true
+  xy: 472, 2
+  size: 217, 245
+  orig: 229, 251
+  offset: 12, 4
+  index: -1
+shenji_6
+  rotate: true
+  xy: 719, 2
+  size: 217, 245
+  orig: 229, 251
+  offset: 12, 4
+  index: -1
+shenji_7
+  rotate: true
+  xy: 462, 439
+  size: 216, 245
+  orig: 229, 251
+  offset: 13, 4
+  index: -1
+shenji_8
+  rotate: true
+  xy: 709, 439
+  size: 216, 245
+  orig: 229, 251
+  offset: 13, 4
+  index: -1
+shenji_9
+  rotate: true
+  xy: 221, 221
+  size: 216, 245
+  orig: 229, 251
+  offset: 13, 4
+  index: -1

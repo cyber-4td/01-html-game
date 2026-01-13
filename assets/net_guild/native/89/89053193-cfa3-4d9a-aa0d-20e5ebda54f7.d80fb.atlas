@@ -1,0 +1,104 @@
+
+lx_CutScreen.png
+size: 812,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_CenterShine
+  rotate: true
+  xy: 100, 123
+  size: 162, 160
+  orig: 210, 210
+  offset: 24, 20
+  index: -1
+eff_Glow_000
+  rotate: false
+  xy: 712, 4
+  size: 45, 45
+  orig: 53, 53
+  offset: 4, 4
+  index: -1
+eff_Lash1_000
+  rotate: true
+  xy: 262, 129
+  size: 156, 545
+  orig: 210, 560
+  offset: 25, 5
+  index: -1
+eff_RoundCircle_000
+  rotate: true
+  xy: 712, 51
+  size: 76, 98
+  orig: 147, 147
+  offset: 7, 9
+  index: -1
+eff_RoundCircle_001
+  rotate: true
+  xy: 410, 16
+  size: 111, 46
+  orig: 147, 147
+  offset: 13, 8
+  index: -1
+eff_RoundCircle_002
+  rotate: true
+  xy: 544, 19
+  size: 108, 64
+  orig: 147, 147
+  offset: 24, 7
+  index: -1
+eff_RoundCircle_003
+  rotate: true
+  xy: 318, 13
+  size: 114, 90
+  orig: 147, 147
+  offset: 26, 7
+  index: -1
+eff_RoundCircle_004
+  rotate: true
+  xy: 100, 2
+  size: 119, 99
+  orig: 147, 147
+  offset: 21, 3
+  index: -1
+eff_RoundCircle_005
+  rotate: false
+  xy: 610, 20
+  size: 100, 107
+  orig: 147, 147
+  offset: 40, 7
+  index: -1
+eff_RoundCircle_006
+  rotate: false
+  xy: 458, 17
+  size: 84, 110
+  orig: 147, 147
+  offset: 56, 7
+  index: -1
+eff_RoundCircle_007
+  rotate: false
+  xy: 256, 6
+  size: 60, 115
+  orig: 147, 147
+  offset: 80, 8
+  index: -1
+eff_RoundCircle_008
+  rotate: false
+  xy: 201, 4
+  size: 53, 117
+  orig: 147, 147
+  offset: 87, 16
+  index: -1
+eff_RoundCircle_009
+  rotate: true
+  xy: 2, 8
+  size: 25, 44
+  orig: 147, 147
+  offset: 110, 78
+  index: -1
+eff_RunLash_000
+  rotate: false
+  xy: 2, 35
+  size: 96, 250
+  orig: 140, 280
+  offset: 22, 15
+  index: -1

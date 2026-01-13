@@ -1,0 +1,97 @@
+
+redDP-water-maleLeg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_dabi1
+  rotate: true
+  xy: 135, 14
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+Q_daizi
+  rotate: true
+  xy: 2, 2
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+Q_ear1da
+  rotate: true
+  xy: 260, 429
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Q_maiozi1da
+  rotate: true
+  xy: 2, 205
+  size: 304, 256
+  orig: 304, 256
+  offset: 0, 0
+  index: -1
+Q_maozihouda
+  rotate: true
+  xy: 262, 32
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+Q_pijian1
+  rotate: true
+  xy: 256, 115
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+Q_pingzi
+  rotate: false
+  xy: 95, 10
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Q_shou1
+  rotate: false
+  xy: 154, 68
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Q_tui
+  rotate: true
+  xy: 260, 359
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+Q_xiabai
+  rotate: true
+  xy: 194, 11
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+Q_xiaobi1
+  rotate: false
+  xy: 31, 10
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+effect/star_0
+  rotate: false
+  xy: 154, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/xuehua_0
+  rotate: false
+  xy: 2, 53
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

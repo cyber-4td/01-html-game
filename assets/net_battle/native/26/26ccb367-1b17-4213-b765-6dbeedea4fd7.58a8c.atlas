@@ -1,0 +1,27 @@
+
+toug.png
+size: 270,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd2_0
+  rotate: false
+  xy: 2, 2
+  size: 137, 134
+  orig: 153, 151
+  offset: 8, 12
+  index: -1
+dd_0
+  rotate: false
+  xy: 141, 48
+  size: 88, 88
+  orig: 153, 151
+  offset: 33, 33
+  index: -1
+gq_0
+  rotate: true
+  xy: 2, 138
+  size: 35, 266
+  orig: 67, 288
+  offset: 16, 12
+  index: -1

@@ -1,0 +1,223 @@
+
+purple-fire-male.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huo2_0
+  rotate: false
+  xy: 2, 239
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_1
+  rotate: false
+  xy: 2, 104
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_10
+  rotate: false
+  xy: 206, 104
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_11
+  rotate: true
+  xy: 272, 2
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_12
+  rotate: false
+  xy: 308, 374
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_13
+  rotate: false
+  xy: 308, 239
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_14
+  rotate: false
+  xy: 308, 104
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_15
+  rotate: true
+  xy: 407, 2
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_2
+  rotate: true
+  xy: 2, 2
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_3
+  rotate: false
+  xy: 104, 374
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_4
+  rotate: false
+  xy: 104, 239
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_5
+  rotate: false
+  xy: 104, 104
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_6
+  rotate: true
+  xy: 137, 2
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_7
+  rotate: false
+  xy: 206, 374
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_8
+  rotate: false
+  xy: 206, 239
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+effect/huo2_9
+  rotate: false
+  xy: 2, 374
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 581, 448
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 511, 374
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 410, 374
+  size: 133, 99
+  orig: 133, 99
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 493, 121
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 410, 255
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 511, 433
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 410, 139
+  size: 114, 81
+  orig: 114, 81
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: true
+  xy: 493, 231
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+youer
+  rotate: true
+  xy: 548, 188
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+youfa
+  rotate: false
+  xy: 533, 236
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 462, 290
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: true
+  xy: 544, 327
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+zuofa
+  rotate: false
+  xy: 537, 122
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+zuojian
+  rotate: true
+  xy: 410, 105
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 493, 173
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1

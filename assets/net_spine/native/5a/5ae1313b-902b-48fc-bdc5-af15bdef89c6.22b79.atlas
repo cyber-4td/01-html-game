@@ -1,0 +1,55 @@
+
+slime_split_big.png
+size: 235,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuLou1
+  rotate: true
+  xy: 173, 93
+  size: 43, 57
+  orig: 45, 63
+  offset: 1, 5
+  index: -1
+kuLou2
+  rotate: true
+  xy: 198, 18
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+kuLou3
+  rotate: false
+  xy: 173, 56
+  size: 50, 35
+  orig: 52, 38
+  offset: 1, 1
+  index: -1
+shen
+  rotate: false
+  xy: 2, 7
+  size: 169, 129
+  orig: 169, 129
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 225, 76
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: false
+  xy: 225, 59
+  size: 7, 15
+  orig: 9, 17
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 173, 2
+  size: 52, 23
+  orig: 54, 48
+  offset: 1, 8
+  index: -1

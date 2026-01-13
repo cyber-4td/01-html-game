@@ -1,0 +1,181 @@
+
+red-dark-femaleLeg.png
+size: 1794,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi1
+  rotate: false
+  xy: 1762, 388
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+effect/lizi_0
+  rotate: false
+  xy: 1619, 122
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/pf_0
+  rotate: false
+  xy: 2, 224
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_11
+  rotate: false
+  xy: 882, 224
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_12
+  rotate: false
+  xy: 882, 4
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_13
+  rotate: false
+  xy: 1102, 224
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_15
+  rotate: false
+  xy: 1102, 4
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_16
+  rotate: false
+  xy: 1322, 224
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_17
+  rotate: false
+  xy: 1322, 4
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_19
+  rotate: false
+  xy: 1542, 224
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_2
+  rotate: false
+  xy: 2, 4
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_3
+  rotate: false
+  xy: 222, 224
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_4
+  rotate: false
+  xy: 222, 4
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_6
+  rotate: false
+  xy: 442, 224
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_7
+  rotate: false
+  xy: 442, 4
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_8
+  rotate: false
+  xy: 662, 224
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/pf_9
+  rotate: false
+  xy: 662, 4
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+effect/xian_0
+  rotate: false
+  xy: 1542, 82
+  size: 75, 140
+  orig: 75, 140
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: true
+  xy: 1721, 135
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+jianjia2
+  rotate: true
+  xy: 1667, 2
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 1762, 351
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 1743, 30
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+tuijia1
+  rotate: false
+  xy: 1619, 85
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+tuijia2
+  rotate: false
+  xy: 1542, 22
+  size: 123, 58
+  orig: 123, 58
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 1695, 87
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+campArcher.png
+size: 1129,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-building
+  rotate: false
+  xy: 670, 383
+  size: 456, 320
+  orig: 458, 322
+  offset: 1, 1
+  index: -1
+1-flag
+  rotate: false
+  xy: 270, 5
+  size: 109, 42
+  orig: 109, 42
+  offset: 0, 0
+  index: -1
+2-building
+  rotate: false
+  xy: 670, 705
+  size: 457, 336
+  orig: 459, 338
+  offset: 1, 1
+  index: -1
+3-building
+  rotate: true
+  xy: 270, 49
+  size: 463, 340
+  orig: 465, 342
+  offset: 1, 1
+  index: -1
+4-building
+  rotate: false
+  xy: 612, 24
+  size: 461, 357
+  orig: 463, 359
+  offset: 1, 1
+  index: -1
+5-building
+  rotate: true
+  xy: 2, 514
+  size: 527, 395
+  orig: 647, 521
+  offset: 61, 41
+  index: -1
+base
+  rotate: true
+  xy: 399, 518
+  size: 523, 269
+  orig: 525, 271
+  offset: 1, 1
+  index: -1
+base0
+  rotate: true
+  xy: 2, 2
+  size: 510, 266
+  orig: 525, 271
+  offset: 9, 3
+  index: -1
+flag
+  rotate: true
+  xy: 612, 487
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1

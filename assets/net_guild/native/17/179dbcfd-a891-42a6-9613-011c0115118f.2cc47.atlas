@@ -1,0 +1,20 @@
+
+lq.png
+size: 498,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan_0
+  rotate: true
+  xy: 2, 2
+  size: 255, 261
+  orig: 350, 350
+  offset: 44, 43
+  index: -1
+xuan_0
+  rotate: true
+  xy: 265, 25
+  size: 232, 231
+  orig: 350, 350
+  offset: 64, 59
+  index: -1

@@ -1,0 +1,328 @@
+
+SS-water-staff.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon/1
+  rotate: false
+  xy: 598, 139
+  size: 81, 90
+  orig: 83, 91
+  offset: 1, 1
+  index: -1
+weapon/2
+  rotate: true
+  xy: 409, 386
+  size: 93, 50
+  orig: 94, 51
+  offset: 0, 1
+  index: -1
+weapon/3
+  rotate: false
+  xy: 790, 195
+  size: 108, 102
+  orig: 109, 104
+  offset: 0, 1
+  index: -1
+weapon/4
+  rotate: true
+  xy: 115, 174
+  size: 172, 134
+  orig: 172, 134
+  offset: 0, 0
+  index: -1
+weapon/5
+  rotate: true
+  xy: 2, 348
+  size: 244, 265
+  orig: 244, 266
+  offset: 0, 0
+  index: -1
+weapon/6
+  rotate: true
+  xy: 598, 50
+  size: 87, 70
+  orig: 89, 72
+  offset: 1, 1
+  index: -1
+weapon/7
+  rotate: true
+  xy: 442, 686
+  size: 85, 73
+  orig: 87, 75
+  offset: 1, 1
+  index: -1
+weapon/8
+  rotate: true
+  xy: 154, 773
+  size: 84, 364
+  orig: 86, 365
+  offset: 1, 0
+  index: -1
+weapon/SS-1
+  rotate: true
+  xy: 633, 658
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+weapon/SS-2
+  rotate: true
+  xy: 269, 555
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+weapon/SSS-sanChaJi
+  rotate: false
+  xy: 2, 594
+  size: 150, 425
+  orig: 193, 428
+  offset: 37, 1
+  index: -1
+weapon/effec/fz_32
+  rotate: true
+  xy: 514, 56
+  size: 173, 82
+  orig: 175, 89
+  offset: 0, 0
+  index: -1
+weapon/effec/shifa_0
+  rotate: false
+  xy: 442, 646
+  size: 76, 38
+  orig: 160, 116
+  offset: 38, 25
+  index: -1
+weapon/effec/shifa_1
+  rotate: true
+  xy: 2, 4
+  size: 121, 96
+  orig: 160, 116
+  offset: 20, 12
+  index: -1
+weapon/effec/shifa_10
+  rotate: false
+  xy: 815, 93
+  size: 128, 100
+  orig: 160, 116
+  offset: 15, 10
+  index: -1
+weapon/effec/shifa_2
+  rotate: false
+  xy: 790, 299
+  size: 129, 104
+  orig: 160, 116
+  offset: 16, 9
+  index: -1
+weapon/effec/shifa_3
+  rotate: false
+  xy: 357, 43
+  size: 133, 109
+  orig: 160, 116
+  offset: 14, 7
+  index: -1
+weapon/effec/shifa_4
+  rotate: false
+  xy: 115, 62
+  size: 135, 110
+  orig: 160, 116
+  offset: 13, 6
+  index: -1
+weapon/effec/shifa_5
+  rotate: true
+  xy: 682, 405
+  size: 137, 110
+  orig: 160, 116
+  offset: 12, 6
+  index: -1
+weapon/effec/shifa_6
+  rotate: true
+  xy: 514, 231
+  size: 135, 109
+  orig: 160, 116
+  offset: 13, 7
+  index: -1
+weapon/effec/shifa_7
+  rotate: false
+  xy: 251, 216
+  size: 135, 110
+  orig: 160, 116
+  offset: 13, 6
+  index: -1
+weapon/effec/shifa_8
+  rotate: false
+  xy: 681, 80
+  size: 132, 107
+  orig: 160, 116
+  offset: 14, 8
+  index: -1
+weapon/effec/shifa_9
+  rotate: false
+  xy: 794, 438
+  size: 129, 104
+  orig: 160, 116
+  offset: 16, 9
+  index: -1
+weapon/effec/tx_0
+  rotate: true
+  xy: 461, 368
+  size: 108, 219
+  orig: 120, 239
+  offset: 5, 14
+  index: -1
+weapon/effec/tx_1
+  rotate: false
+  xy: 520, 640
+  size: 111, 220
+  orig: 120, 239
+  offset: 3, 15
+  index: -1
+weapon/effec/tx_2
+  rotate: false
+  xy: 2, 127
+  size: 111, 219
+  orig: 120, 239
+  offset: 3, 17
+  index: -1
+weapon/effec/tx_3
+  rotate: true
+  xy: 634, 544
+  size: 112, 217
+  orig: 120, 239
+  offset: 3, 20
+  index: -1
+weapon/effec/tx_4
+  rotate: true
+  xy: 788, 769
+  size: 109, 217
+  orig: 120, 239
+  offset: 5, 21
+  index: -1
+weapon/effec/tx_5
+  rotate: true
+  xy: 788, 658
+  size: 109, 215
+  orig: 120, 239
+  offset: 6, 21
+  index: -1
+weapon/effec/tx_6
+  rotate: false
+  xy: 682, 189
+  size: 106, 214
+  orig: 120, 239
+  offset: 8, 22
+  index: -1
+weapon/effec/tx_7
+  rotate: false
+  xy: 409, 154
+  size: 103, 212
+  orig: 120, 239
+  offset: 9, 21
+  index: -1
+weapon/effec/tx_8
+  rotate: false
+  xy: 252, 2
+  size: 103, 212
+  orig: 120, 239
+  offset: 8, 19
+  index: -1
+weapon/effec/tx_9
+  rotate: true
+  xy: 790, 914
+  size: 105, 216
+  orig: 120, 239
+  offset: 7, 15
+  index: -1
+weapon/effec/xuehua_0
+  rotate: true
+  xy: 269, 522
+  size: 31, 30
+  orig: 50, 50
+  offset: 8, 10
+  index: -1
+weapon/effec/zhang_22
+  rotate: true
+  xy: 900, 210
+  size: 87, 92
+  orig: 175, 160
+  offset: 47, 41
+  index: -1
+weapon/effec/zhang_24
+  rotate: false
+  xy: 853, 552
+  size: 111, 104
+  orig: 175, 160
+  offset: 35, 33
+  index: -1
+weapon/effec/zhang_25
+  rotate: false
+  xy: 316, 658
+  size: 124, 113
+  orig: 175, 160
+  offset: 26, 25
+  index: -1
+weapon/effec/zhang_27
+  rotate: false
+  xy: 642, 880
+  size: 146, 139
+  orig: 175, 160
+  offset: 12, 10
+  index: -1
+weapon/effec/zhang_28
+  rotate: false
+  xy: 633, 711
+  size: 153, 149
+  orig: 175, 160
+  offset: 7, 4
+  index: -1
+weapon/effec/zhang_29
+  rotate: true
+  xy: 316, 481
+  size: 157, 158
+  orig: 175, 160
+  offset: 5, 0
+  index: -1
+weapon/effec/zhang_31
+  rotate: false
+  xy: 154, 859
+  size: 162, 160
+  orig: 175, 160
+  offset: 4, 0
+  index: -1
+weapon/effec/zhang_32
+  rotate: false
+  xy: 318, 859
+  size: 160, 160
+  orig: 175, 160
+  offset: 6, 0
+  index: -1
+weapon/effec/zhang_33
+  rotate: true
+  xy: 480, 862
+  size: 157, 160
+  orig: 175, 160
+  offset: 9, 0
+  index: -1
+weapon/effec/zhang_35
+  rotate: true
+  xy: 154, 614
+  size: 157, 160
+  orig: 175, 160
+  offset: 6, 0
+  index: -1
+weapon/effec/zhang_36
+  rotate: false
+  xy: 476, 478
+  size: 156, 160
+  orig: 175, 160
+  offset: 5, 0
+  index: -1
+weapon/effec/zhang_38
+  rotate: true
+  xy: 269, 328
+  size: 151, 138
+  orig: 175, 160
+  offset: 3, 8
+  index: -1

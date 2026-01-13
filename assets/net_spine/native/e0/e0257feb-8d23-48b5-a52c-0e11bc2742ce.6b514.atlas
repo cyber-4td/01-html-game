@@ -1,0 +1,34 @@
+
+slime_fast.png
+size: 136,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mei
+  rotate: true
+  xy: 96, 20
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 2
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 116, 11
+  size: 7, 18
+  orig: 9, 20
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: true
+  xy: 96, 10
+  size: 8, 18
+  orig: 10, 20
+  offset: 1, 1
+  index: -1

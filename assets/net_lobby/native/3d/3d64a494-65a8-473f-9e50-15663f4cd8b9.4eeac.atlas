@@ -1,0 +1,69 @@
+
+campFootMan.png
+size: 1129,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-building
+  rotate: false
+  xy: 670, 384
+  size: 455, 320
+  orig: 457, 322
+  offset: 1, 1
+  index: -1
+1-flag
+  rotate: false
+  xy: 270, 5
+  size: 109, 42
+  orig: 109, 42
+  offset: 0, 0
+  index: -1
+2-building
+  rotate: false
+  xy: 670, 706
+  size: 457, 336
+  orig: 459, 338
+  offset: 1, 1
+  index: -1
+3-building
+  rotate: true
+  xy: 270, 49
+  size: 463, 340
+  orig: 465, 342
+  offset: 1, 1
+  index: -1
+4-building
+  rotate: false
+  xy: 612, 25
+  size: 461, 357
+  orig: 463, 359
+  offset: 1, 1
+  index: -1
+5-building
+  rotate: true
+  xy: 2, 514
+  size: 528, 395
+  orig: 647, 521
+  offset: 62, 41
+  index: -1
+base
+  rotate: true
+  xy: 399, 519
+  size: 523, 269
+  orig: 525, 271
+  offset: 1, 1
+  index: -1
+base0
+  rotate: true
+  xy: 2, 2
+  size: 510, 266
+  orig: 525, 271
+  offset: 9, 3
+  index: -1
+flag
+  rotate: true
+  xy: 612, 490
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1

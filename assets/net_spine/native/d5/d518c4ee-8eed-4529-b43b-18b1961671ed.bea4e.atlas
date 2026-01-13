@@ -1,0 +1,13 @@
+
+slime_tiny.png
+size: 63,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1

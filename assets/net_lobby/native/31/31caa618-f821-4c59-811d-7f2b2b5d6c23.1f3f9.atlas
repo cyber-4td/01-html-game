@@ -1,0 +1,125 @@
+
+shengji.png
+size: 973,973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02英雄升级/jiantou_0
+  rotate: false
+  xy: 2, 665
+  size: 304, 306
+  orig: 466, 466
+  offset: 94, 71
+  index: -1
+02英雄升级/sj_1
+  rotate: false
+  xy: 620, 428
+  size: 199, 140
+  orig: 229, 254
+  offset: 18, 15
+  index: -1
+02英雄升级/sj_10
+  rotate: true
+  xy: 622, 769
+  size: 202, 215
+  orig: 229, 254
+  offset: 16, 13
+  index: -1
+02英雄升级/sj_11
+  rotate: false
+  xy: 308, 755
+  size: 199, 216
+  orig: 229, 254
+  offset: 18, 15
+  index: -1
+02英雄升级/sj_12
+  rotate: true
+  xy: 622, 570
+  size: 197, 213
+  orig: 229, 254
+  offset: 19, 15
+  index: -1
+02英雄升级/sj_13
+  rotate: true
+  xy: 414, 213
+  size: 193, 207
+  orig: 229, 254
+  offset: 21, 17
+  index: -1
+02英雄升级/sj_14
+  rotate: false
+  xy: 2, 2
+  size: 187, 208
+  orig: 229, 254
+  offset: 24, 18
+  index: -1
+02英雄升级/sj_15
+  rotate: true
+  xy: 414, 576
+  size: 177, 205
+  orig: 229, 254
+  offset: 27, 22
+  index: -1
+02英雄升级/sj_16
+  rotate: false
+  xy: 509, 810
+  size: 98, 161
+  orig: 229, 254
+  offset: 62, 63
+  index: -1
+02英雄升级/sj_2
+  rotate: false
+  xy: 414, 408
+  size: 204, 166
+  orig: 229, 254
+  offset: 16, 12
+  index: -1
+02英雄升级/sj_3
+  rotate: true
+  xy: 622, 4
+  size: 207, 183
+  orig: 229, 254
+  offset: 16, 11
+  index: -1
+02英雄升级/sj_4
+  rotate: false
+  xy: 413, 4
+  size: 207, 207
+  orig: 229, 254
+  offset: 16, 11
+  index: -1
+02英雄升级/sj_5
+  rotate: true
+  xy: 191, 3
+  size: 207, 220
+  orig: 229, 254
+  offset: 16, 11
+  index: -1
+02英雄升级/sj_6
+  rotate: false
+  xy: 2, 438
+  size: 205, 225
+  orig: 229, 254
+  offset: 16, 11
+  index: -1
+02英雄升级/sj_7
+  rotate: false
+  xy: 2, 212
+  size: 204, 224
+  orig: 229, 254
+  offset: 16, 12
+  index: -1
+02英雄升级/sj_8
+  rotate: false
+  xy: 208, 213
+  size: 204, 223
+  orig: 229, 254
+  offset: 16, 12
+  index: -1
+02英雄升级/sj_9
+  rotate: false
+  xy: 209, 441
+  size: 203, 222
+  orig: 229, 254
+  offset: 16, 12
+  index: -1

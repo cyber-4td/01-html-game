@@ -1,0 +1,146 @@
+
+ry.png
+size: 1118,1062
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as_0
+  rotate: true
+  xy: 724, 787
+  size: 94, 279
+  orig: 240, 540
+  offset: 88, 24
+  index: -1
+as_10
+  rotate: true
+  xy: 207, 660
+  size: 195, 515
+  orig: 240, 540
+  offset: 23, 0
+  index: -1
+as_11
+  rotate: false
+  xy: 207, 146
+  size: 192, 512
+  orig: 240, 540
+  offset: 25, 0
+  index: -1
+as_12
+  rotate: false
+  xy: 584, 157
+  size: 190, 501
+  orig: 240, 540
+  offset: 27, 5
+  index: -1
+as_14
+  rotate: false
+  xy: 955, 361
+  size: 161, 424
+  orig: 240, 540
+  offset: 36, 29
+  index: -1
+as_2
+  rotate: true
+  xy: 724, 883
+  size: 177, 360
+  orig: 240, 540
+  offset: 27, 21
+  index: -1
+as_3
+  rotate: false
+  xy: 776, 236
+  size: 177, 428
+  orig: 240, 540
+  offset: 27, 12
+  index: -1
+as_4
+  rotate: false
+  xy: 401, 147
+  size: 181, 511
+  orig: 240, 540
+  offset: 27, 4
+  index: -1
+as_6
+  rotate: false
+  xy: 2, 545
+  size: 203, 515
+  orig: 240, 540
+  offset: 19, 0
+  index: -1
+as_7
+  rotate: false
+  xy: 2, 28
+  size: 203, 515
+  orig: 240, 540
+  offset: 19, 0
+  index: -1
+as_8
+  rotate: true
+  xy: 207, 857
+  size: 203, 515
+  orig: 240, 540
+  offset: 19, 0
+  index: -1
+touxin_0
+  rotate: true
+  xy: 1005, 810
+  size: 71, 77
+  orig: 180, 180
+  offset: 45, 58
+  index: -1
+touxin_10
+  rotate: true
+  xy: 951, 63
+  size: 145, 147
+  orig: 180, 180
+  offset: 16, 14
+  index: -1
+touxin_11
+  rotate: true
+  xy: 724, 666
+  size: 119, 133
+  orig: 180, 180
+  offset: 29, 25
+  index: -1
+touxin_2
+  rotate: true
+  xy: 207, 4
+  size: 140, 144
+  orig: 180, 180
+  offset: 18, 13
+  index: -1
+touxin_3
+  rotate: true
+  xy: 353, 4
+  size: 140, 144
+  orig: 180, 180
+  offset: 18, 13
+  index: -1
+touxin_4
+  rotate: true
+  xy: 499, 2
+  size: 143, 146
+  orig: 180, 180
+  offset: 17, 13
+  index: -1
+touxin_6
+  rotate: true
+  xy: 799, 86
+  size: 148, 150
+  orig: 180, 180
+  offset: 14, 11
+  index: -1
+touxin_7
+  rotate: true
+  xy: 955, 210
+  size: 149, 153
+  orig: 180, 180
+  offset: 14, 10
+  index: -1
+touxin_8
+  rotate: false
+  xy: 647, 2
+  size: 150, 153
+  orig: 180, 180
+  offset: 13, 10
+  index: -1

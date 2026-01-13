@@ -1,0 +1,132 @@
+
+guard_flail.png
+size: 907,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: false
+  xy: 509, 25
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+YouDabi
+  rotate: true
+  xy: 1, 1
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 872, 68
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+Youjianbang
+  rotate: false
+  xy: 53, 1
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 716, 22
+  size: 28, 27
+  orig: 30, 29
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: false
+  xy: 716, 49
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 690, 23
+  size: 26, 31
+  orig: 28, 33
+  offset: 1, 1
+  index: -1
+ZuoShou
+  rotate: false
+  xy: 872, 41
+  size: 26, 27
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 872, 17
+  size: 27, 24
+  orig: 29, 26
+  offset: 1, 1
+  index: -1
+Zuojianbang
+  rotate: true
+  xy: 27, 1
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: false
+  xy: 653, 5
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+ll_0
+  rotate: true
+  xy: 768, 95
+  size: 149, 139
+  orig: 320, 320
+  offset: 0, 146
+  index: -1
+ll_1
+  rotate: false
+  xy: 509, 87
+  size: 259, 157
+  orig: 320, 320
+  offset: 0, 143
+  index: -1
+ll_2
+  rotate: false
+  xy: 1, 25
+  size: 299, 219
+  orig: 320, 320
+  offset: 0, 69
+  index: -1
+ll_3
+  rotate: false
+  xy: 300, 24
+  size: 209, 220
+  orig: 320, 320
+  offset: 91, 79
+  index: -1
+tou
+  rotate: false
+  xy: 768, 2
+  size: 104, 93
+  orig: 106, 95
+  offset: 1, 1
+  index: -1
+wuqi1
+  rotate: false
+  xy: 630, 18
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 576, 12
+  size: 54, 56
+  orig: 56, 58
+  offset: 1, 1
+  index: -1

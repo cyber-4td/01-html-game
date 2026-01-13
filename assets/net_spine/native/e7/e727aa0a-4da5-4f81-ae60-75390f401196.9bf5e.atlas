@@ -1,0 +1,90 @@
+
+shooter_cannoneer.png
+size: 108,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer39
+  rotate: 270
+  xy: 71, 1
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Layer46
+  rotate: false
+  xy: 35, 1
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 1, 127
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 1, 197
+  size: 103, 136
+  orig: 103, 136
+  offset: 0, 0
+  index: -1
+YouDabi
+  rotate: false
+  xy: 1, 10
+  size: 34, 28
+  orig: 36, 30
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 83, 191
+  size: 24, 25
+  orig: 26, 27
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 40, 35
+  size: 32, 31
+  orig: 34, 33
+  offset: 1, 1
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 72, 35
+  size: 32, 31
+  orig: 34, 33
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: true
+  xy: 1, 38
+  size: 38, 39
+  orig: 40, 41
+  offset: 1, 1
+  index: -1
+Zuoshouzhi
+  rotate: false
+  xy: 1, 303
+  size: 23, 30
+  orig: 25, 32
+  offset: 1, 1
+  index: -1
+beibao
+  rotate: true
+  xy: 1, 76
+  size: 51, 65
+  orig: 53, 67
+  offset: 1, 1
+  index: -1
+zhayao
+  rotate: false
+  xy: 66, 66
+  size: 39, 61
+  orig: 41, 63
+  offset: 1, 1
+  index: -1

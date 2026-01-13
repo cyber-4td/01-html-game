@@ -1,0 +1,83 @@
+
+shooter_archer.png
+size: 221,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 151, 95
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 1, 60
+  size: 105, 101
+  orig: 107, 103
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 196, 4
+  size: 24, 25
+  orig: 26, 27
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: true
+  xy: 127, 2
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Zuogebo
+  rotate: false
+  xy: 1, 4
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 38, 7
+  size: 22, 30
+  orig: 24, 32
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: true
+  xy: 86, 6
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 106, 83
+  size: 45, 78
+  orig: 47, 80
+  offset: 1, 1
+  index: -1
+gongxian
+  rotate: 270
+  xy: 141, 20
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 106, 45
+  size: 87, 38
+  orig: 89, 40
+  offset: 1, 1
+  index: -1
+pifeng
+  rotate: false
+  xy: 1, 29
+  size: 85, 31
+  orig: 87, 33
+  offset: 1, 1
+  index: -1

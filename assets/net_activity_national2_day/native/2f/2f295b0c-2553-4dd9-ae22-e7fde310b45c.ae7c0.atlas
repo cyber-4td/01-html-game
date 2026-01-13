@@ -1,0 +1,27 @@
+
+chuXue-tanBao.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_0
+  rotate: false
+  xy: 244, 162
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+tanBao-BG
+  rotate: false
+  xy: 2, 244
+  size: 600, 1440
+  orig: 600, 1440
+  offset: 0, 0
+  index: -1
+xue_0
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+redDP-light-maleLeg.png
+size: 408,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_datui
+  rotate: true
+  xy: 365, 449
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Q_dayi
+  rotate: false
+  xy: 2, 377
+  size: 159, 133
+  orig: 159, 133
+  offset: 0, 0
+  index: -1
+Q_jz
+  rotate: true
+  xy: 104, 304
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+Q_qianbi
+  rotate: false
+  xy: 2, 14
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Q_shou
+  rotate: false
+  xy: 365, 298
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Q_shoul
+  rotate: true
+  xy: 365, 389
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+Q_xieshe
+  rotate: true
+  xy: 365, 338
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Q_xiezishit
+  rotate: true
+  xy: 104, 234
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+Q_xuezi
+  rotate: true
+  xy: 104, 251
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+effect/jt_0
+  rotate: true
+  xy: 163, 410
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_1
+  rotate: true
+  xy: 163, 308
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_2
+  rotate: false
+  xy: 2, 175
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_3
+  rotate: true
+  xy: 156, 206
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_4
+  rotate: false
+  xy: 104, 4
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_5
+  rotate: true
+  xy: 206, 104
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_6
+  rotate: true
+  xy: 206, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/star_8
+  rotate: false
+  xy: 2, 73
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

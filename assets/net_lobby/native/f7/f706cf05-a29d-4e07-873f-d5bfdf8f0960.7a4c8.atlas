@@ -1,0 +1,265 @@
+
+stageOn-fire.png
+size: 1999,1508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 575
+  size: 513, 931
+  orig: 513, 931
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 1655, 348
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: false
+  xy: 1172, 141
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guanghuan2
+  rotate: false
+  xy: 1367, 56
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: false
+  xy: 1540, 606
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 1172, 25
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+huo0
+  rotate: false
+  xy: 517, 629
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: true
+  xy: 1901, 908
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: false
+  xy: 1302, 177
+  size: 23, 92
+  orig: 23, 92
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: true
+  xy: 1540, 914
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+huo4
+  rotate: false
+  xy: 575, 39
+  size: 420, 207
+  orig: 420, 207
+  offset: 0, 0
+  index: -1
+huo5
+  rotate: false
+  xy: 517, 708
+  size: 438, 194
+  orig: 438, 194
+  offset: 0, 0
+  index: -1
+huo6
+  rotate: true
+  xy: 1625, 224
+  size: 88, 28
+  orig: 88, 28
+  offset: 0, 0
+  index: -1
+huo7
+  rotate: true
+  xy: 1625, 173
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+huo8
+  rotate: false
+  xy: 1901, 869
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+quan1
+  rotate: false
+  xy: 957, 759
+  size: 144, 143
+  orig: 144, 143
+  offset: 0, 0
+  index: -1
+quan10
+  rotate: false
+  xy: 1121, 1018
+  size: 489, 488
+  orig: 489, 488
+  offset: 0, 0
+  index: -1
+quan11
+  rotate: false
+  xy: 1121, 603
+  size: 417, 413
+  orig: 417, 413
+  offset: 0, 0
+  index: -1
+quan12
+  rotate: false
+  xy: 575, 248
+  size: 458, 458
+  orig: 458, 458
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: true
+  xy: 997, 70
+  size: 176, 173
+  orig: 176, 173
+  offset: 0, 0
+  index: -1
+quan3
+  rotate: false
+  xy: 1798, 666
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+quan5
+  rotate: false
+  xy: 1612, 1152
+  size: 354, 354
+  orig: 354, 354
+  offset: 0, 0
+  index: -1
+quan6
+  rotate: true
+  xy: 1367, 314
+  size: 287, 286
+  orig: 287, 286
+  offset: 0, 0
+  index: -1
+quan7
+  rotate: false
+  xy: 1655, 93
+  size: 254, 253
+  orig: 254, 253
+  offset: 0, 0
+  index: -1
+quan8
+  rotate: false
+  xy: 1612, 864
+  size: 287, 286
+  orig: 287, 286
+  offset: 0, 0
+  index: -1
+quan9
+  rotate: false
+  xy: 1035, 271
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+w4
+  rotate: true
+  xy: 1901, 1009
+  size: 141, 95
+  orig: 141, 95
+  offset: 0, 0
+  index: -1
+wy2
+  rotate: false
+  xy: 1540, 880
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+x13
+  rotate: false
+  xy: 517, 904
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+x14
+  rotate: false
+  xy: 2, 2
+  size: 571, 571
+  orig: 571, 571
+  offset: 0, 0
+  index: -1
+x3
+  rotate: true
+  xy: 567, 601
+  size: 105, 6
+  orig: 105, 6
+  offset: 0, 0
+  index: -1
+xian13
+  rotate: true
+  xy: 1968, 1431
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+xian15
+  rotate: true
+  xy: 1798, 620
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+xian16
+  rotate: true
+  xy: 957, 714
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+xian6
+  rotate: false
+  xy: 575, 8
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+xian7
+  rotate: true
+  xy: 1103, 869
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+xian8
+  rotate: true
+  xy: 1035, 718
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1

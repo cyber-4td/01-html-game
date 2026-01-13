@@ -1,0 +1,90 @@
+
+zs.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 5 copy 3
+  rotate: true
+  xy: 66, 496
+  size: 164, 393
+  orig: 222, 478
+  offset: 29, 55
+  index: -1
+effec/tx_0
+  rotate: true
+  xy: 439, 233
+  size: 219, 438
+  orig: 239, 478
+  offset: 9, 27
+  index: -1
+effec/tx_1
+  rotate: true
+  xy: 2, 6
+  size: 225, 440
+  orig: 239, 478
+  offset: 4, 29
+  index: -1
+effec/tx_2
+  rotate: true
+  xy: 444, 2
+  size: 226, 439
+  orig: 239, 478
+  offset: 6, 35
+  index: -1
+effec/tx_3
+  rotate: false
+  xy: 1756, 224
+  size: 226, 436
+  orig: 239, 478
+  offset: 5, 39
+  index: -1
+effec/tx_4
+  rotate: true
+  xy: 879, 230
+  size: 219, 436
+  orig: 239, 478
+  offset: 10, 41
+  index: -1
+effec/tx_5
+  rotate: true
+  xy: 1317, 226
+  size: 221, 437
+  orig: 239, 478
+  offset: 10, 41
+  index: -1
+effec/tx_6
+  rotate: true
+  xy: 2, 282
+  size: 212, 435
+  orig: 239, 478
+  offset: 15, 39
+  index: -1
+effec/tx_7
+  rotate: true
+  xy: 461, 454
+  size: 206, 425
+  orig: 239, 478
+  offset: 18, 42
+  index: -1
+effec/tx_8
+  rotate: true
+  xy: 888, 451
+  size: 209, 428
+  orig: 239, 478
+  offset: 15, 35
+  index: -1
+effec/tx_9
+  rotate: true
+  xy: 1318, 449
+  size: 211, 432
+  orig: 239, 478
+  offset: 12, 30
+  index: -1
+effec/xuehua_0
+  rotate: false
+  xy: 2, 600
+  size: 62, 60
+  orig: 100, 100
+  offset: 17, 21
+  index: -1

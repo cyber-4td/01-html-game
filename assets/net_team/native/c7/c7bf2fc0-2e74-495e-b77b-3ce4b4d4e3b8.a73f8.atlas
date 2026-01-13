@@ -1,0 +1,90 @@
+
+chengjiu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 13
+  size: 222, 26
+  orig: 247, 75
+  offset: 16, 23
+  index: -1
+1
+  rotate: false
+  xy: 232, 10
+  size: 224, 31
+  orig: 247, 75
+  offset: 15, 21
+  index: -1
+10
+  rotate: false
+  xy: 458, 2
+  size: 221, 36
+  orig: 247, 75
+  offset: 16, 18
+  index: -1
+11
+  rotate: false
+  xy: 458, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 232, 43
+  size: 226, 34
+  orig: 247, 75
+  offset: 14, 19
+  index: -1
+3
+  rotate: false
+  xy: 2, 41
+  size: 228, 36
+  orig: 247, 75
+  offset: 13, 18
+  index: -1
+4
+  rotate: false
+  xy: 461, 80
+  size: 229, 39
+  orig: 247, 75
+  offset: 13, 17
+  index: -1
+5
+  rotate: false
+  xy: 2, 79
+  size: 228, 40
+  orig: 247, 75
+  offset: 13, 16
+  index: -1
+6
+  rotate: false
+  xy: 232, 79
+  size: 227, 40
+  orig: 247, 75
+  offset: 13, 16
+  index: -1
+7
+  rotate: false
+  xy: 692, 80
+  size: 226, 39
+  orig: 247, 75
+  offset: 14, 17
+  index: -1
+8
+  rotate: false
+  xy: 461, 40
+  size: 225, 38
+  orig: 247, 75
+  offset: 15, 17
+  index: -1
+9
+  rotate: false
+  xy: 688, 40
+  size: 224, 38
+  orig: 247, 75
+  offset: 15, 17
+  index: -1

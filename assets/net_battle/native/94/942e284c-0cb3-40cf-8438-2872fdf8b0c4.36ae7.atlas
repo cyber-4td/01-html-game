@@ -1,0 +1,125 @@
+
+xiangzi.png
+size: 2028,783
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+close
+  rotate: false
+  xy: 456, 17
+  size: 199, 253
+  orig: 201, 254
+  offset: 1, 0
+  index: -1
+close2
+  rotate: false
+  xy: 862, 3
+  size: 416, 352
+  orig: 416, 352
+  offset: 0, 0
+  index: -1
+close4
+  rotate: true
+  xy: 1263, 374
+  size: 407, 335
+  orig: 407, 335
+  offset: 0, 0
+  index: -1
+close5
+  rotate: false
+  xy: 1908, 201
+  size: 118, 180
+  orig: 118, 180
+  offset: 0, 0
+  index: -1
+hg
+  rotate: true
+  xy: 2, 142
+  size: 639, 197
+  orig: 639, 198
+  offset: 0, 1
+  index: -1
+hg2
+  rotate: false
+  xy: 2, 3
+  size: 225, 137
+  orig: 232, 141
+  offset: 4, 2
+  index: -1
+kai1
+  rotate: true
+  xy: 229, 2
+  size: 268, 225
+  orig: 269, 226
+  offset: 0, 0
+  index: -1
+kai2
+  rotate: true
+  xy: 1600, 383
+  size: 398, 335
+  orig: 398, 335
+  offset: 0, 0
+  index: -1
+kai3
+  rotate: true
+  xy: 895, 374
+  size: 407, 366
+  orig: 407, 366
+  offset: 0, 0
+  index: -1
+quanjin/c_34
+  rotate: true
+  xy: 699, 357
+  size: 424, 194
+  orig: 474, 217
+  offset: 12, 13
+  index: -1
+quanjin/diguan_34
+  rotate: false
+  xy: 201, 272
+  size: 496, 509
+  orig: 553, 553
+  offset: 25, 28
+  index: -1
+quanjin/lizi_34
+  rotate: true
+  xy: 699, 274
+  size: 81, 78
+  orig: 128, 128
+  offset: 24, 25
+  index: -1
+quanjin/quan_34
+  rotate: false
+  xy: 1280, 31
+  size: 341, 341
+  orig: 377, 377
+  offset: 13, 22
+  index: -1
+quanjin/szj_34
+  rotate: true
+  xy: 1623, 4
+  size: 377, 283
+  orig: 377, 377
+  offset: 0, 45
+  index: -1
+quanjin/xg_0
+  rotate: false
+  xy: 657, 67
+  size: 203, 203
+  orig: 255, 255
+  offset: 28, 25
+  index: -1
+quanjin/xian_34
+  rotate: false
+  xy: 1937, 602
+  size: 71, 179
+  orig: 101, 180
+  offset: 15, 0
+  index: -1
+sz/bg_0
+  rotate: true
+  xy: 1908, 89
+  size: 110, 113
+  orig: 128, 128
+  offset: 9, 7
+  index: -1

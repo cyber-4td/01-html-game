@@ -1,0 +1,83 @@
+
+cx.png
+size: 1765,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/0
+  rotate: false
+  xy: 378, 2
+  size: 280, 216
+  orig: 374, 503
+  offset: 45, 25
+  index: -1
+image/10
+  rotate: true
+  xy: 660, 9
+  size: 217, 457
+  orig: 374, 503
+  offset: 77, 41
+  index: -1
+image/11
+  rotate: true
+  xy: 2, 119
+  size: 86, 374
+  orig: 374, 503
+  offset: 149, 126
+  index: -1
+image/12
+  rotate: true
+  xy: 2, 39
+  size: 78, 365
+  orig: 374, 503
+  offset: 154, 135
+  index: -1
+image/14
+  rotate: true
+  xy: 1119, 36
+  size: 52, 349
+  orig: 374, 503
+  offset: 169, 150
+  index: -1
+image/2
+  rotate: false
+  xy: 963, 236
+  size: 331, 429
+  orig: 374, 503
+  offset: 18, 11
+  index: -1
+image/3
+  rotate: false
+  xy: 634, 228
+  size: 327, 437
+  orig: 374, 503
+  offset: 20, 13
+  index: -1
+image/4
+  rotate: false
+  xy: 312, 220
+  size: 320, 445
+  orig: 374, 503
+  offset: 24, 14
+  index: -1
+image/6
+  rotate: false
+  xy: 2, 207
+  size: 308, 458
+  orig: 374, 503
+  offset: 30, 18
+  index: -1
+image/7
+  rotate: true
+  xy: 1296, 372
+  size: 293, 463
+  orig: 374, 503
+  offset: 38, 21
+  index: -1
+image/8
+  rotate: true
+  xy: 1296, 90
+  size: 280, 467
+  orig: 374, 503
+  offset: 45, 25
+  index: -1

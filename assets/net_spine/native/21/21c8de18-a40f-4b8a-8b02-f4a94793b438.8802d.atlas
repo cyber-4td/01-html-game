@@ -1,0 +1,174 @@
+
+troll_fire.png
+size: 1560,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Datuil
+  rotate: false
+  xy: 1260, 2
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 970, 19
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 970, 109
+  size: 166, 134
+  orig: 166, 134
+  offset: 0, 0
+  index: -1
+Zuojianjia
+  rotate: false
+  xy: 1435, 160
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 1102, 2
+  size: 92, 52
+  orig: 92, 52
+  offset: 0, 0
+  index: -1
+dabiL
+  rotate: false
+  xy: 1435, 75
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+dabiR
+  rotate: false
+  xy: 1138, 117
+  size: 163, 126
+  orig: 163, 126
+  offset: 0, 0
+  index: -1
+datuiR
+  rotate: false
+  xy: 1388, 50
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+effect/dg_0
+  rotate: false
+  xy: 244, 3
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/dg_1
+  rotate: false
+  xy: 486, 3
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/dg_2
+  rotate: false
+  xy: 728, 3
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/dg_3
+  rotate: false
+  xy: 2, 3
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: false
+  xy: 1524, 68
+  size: 34, 90
+  orig: 34, 90
+  offset: 0, 0
+  index: -1
+jiaoL
+  rotate: false
+  xy: 1368, 23
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+jiaoR
+  rotate: false
+  xy: 1388, 94
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 1102, 68
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: false
+  xy: 1138, 56
+  size: 126, 59
+  orig: 126, 59
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1303, 121
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+shouL
+  rotate: true
+  xy: 1266, 51
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 1308, 61
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+tuiR
+  rotate: true
+  xy: 1196, 4
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+xiaobiL
+  rotate: false
+  xy: 1502, 16
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+xiaobiR
+  rotate: false
+  xy: 1308, 11
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+xiaotuil
+  rotate: false
+  xy: 1433, 7
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1

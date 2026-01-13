@@ -1,0 +1,20 @@
+
+fuBen-xunLianChang.png
+size: 612,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_1
+  rotate: true
+  xy: 554, 207
+  size: 146, 54
+  orig: 146, 54
+  offset: 0, 0
+  index: -1
+xunLianChang
+  rotate: false
+  xy: 5, 5
+  size: 545, 348
+  orig: 545, 348
+  offset: 0, 0
+  index: -1

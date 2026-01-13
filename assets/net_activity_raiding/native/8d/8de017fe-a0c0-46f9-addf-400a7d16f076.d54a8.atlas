@@ -1,0 +1,111 @@
+
+dajiang.png
+size: 1001,705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_0
+  rotate: true
+  xy: 2, 429
+  size: 274, 281
+  orig: 320, 320
+  offset: 21, 22
+  index: -1
+tiao_0
+  rotate: false
+  xy: 227, 268
+  size: 44, 159
+  orig: 62, 184
+  offset: 8, 7
+  index: -1
+yanhua_0
+  rotate: true
+  xy: 851, 3
+  size: 79, 84
+  orig: 246, 225
+  offset: 73, 95
+  index: -1
+yanhua_11
+  rotate: false
+  xy: 510, 234
+  size: 246, 222
+  orig: 246, 225
+  offset: 0, 0
+  index: -1
+yanhua_12
+  rotate: true
+  xy: 285, 235
+  size: 243, 223
+  orig: 246, 225
+  offset: 2, 0
+  index: -1
+yanhua_14
+  rotate: false
+  xy: 227, 11
+  size: 243, 222
+  orig: 246, 225
+  offset: 0, 0
+  index: -1
+yanhua_15
+  rotate: false
+  xy: 285, 480
+  size: 246, 223
+  orig: 246, 225
+  offset: 0, 0
+  index: -1
+yanhua_17
+  rotate: true
+  xy: 533, 458
+  size: 245, 225
+  orig: 246, 225
+  offset: 1, 0
+  index: -1
+yanhua_18
+  rotate: false
+  xy: 760, 487
+  size: 239, 216
+  orig: 246, 225
+  offset: 7, 4
+  index: -1
+yanhua_2
+  rotate: true
+  xy: 851, 84
+  size: 131, 129
+  orig: 246, 225
+  offset: 43, 75
+  index: -1
+yanhua_3
+  rotate: false
+  xy: 690, 58
+  size: 159, 157
+  orig: 246, 225
+  offset: 28, 61
+  index: -1
+yanhua_5
+  rotate: false
+  xy: 2, 2
+  size: 206, 189
+  orig: 246, 225
+  offset: 4, 33
+  index: -1
+yanhua_6
+  rotate: false
+  xy: 472, 29
+  size: 216, 203
+  orig: 246, 225
+  offset: 4, 20
+  index: -1
+yanhua_8
+  rotate: true
+  xy: 2, 193
+  size: 234, 223
+  orig: 246, 225
+  offset: 1, 0
+  index: -1
+yanhua_9
+  rotate: true
+  xy: 758, 217
+  size: 239, 222
+  orig: 246, 225
+  offset: 1, 0
+  index: -1

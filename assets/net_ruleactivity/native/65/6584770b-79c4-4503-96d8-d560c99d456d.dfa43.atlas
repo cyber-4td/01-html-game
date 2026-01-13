@@ -1,0 +1,34 @@
+
+renwu.png
+size: 393,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 275, 2
+  size: 480, 116
+  orig: 482, 118
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 63
+  size: 257, 255
+  orig: 259, 261
+  offset: 1, 3
+  index: -1
+guang_0
+  rotate: false
+  xy: 47, 320
+  size: 226, 162
+  orig: 286, 218
+  offset: 18, 31
+  index: -1
+star_0
+  rotate: false
+  xy: 2, 439
+  size: 43, 43
+  orig: 80, 80
+  offset: 19, 18
+  index: -1

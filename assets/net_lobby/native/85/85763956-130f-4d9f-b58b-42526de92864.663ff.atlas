@@ -1,0 +1,146 @@
+
+paob.png
+size: 549,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-paodi
+  rotate: true
+  xy: 255, 54
+  size: 116, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+1-paodizuo1
+  rotate: false
+  xy: 385, 186
+  size: 151, 123
+  orig: 151, 123
+  offset: 0, 0
+  index: -1
+1-paodizuo2
+  rotate: false
+  xy: 2, 435
+  size: 250, 126
+  orig: 250, 126
+  offset: 0, 0
+  index: -1
+1-paokou
+  rotate: false
+  xy: 408, 26
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+1-paotong
+  rotate: true
+  xy: 408, 89
+  size: 95, 113
+  orig: 95, 113
+  offset: 0, 0
+  index: -1
+2-paodi
+  rotate: true
+  xy: 178, 46
+  size: 124, 75
+  orig: 124, 75
+  offset: 0, 0
+  index: -1
+2-paodizuo1
+  rotate: false
+  xy: 387, 311
+  size: 152, 121
+  orig: 152, 121
+  offset: 0, 0
+  index: -1
+2-paodizuo2
+  rotate: false
+  xy: 2, 308
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+2-paokou
+  rotate: true
+  xy: 332, 56
+  size: 114, 74
+  orig: 114, 74
+  offset: 0, 0
+  index: -1
+2-paotong
+  rotate: false
+  xy: 443, 928
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+3-paodi
+  rotate: false
+  xy: 254, 290
+  size: 129, 119
+  orig: 129, 119
+  offset: 0, 0
+  index: -1
+3-paodizuo1
+  rotate: true
+  xy: 254, 411
+  size: 150, 131
+  orig: 150, 131
+  offset: 0, 0
+  index: -1
+3-paodizuo2
+  rotate: true
+  xy: 388, 434
+  size: 250, 152
+  orig: 250, 152
+  offset: 0, 0
+  index: -1
+3-paokou
+  rotate: true
+  xy: 225, 172
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+3-paotong
+  rotate: false
+  xy: 443, 686
+  size: 102, 111
+  orig: 102, 111
+  offset: 0, 0
+  index: -1
+chengbao
+  rotate: false
+  xy: 2, 745
+  size: 439, 305
+  orig: 439, 305
+  offset: 0, 0
+  index: -1
+chengbao1
+  rotate: false
+  xy: 443, 799
+  size: 103, 127
+  orig: 103, 127
+  offset: 0, 0
+  index: -1
+paodizuo copy
+  rotate: false
+  xy: 2, 186
+  size: 221, 120
+  orig: 221, 120
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 2, 2
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+ying
+  rotate: false
+  xy: 2, 563
+  size: 384, 180
+  orig: 384, 180
+  offset: 0, 0
+  index: -1

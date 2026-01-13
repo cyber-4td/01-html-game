@@ -1,0 +1,41 @@
+
+yazi.png
+size: 120,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TOU
+  rotate: true
+  xy: 76, 23
+  size: 46, 33
+  orig: 48, 35
+  offset: 1, 1
+  index: -1
+TuiL
+  rotate: false
+  xy: 76, 6
+  size: 19, 13
+  orig: 21, 15
+  offset: 1, 1
+  index: -1
+TuiR
+  rotate: false
+  xy: 99, 7
+  size: 17, 12
+  orig: 19, 14
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 5, 33
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 5, 6
+  size: 67, 23
+  orig: 69, 25
+  offset: 1, 1
+  index: -1

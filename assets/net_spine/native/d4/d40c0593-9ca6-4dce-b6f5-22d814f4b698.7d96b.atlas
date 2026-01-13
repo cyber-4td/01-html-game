@@ -1,0 +1,20 @@
+
+xg.png
+size: 333,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq
+  rotate: false
+  xy: 2, 2
+  size: 280, 280
+  orig: 288, 288
+  offset: 4, 4
+  index: -1
+lizi_0
+  rotate: false
+  xy: 284, 234
+  size: 47, 48
+  orig: 80, 80
+  offset: 16, 18
+  index: -1

@@ -1,0 +1,97 @@
+
+orc_shield_spiked.png
+size: 343,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: false
+  xy: 2, 2
+  size: 100, 126
+  orig: 102, 128
+  offset: 1, 1
+  index: -1
+erduo
+  rotate: false
+  xy: 217, 70
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 104, 10
+  size: 111, 118
+  orig: 113, 120
+  offset: 1, 1
+  index: -1
+jianjia
+  rotate: false
+  xy: 279, 72
+  size: 59, 56
+  orig: 61, 59
+  offset: 1, 2
+  index: -1
+kuzi
+  rotate: true
+  xy: 126, 171
+  size: 89, 46
+  orig: 89, 48
+  offset: 0, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 130
+  size: 130, 122
+  orig: 132, 122
+  offset: 1, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 126, 131
+  size: 52, 38
+  orig: 52, 40
+  offset: 0, 1
+  index: -1
+youshou1
+  rotate: true
+  xy: 260, 130
+  size: 69, 80
+  orig: 71, 82
+  offset: 1, 1
+  index: -1
+youshou2
+  rotate: true
+  xy: 174, 175
+  size: 85, 84
+  orig: 87, 86
+  offset: 1, 1
+  index: -1
+youshou3
+  rotate: true
+  xy: 217, 16
+  size: 52, 58
+  orig: 54, 61
+  offset: 1, 1
+  index: -1
+zuojiao
+  rotate: false
+  xy: 180, 132
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 279, 14
+  size: 56, 59
+  orig: 60, 61
+  offset: 1, 1
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 260, 201
+  size: 59, 81
+  orig: 61, 83
+  offset: 1, 1
+  index: -1

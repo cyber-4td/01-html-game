@@ -1,0 +1,55 @@
+
+orange-fire-femaleLeg.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq_dabi
+  rotate: false
+  xy: 108, 2
+  size: 27, 56
+  orig: 29, 58
+  offset: 1, 1
+  index: -1
+gq_datui
+  rotate: true
+  xy: 74, 2
+  size: 56, 32
+  orig: 58, 34
+  offset: 1, 1
+  index: -1
+gq_jianjia
+  rotate: true
+  xy: 74, 60
+  size: 48, 64
+  orig: 52, 66
+  offset: 1, 1
+  index: -1
+gq_qunbai
+  rotate: false
+  xy: 2, 43
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+gq_shou
+  rotate: true
+  xy: 137, 11
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+gq_xiaobi
+  rotate: false
+  xy: 2, 6
+  size: 49, 35
+  orig: 51, 37
+  offset: 1, 1
+  index: -1
+gq_xiaotui
+  rotate: false
+  xy: 140, 44
+  size: 37, 64
+  orig: 39, 66
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,209 @@
+
+orange-light-femaleLeg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu-1
+  rotate: false
+  xy: 119, 470
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+bu-2
+  rotate: false
+  xy: 2, 476
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dabi1
+  rotate: true
+  xy: 70, 471
+  size: 25, 47
+  orig: 27, 49
+  offset: 1, 1
+  index: -1
+effect/effe_0
+  rotate: false
+  xy: 125, 279
+  size: 122, 63
+  orig: 164, 94
+  offset: 26, 9
+  index: -1
+effect/effe_1
+  rotate: false
+  xy: 2, 139
+  size: 122, 71
+  orig: 164, 94
+  offset: 26, 10
+  index: -1
+effect/effe_10
+  rotate: false
+  xy: 126, 189
+  size: 122, 66
+  orig: 164, 94
+  offset: 26, 13
+  index: -1
+effect/effe_11
+  rotate: false
+  xy: 374, 256
+  size: 122, 64
+  orig: 164, 94
+  offset: 26, 13
+  index: -1
+effect/effe_12
+  rotate: false
+  xy: 250, 322
+  size: 122, 60
+  orig: 164, 94
+  offset: 26, 14
+  index: -1
+effect/effe_13
+  rotate: false
+  xy: 347, 384
+  size: 122, 57
+  orig: 164, 94
+  offset: 26, 15
+  index: -1
+effect/effe_14
+  rotate: false
+  xy: 126, 405
+  size: 122, 55
+  orig: 164, 94
+  offset: 26, 16
+  index: -1
+effect/effe_15
+  rotate: false
+  xy: 2, 414
+  size: 122, 54
+  orig: 164, 94
+  offset: 26, 17
+  index: -1
+effect/effe_16
+  rotate: false
+  xy: 352, 443
+  size: 122, 53
+  orig: 164, 94
+  offset: 26, 17
+  index: -1
+effect/effe_17
+  rotate: false
+  xy: 2, 354
+  size: 121, 58
+  orig: 164, 94
+  offset: 27, 12
+  index: -1
+effect/effe_18
+  rotate: false
+  xy: 374, 322
+  size: 122, 60
+  orig: 164, 94
+  offset: 26, 9
+  index: -1
+effect/effe_19
+  rotate: false
+  xy: 125, 344
+  size: 123, 59
+  orig: 164, 94
+  offset: 26, 9
+  index: -1
+effect/effe_2
+  rotate: false
+  xy: 374, 109
+  size: 122, 73
+  orig: 164, 94
+  offset: 26, 11
+  index: -1
+effect/effe_3
+  rotate: false
+  xy: 126, 115
+  size: 122, 72
+  orig: 164, 94
+  offset: 26, 12
+  index: -1
+effect/effe_4
+  rotate: false
+  xy: 250, 114
+  size: 122, 72
+  orig: 164, 94
+  offset: 26, 13
+  index: -1
+effect/effe_5
+  rotate: false
+  xy: 374, 184
+  size: 122, 70
+  orig: 164, 94
+  offset: 26, 15
+  index: -1
+effect/effe_6
+  rotate: false
+  xy: 250, 188
+  size: 122, 67
+  orig: 164, 94
+  offset: 26, 17
+  index: -1
+effect/effe_7
+  rotate: false
+  xy: 249, 257
+  size: 123, 63
+  orig: 164, 94
+  offset: 26, 20
+  index: -1
+effect/effe_8
+  rotate: false
+  xy: 2, 212
+  size: 122, 65
+  orig: 164, 94
+  offset: 26, 17
+  index: -1
+effect/effe_9
+  rotate: false
+  xy: 2, 286
+  size: 121, 66
+  orig: 164, 94
+  offset: 27, 14
+  index: -1
+jianjia1
+  rotate: false
+  xy: 32, 473
+  size: 36, 23
+  orig: 38, 25
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: true
+  xy: 171, 468
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+tui
+  rotate: true
+  xy: 299, 456
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: false
+  xy: 250, 388
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: false
+  xy: 256, 459
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 204, 462
+  size: 50, 34
+  orig: 52, 36
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,132 @@
+
+archers4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+archers_0000_lefthand
+  rotate: false
+  xy: 391, 10
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+archers_0001_arrow
+  rotate: false
+  xy: 202, 395
+  size: 210, 102
+  orig: 210, 102
+  offset: 0, 0
+  index: -1
+archers_0002_weapon
+  rotate: false
+  xy: 2, 231
+  size: 198, 266
+  orig: 198, 266
+  offset: 0, 0
+  index: -1
+archers_0003_hatdecor
+  rotate: true
+  xy: 240, 31
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+archers_0004_yiling
+  rotate: false
+  xy: 320, 62
+  size: 158, 62
+  orig: 158, 62
+  offset: 0, 0
+  index: -1
+archers_0005_daizi
+  rotate: true
+  xy: 74, 25
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+archers_0005_hair1
+  rotate: false
+  xy: 414, 403
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+archers_0006_hat
+  rotate: false
+  xy: 2, 73
+  size: 236, 156
+  orig: 236, 156
+  offset: 0, 0
+  index: -1
+archers_0007_hair1
+  rotate: false
+  xy: 202, 233
+  size: 116, 40
+  orig: 116, 40
+  offset: 0, 0
+  index: -1
+archers_0007_hair2
+  rotate: true
+  xy: 311, 2
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+archers_0009_face
+  rotate: true
+  xy: 240, 120
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+archers_0011_hair2
+  rotate: true
+  xy: 410, 291
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+archers_0012_body
+  rotate: true
+  xy: 404, 149
+  size: 124, 92
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+archers_0013_righthand
+  rotate: false
+  xy: 2, 21
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+archers_0014_feet2
+  rotate: false
+  xy: 154, 30
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+archers_0015_feet1
+  rotate: true
+  xy: 472, 448
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+archers_0016_jiantong
+  rotate: true
+  xy: 320, 126
+  size: 147, 82
+  orig: 147, 82
+  offset: 0, 0
+  index: -1
+archers_0017_pifeng
+  rotate: false
+  xy: 202, 275
+  size: 206, 118
+  orig: 206, 118
+  offset: 0, 0
+  index: -1

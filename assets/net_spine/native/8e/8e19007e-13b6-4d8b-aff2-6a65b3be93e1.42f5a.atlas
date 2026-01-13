@@ -1,0 +1,90 @@
+
+wyvern.png
+size: 509,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Youchibang
+  rotate: true
+  xy: 106, 34
+  size: 130, 114
+  orig: 130, 114
+  offset: 0, 0
+  index: -1
+Youdatui
+  rotate: true
+  xy: 419, 64
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Youxiaotui
+  rotate: true
+  xy: 106, 2
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Zuochibang
+  rotate: true
+  xy: 2, 14
+  size: 150, 102
+  orig: 150, 102
+  offset: 0, 0
+  index: -1
+Zuodatui
+  rotate: true
+  xy: 465, 66
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 390, 10
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: true
+  xy: 322, 5
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 322, 63
+  size: 101, 95
+  orig: 101, 95
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: true
+  xy: 452, 9
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 222, 22
+  size: 98, 142
+  orig: 98, 142
+  offset: 0, 0
+  index: -1
+tui-L
+  rotate: true
+  xy: 156, 2
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 419, 100
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1

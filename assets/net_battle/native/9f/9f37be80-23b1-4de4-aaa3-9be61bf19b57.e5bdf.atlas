@@ -1,0 +1,41 @@
+
+shengli2.png
+size: 854,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 630, 78
+  size: 185, 124
+  orig: 185, 124
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 731, 3
+  size: 185, 124
+  orig: 185, 124
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: false
+  xy: 1, 2
+  size: 269, 259
+  orig: 270, 260
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 270, 49
+  size: 212, 212
+  orig: 213, 213
+  offset: 1, 0
+  index: -1
+guangxiao
+  rotate: true
+  xy: 482, 14
+  size: 247, 148
+  orig: 249, 150
+  offset: 1, 1
+  index: -1

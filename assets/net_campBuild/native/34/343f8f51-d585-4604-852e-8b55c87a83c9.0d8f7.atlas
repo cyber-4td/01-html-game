@@ -1,0 +1,90 @@
+
+chuanSongMen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs_0
+  rotate: false
+  xy: 2, 377
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_1
+  rotate: false
+  xy: 2, 249
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_10
+  rotate: false
+  xy: 240, 130
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_11
+  rotate: false
+  xy: 258, 2
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_2
+  rotate: false
+  xy: 2, 121
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_3
+  rotate: true
+  xy: 2, 2
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_4
+  rotate: false
+  xy: 121, 377
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_5
+  rotate: false
+  xy: 121, 249
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_6
+  rotate: false
+  xy: 121, 121
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_7
+  rotate: true
+  xy: 130, 2
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_8
+  rotate: true
+  xy: 240, 386
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1
+cs_9
+  rotate: false
+  xy: 240, 258
+  size: 117, 126
+  orig: 162, 162
+  offset: 24, 16
+  index: -1

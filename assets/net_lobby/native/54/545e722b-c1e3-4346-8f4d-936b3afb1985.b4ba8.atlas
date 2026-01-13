@@ -1,0 +1,20 @@
+
+renwutishi.png
+size: 232,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 29
+  size: 228, 75
+  orig: 228, 75
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: false
+  xy: 2, 2
+  size: 131, 25
+  orig: 131, 25
+  offset: 0, 0
+  index: -1

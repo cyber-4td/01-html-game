@@ -1,0 +1,27 @@
+
+lx_WeaponIcon_Trans.png
+size: 187,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_KuangShine_00
+  rotate: false
+  xy: 2, 2
+  size: 171, 171
+  orig: 189, 189
+  offset: 10, 9
+  index: -1
+eff_RushShine_00
+  rotate: false
+  xy: 175, 97
+  size: 10, 76
+  orig: 10, 82
+  offset: 0, 3
+  index: -1
+eff_WhitePice
+  rotate: false
+  xy: 175, 87
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

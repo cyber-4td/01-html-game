@@ -1,0 +1,391 @@
+
+s-bow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon/1
+  rotate: true
+  xy: 603, 214
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+weapon/1-L
+  rotate: false
+  xy: 719, 382
+  size: 78, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+weapon/1-R
+  rotate: false
+  xy: 706, 3
+  size: 78, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+weapon/2-L
+  rotate: false
+  xy: 192, 326
+  size: 67, 56
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+weapon/2-R
+  rotate: false
+  xy: 261, 326
+  size: 67, 56
+  orig: 67, 57
+  offset: 0, 1
+  index: -1
+weapon/3-L
+  rotate: true
+  xy: 430, 334
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+weapon/3-R
+  rotate: true
+  xy: 690, 214
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+weapon/4-L
+  rotate: false
+  xy: 22, 106
+  size: 167, 217
+  orig: 169, 217
+  offset: 0, 0
+  index: -1
+weapon/4-R
+  rotate: false
+  xy: 22, 325
+  size: 168, 218
+  orig: 168, 218
+  offset: 0, 0
+  index: -1
+weapon/5
+  rotate: true
+  xy: 150, 5
+  size: 99, 182
+  orig: 99, 182
+  offset: 0, 0
+  index: -1
+weapon/S-bowLine
+  rotate: false
+  xy: 2, 93
+  size: 18, 450
+  orig: 18, 450
+  offset: 0, 0
+  index: -1
+weapon/gongJian
+  rotate: false
+  xy: 2, 545
+  size: 210, 477
+  orig: 210, 477
+  offset: 0, 0
+  index: -1
+weapon/tx/gg_0
+  rotate: false
+  xy: 852, 914
+  size: 123, 108
+  orig: 160, 140
+  offset: 17, 9
+  index: -1
+weapon/tx/gg_1
+  rotate: true
+  xy: 644, 471
+  size: 129, 112
+  orig: 160, 140
+  offset: 12, 13
+  index: -1
+weapon/tx/gg_10
+  rotate: true
+  xy: 621, 886
+  size: 136, 113
+  orig: 160, 140
+  offset: 8, 17
+  index: -1
+weapon/tx/gg_11
+  rotate: true
+  xy: 701, 751
+  size: 133, 108
+  orig: 160, 140
+  offset: 10, 19
+  index: -1
+weapon/tx/gg_12
+  rotate: false
+  xy: 515, 336
+  size: 128, 104
+  orig: 160, 140
+  offset: 12, 21
+  index: -1
+weapon/tx/gg_13
+  rotate: true
+  xy: 663, 93
+  size: 119, 94
+  orig: 160, 140
+  offset: 17, 26
+  index: -1
+weapon/tx/gg_2
+  rotate: true
+  xy: 736, 891
+  size: 131, 114
+  orig: 160, 140
+  offset: 9, 17
+  index: -1
+weapon/tx/gg_3
+  rotate: true
+  xy: 583, 740
+  size: 138, 116
+  orig: 160, 140
+  offset: 6, 16
+  index: -1
+weapon/tx/gg_4
+  rotate: true
+  xy: 464, 734
+  size: 142, 117
+  orig: 160, 140
+  offset: 5, 15
+  index: -1
+weapon/tx/gg_5
+  rotate: true
+  xy: 298, 558
+  size: 144, 120
+  orig: 160, 140
+  offset: 4, 14
+  index: -1
+weapon/tx/gg_6
+  rotate: true
+  xy: 380, 878
+  size: 144, 120
+  orig: 160, 140
+  offset: 4, 14
+  index: -1
+weapon/tx/gg_7
+  rotate: true
+  xy: 502, 880
+  size: 142, 117
+  orig: 160, 140
+  offset: 5, 15
+  index: -1
+weapon/tx/gg_8
+  rotate: true
+  xy: 441, 442
+  size: 142, 117
+  orig: 160, 140
+  offset: 5, 15
+  index: -1
+weapon/tx/gg_9
+  rotate: true
+  xy: 504, 592
+  size: 140, 117
+  orig: 160, 140
+  offset: 6, 15
+  index: -1
+weapon/tx/gj_0
+  rotate: false
+  xy: 330, 329
+  size: 98, 64
+  orig: 215, 120
+  offset: 14, 36
+  index: -1
+weapon/tx/gj_1
+  rotate: true
+  xy: 583, 82
+  size: 121, 78
+  orig: 215, 120
+  offset: 18, 28
+  index: -1
+weapon/tx/gj_10
+  rotate: false
+  xy: 852, 841
+  size: 123, 71
+  orig: 215, 120
+  offset: 35, 23
+  index: -1
+weapon/tx/gj_11
+  rotate: true
+  xy: 76, 3
+  size: 101, 72
+  orig: 215, 120
+  offset: 39, 23
+  index: -1
+weapon/tx/gj_12
+  rotate: true
+  xy: 645, 374
+  size: 95, 72
+  orig: 215, 120
+  offset: 45, 24
+  index: -1
+weapon/tx/gj_13
+  rotate: true
+  xy: 690, 277
+  size: 95, 72
+  orig: 215, 120
+  offset: 45, 24
+  index: -1
+weapon/tx/gj_14
+  rotate: true
+  xy: 2, 2
+  size: 89, 72
+  orig: 215, 120
+  offset: 49, 24
+  index: -1
+weapon/tx/gj_2
+  rotate: false
+  xy: 583, 2
+  size: 121, 78
+  orig: 215, 120
+  offset: 18, 28
+  index: -1
+weapon/tx/gj_3
+  rotate: true
+  xy: 560, 454
+  size: 136, 82
+  orig: 215, 120
+  offset: 21, 27
+  index: -1
+weapon/tx/gj_4
+  rotate: true
+  xy: 623, 602
+  size: 136, 82
+  orig: 215, 120
+  offset: 21, 27
+  index: -1
+weapon/tx/gj_5
+  rotate: true
+  xy: 214, 555
+  size: 145, 82
+  orig: 215, 120
+  offset: 22, 25
+  index: -1
+weapon/tx/gj_6
+  rotate: true
+  xy: 380, 732
+  size: 144, 82
+  orig: 215, 120
+  offset: 25, 22
+  index: -1
+weapon/tx/gj_7
+  rotate: true
+  xy: 420, 586
+  size: 144, 82
+  orig: 215, 120
+  offset: 25, 22
+  index: -1
+weapon/tx/gj_8
+  rotate: true
+  xy: 707, 620
+  size: 129, 78
+  orig: 215, 120
+  offset: 30, 22
+  index: -1
+weapon/tx/gj_9
+  rotate: true
+  xy: 523, 205
+  size: 129, 78
+  orig: 215, 120
+  offset: 30, 22
+  index: -1
+weapon/tx/tx_0
+  rotate: false
+  xy: 192, 384
+  size: 81, 159
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_1
+  rotate: false
+  xy: 274, 165
+  size: 81, 159
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_10
+  rotate: false
+  xy: 358, 398
+  size: 81, 158
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_11
+  rotate: false
+  xy: 440, 174
+  size: 81, 158
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_12
+  rotate: false
+  xy: 500, 14
+  size: 81, 158
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_13
+  rotate: false
+  xy: 214, 702
+  size: 81, 159
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_2
+  rotate: false
+  xy: 334, 4
+  size: 81, 159
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_3
+  rotate: false
+  xy: 191, 163
+  size: 81, 160
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_4
+  rotate: false
+  xy: 214, 863
+  size: 81, 159
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_5
+  rotate: false
+  xy: 275, 395
+  size: 81, 158
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_6
+  rotate: false
+  xy: 357, 169
+  size: 81, 158
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_7
+  rotate: false
+  xy: 417, 9
+  size: 81, 158
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_8
+  rotate: false
+  xy: 297, 864
+  size: 81, 158
+  orig: 112, 186
+  offset: 21, 15
+  index: -1
+weapon/tx/tx_9
+  rotate: false
+  xy: 297, 704
+  size: 81, 158
+  orig: 112, 186
+  offset: 21, 15
+  index: -1

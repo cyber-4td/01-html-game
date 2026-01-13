@@ -1,0 +1,167 @@
+
+paoa.png
+size: 1644,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-paodi1
+  rotate: true
+  xy: 1530, 371
+  size: 94, 104
+  orig: 94, 104
+  offset: 0, 0
+  index: -1
+1-paokou
+  rotate: false
+  xy: 1305, 90
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+1-paoshen1
+  rotate: false
+  xy: 1192, 28
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+1-paoshen2
+  rotate: false
+  xy: 1072, 27
+  size: 118, 138
+  orig: 118, 138
+  offset: 0, 0
+  index: -1
+1-paoshen3
+  rotate: true
+  xy: 766, 2
+  size: 163, 183
+  orig: 163, 183
+  offset: 0, 0
+  index: -1
+1-paoshen4
+  rotate: false
+  xy: 951, 19
+  size: 119, 146
+  orig: 119, 146
+  offset: 0, 0
+  index: -1
+1-paotong
+  rotate: false
+  xy: 1192, 92
+  size: 111, 109
+  orig: 111, 109
+  offset: 0, 0
+  index: -1
+2-paodi
+  rotate: true
+  xy: 1530, 589
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+2-paodizuo
+  rotate: false
+  xy: 1178, 203
+  size: 234, 166
+  orig: 234, 166
+  offset: 0, 0
+  index: -1
+2-paokou
+  rotate: false
+  xy: 1530, 467
+  size: 109, 120
+  orig: 109, 120
+  offset: 0, 0
+  index: -1
+2-paotong
+  rotate: true
+  xy: 1406, 97
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1
+chengqian
+  rotate: false
+  xy: 2, 748
+  size: 439, 305
+  orig: 439, 305
+  offset: 0, 0
+  index: -1
+effect/kh_10
+  rotate: false
+  xy: 766, 371
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+effect/kh_11
+  rotate: false
+  xy: 1148, 371
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+effect/kh_12
+  rotate: false
+  xy: 384, 29
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+effect/kh_4
+  rotate: false
+  xy: 2, 64
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+effect/kh_5
+  rotate: false
+  xy: 443, 713
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+effect/kh_6
+  rotate: false
+  xy: 825, 713
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+effect/kh_7
+  rotate: false
+  xy: 1207, 713
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+effect/kh_8
+  rotate: false
+  xy: 384, 371
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+effect/kh_9
+  rotate: false
+  xy: 2, 406
+  size: 380, 340
+  orig: 380, 340
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 1414, 195
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+ying
+  rotate: false
+  xy: 766, 167
+  size: 410, 202
+  orig: 410, 202
+  offset: 0, 0
+  index: -1

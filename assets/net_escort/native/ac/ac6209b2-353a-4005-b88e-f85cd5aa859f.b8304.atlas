@@ -1,0 +1,27 @@
+
+lx_LevelStar.png
+size: 151,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_LightLash
+  rotate: false
+  xy: 110, 44
+  size: 6, 15
+  orig: 7, 24
+  offset: 1, 5
+  index: -1
+eff_ShineCircle
+  rotate: true
+  xy: 2, 2
+  size: 105, 106
+  orig: 128, 128
+  offset: 12, 11
+  index: -1
+eff_Star_Yellow
+  rotate: false
+  xy: 110, 61
+  size: 39, 46
+  orig: 46, 55
+  offset: 3, 5
+  index: -1

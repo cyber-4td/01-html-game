@@ -1,0 +1,27 @@
+
+lx_BuidingBuild.png
+size: 235,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cy_0
+  rotate: true
+  xy: 132, 2
+  size: 46, 54
+  orig: 73, 85
+  offset: 11, 13
+  index: -1
+eff_Smoke
+  rotate: false
+  xy: 2, 18
+  size: 128, 132
+  orig: 163, 163
+  offset: 14, 4
+  index: -1
+eff_SmokeHeavy
+  rotate: true
+  xy: 132, 50
+  size: 100, 101
+  orig: 109, 109
+  offset: 6, 5
+  index: -1

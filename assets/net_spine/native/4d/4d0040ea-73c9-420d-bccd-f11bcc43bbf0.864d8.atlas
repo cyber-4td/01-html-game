@@ -1,0 +1,13 @@
+
+mc_4_4_wuqi.png
+size: 391,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon/N-crossbow
+  rotate: false
+  xy: 2, 2
+  size: 387, 266
+  orig: 387, 266
+  offset: 0, 0
+  index: -1

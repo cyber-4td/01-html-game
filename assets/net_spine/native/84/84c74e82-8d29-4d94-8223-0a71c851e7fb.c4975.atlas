@@ -1,0 +1,76 @@
+
+caster_occultist_mystic.png
+size: 357,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: false
+  xy: 157, 45
+  size: 85, 91
+  orig: 85, 91
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 1, 10
+  size: 156, 126
+  orig: 158, 128
+  offset: 1, 1
+  index: -1
+Yougebo
+  rotate: true
+  xy: 215, 10
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: true
+  xy: 302, 107
+  size: 29, 34
+  orig: 31, 36
+  offset: 1, 1
+  index: -1
+Zuogebo
+  rotate: 270
+  xy: 254, 85
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 330, 59
+  size: 30, 26
+  orig: 32, 28
+  offset: 1, 1
+  index: -1
+huo
+  rotate: false
+  xy: 305, 59
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: true
+  xy: 262, 5
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 233, 45
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 157, 1
+  size: 58, 44
+  orig: 60, 46
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+orange-earth-maleLeg.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianjia
+  rotate: true
+  xy: 2, 13
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+yaojia
+  rotate: true
+  xy: 92, 19
+  size: 50, 34
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 128, 29
+  size: 40, 27
+  orig: 42, 29
+  offset: 1, 1
+  index: -1
+yougebo
+  rotate: false
+  xy: 135, 82
+  size: 25, 37
+  orig: 27, 39
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: false
+  xy: 92, 71
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 162, 92
+  size: 27, 24
+  orig: 29, 26
+  offset: 1, 1
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 157, 41
+  size: 39, 23
+  orig: 41, 25
+  offset: 1, 1
+  index: -1
+youxiaobi-fur
+  rotate: true
+  xy: 128, 2
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1

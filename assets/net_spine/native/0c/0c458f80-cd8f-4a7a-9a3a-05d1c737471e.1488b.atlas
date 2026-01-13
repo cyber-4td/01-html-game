@@ -1,0 +1,132 @@
+
+troll_throwing_axes_crazy.png
+size: 290,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DatuiL
+  rotate: true
+  xy: 218, 6
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+dabiL
+  rotate: false
+  xy: 129, 16
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+dabiR
+  rotate: false
+  xy: 2, 306
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+datuiR
+  rotate: false
+  xy: 2, 6
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+jiaoL
+  rotate: true
+  xy: 129, 124
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+jiaoR
+  rotate: true
+  xy: 92, 2
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+qunBai
+  rotate: true
+  xy: 225, 138
+  size: 126, 57
+  orig: 126, 57
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 50
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+shou2R
+  rotate: false
+  xy: 48, 9
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+shouL
+  rotate: true
+  xy: 237, 266
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+shouR
+  rotate: false
+  xy: 218, 50
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 174
+  size: 153, 130
+  orig: 153, 130
+  offset: 0, 0
+  index: -1
+tuiR
+  rotate: false
+  xy: 237, 376
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+wuQiL
+  rotate: true
+  xy: 157, 173
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+wuQiR
+  rotate: true
+  xy: 169, 303
+  size: 135, 66
+  orig: 135, 66
+  offset: 0, 0
+  index: -1
+xiaobiL
+  rotate: false
+  xy: 237, 324
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+xiaobiR
+  rotate: false
+  xy: 225, 94
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+xiaotuiL
+  rotate: true
+  xy: 156, 105
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1

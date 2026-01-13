@@ -1,0 +1,48 @@
+
+lx_LotteryDraw_NewHero.png
+size: 432,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_Glow_000
+  rotate: false
+  xy: 260, 18
+  size: 170, 170
+  orig: 200, 200
+  offset: 15, 15
+  index: -1
+eff_RainbowFullCircle
+  rotate: true
+  xy: 171, 190
+  size: 196, 187
+  orig: 200, 190
+  offset: 2, 1
+  index: -1
+eff_RainbowHalfCircle
+  rotate: true
+  xy: 2, 134
+  size: 252, 167
+  orig: 256, 256
+  offset: 2, 45
+  index: -1
+eff_Star
+  rotate: false
+  xy: 360, 320
+  size: 66, 66
+  orig: 120, 120
+  offset: 26, 27
+  index: -1
+eff_Trail1
+  rotate: true
+  xy: 2, 68
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+eff_Trail2
+  rotate: true
+  xy: 2, 2
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1

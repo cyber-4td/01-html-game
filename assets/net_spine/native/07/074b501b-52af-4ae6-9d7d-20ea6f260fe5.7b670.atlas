@@ -1,0 +1,76 @@
+
+orc_shield.png
+size: 458,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: false
+  xy: 129, 22
+  size: 94, 104
+  orig: 96, 106
+  offset: 1, 1
+  index: -1
+kuzi
+  rotate: true
+  xy: 304, 45
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 225, 43
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 3
+  size: 125, 123
+  orig: 127, 127
+  offset: 1, 3
+  index: -1
+youer
+  rotate: false
+  xy: 303, 3
+  size: 47, 38
+  orig: 49, 40
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: false
+  xy: 225, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 347, 48
+  size: 78, 57
+  orig: 80, 57
+  offset: 1, 0
+  index: -1
+zuoer
+  rotate: true
+  xy: 406, 56
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 264, 2
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 352, 2
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1

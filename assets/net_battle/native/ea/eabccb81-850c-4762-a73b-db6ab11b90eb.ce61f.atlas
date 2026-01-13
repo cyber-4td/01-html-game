@@ -1,0 +1,41 @@
+
+lx_UI_ElementPoint.png
+size: 242,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lx_UI_ElementPoint/eff_ElementBallBlur_Blue_000
+  rotate: false
+  xy: 50, 2
+  size: 46, 46
+  orig: 80, 80
+  offset: 17, 17
+  index: -1
+lx_UI_ElementPoint/eff_ElementBallBlur_Orange_000
+  rotate: false
+  xy: 98, 2
+  size: 46, 46
+  orig: 80, 80
+  offset: 17, 17
+  index: -1
+lx_UI_ElementPoint/eff_ElementBallBlur_Purple_000
+  rotate: false
+  xy: 146, 2
+  size: 46, 46
+  orig: 80, 80
+  offset: 17, 17
+  index: -1
+lx_UI_ElementPoint/eff_ElementBallBlur_Red_000
+  rotate: false
+  xy: 194, 2
+  size: 46, 46
+  orig: 80, 80
+  offset: 17, 17
+  index: -1
+lx_UI_ElementPoint/eff_ElementBallBlur_White_000
+  rotate: false
+  xy: 2, 2
+  size: 46, 46
+  orig: 80, 80
+  offset: 17, 17
+  index: -1

@@ -1,0 +1,104 @@
+
+GongJianShou.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gong
+  rotate: false
+  xy: 56, 40
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+GongJian1
+  rotate: false
+  xy: 2, 21
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+GongXian
+  rotate: false
+  xy: 84, 43
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+JianDai
+  rotate: false
+  xy: 2, 76
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+ShenTi
+  rotate: false
+  xy: 2, 39
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 48, 8
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+TouKui
+  rotate: false
+  xy: 38, 92
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+WeiJin
+  rotate: false
+  xy: 86, 103
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+YouJian
+  rotate: false
+  xy: 105, 11
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Youjiao
+  rotate: false
+  xy: 2, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 89, 25
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+ZuoJian
+  rotate: true
+  xy: 89, 10
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+ZuoJiao
+  rotate: false
+  xy: 23, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+ZuoShou
+  rotate: true
+  xy: 38, 76
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1

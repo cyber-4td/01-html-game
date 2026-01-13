@@ -1,0 +1,132 @@
+
+shouchong2.png
+size: 525,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd_4
+  rotate: false
+  xy: 307, 61
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+gss
+  rotate: true
+  xy: 69, 41
+  size: 70, 67
+  orig: 78, 69
+  offset: 3, 1
+  index: -1
+huomiaoxl01
+  rotate: true
+  xy: 26, 6
+  size: 18, 24
+  orig: 108, 94
+  offset: 0, 2
+  index: -1
+huomiaoxl02
+  rotate: true
+  xy: 303, 18
+  size: 32, 27
+  orig: 108, 94
+  offset: 0, 2
+  index: -1
+huomiaoxl03
+  rotate: false
+  xy: 71, 2
+  size: 54, 37
+  orig: 108, 94
+  offset: 5, 4
+  index: -1
+huomiaoxl04
+  rotate: false
+  xy: 127, 5
+  size: 50, 34
+  orig: 108, 94
+  offset: 10, 3
+  index: -1
+huomiaoxl05
+  rotate: true
+  xy: 226, 3
+  size: 42, 37
+  orig: 108, 94
+  offset: 22, 7
+  index: -1
+huomiaoxl06
+  rotate: false
+  xy: 265, 10
+  size: 36, 40
+  orig: 108, 94
+  offset: 33, 13
+  index: -1
+huomiaoxl07
+  rotate: true
+  xy: 179, 3
+  size: 39, 45
+  orig: 108, 94
+  offset: 39, 19
+  index: -1
+huomiaoxl08
+  rotate: true
+  xy: 2, 26
+  size: 85, 65
+  orig: 108, 94
+  offset: 0, 8
+  index: -1
+huomiaoxl09
+  rotate: false
+  xy: 204, 47
+  size: 50, 64
+  orig: 108, 94
+  offset: 42, 12
+  index: -1
+huomiaoxl10
+  rotate: false
+  xy: 256, 52
+  size: 49, 59
+  orig: 108, 94
+  offset: 48, 22
+  index: -1
+huomiaoxl11
+  rotate: true
+  xy: 138, 44
+  size: 67, 64
+  orig: 108, 94
+  offset: 32, 21
+  index: -1
+huomiaoxl12
+  rotate: false
+  xy: 307, 86
+  size: 25, 25
+  orig: 108, 94
+  offset: 77, 63
+  index: -1
+huomiaoxl13
+  rotate: false
+  xy: 332, 61
+  size: 23, 23
+  orig: 108, 94
+  offset: 80, 66
+  index: -1
+huomiaoxl14
+  rotate: false
+  xy: 2, 2
+  size: 22, 22
+  orig: 108, 94
+  offset: 83, 69
+  index: -1
+huomiaoxl15
+  rotate: true
+  xy: 52, 6
+  size: 18, 17
+  orig: 108, 94
+  offset: 87, 74
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 113
+  size: 410, 410
+  orig: 412, 412
+  offset: 1, 1
+  index: -1

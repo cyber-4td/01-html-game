@@ -1,0 +1,83 @@
+
+dileijiqiren.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boZi
+  rotate: true
+  xy: 2, 15
+  size: 74, 77
+  orig: 76, 79
+  offset: 1, 1
+  index: -1
+duZi
+  rotate: false
+  xy: 2, 91
+  size: 134, 52
+  orig: 135, 53
+  offset: 0, 0
+  index: -1
+jiXiejiao-youhou
+  rotate: false
+  xy: 163, 198
+  size: 57, 44
+  orig: 59, 46
+  offset: 1, 1
+  index: -1
+jiXiejiao-youqian
+  rotate: true
+  xy: 58, 148
+  size: 51, 52
+  orig: 53, 54
+  offset: 1, 1
+  index: -1
+jiXiejiao-zuohou
+  rotate: true
+  xy: 138, 83
+  size: 56, 70
+  orig: 58, 72
+  offset: 1, 1
+  index: -1
+jiXiejiao-zuoqian
+  rotate: false
+  xy: 2, 150
+  size: 54, 49
+  orig: 56, 51
+  offset: 1, 1
+  index: -1
+maoZi
+  rotate: false
+  xy: 37, 201
+  size: 124, 41
+  orig: 126, 43
+  offset: 1, 1
+  index: -1
+shenTi
+  rotate: false
+  xy: 81, 2
+  size: 136, 79
+  orig: 138, 81
+  offset: 1, 1
+  index: -1
+yanJing
+  rotate: true
+  xy: 165, 141
+  size: 55, 58
+  orig: 57, 60
+  offset: 1, 1
+  index: -1
+yaoGan
+  rotate: true
+  xy: 2, 216
+  size: 26, 33
+  orig: 28, 35
+  offset: 1, 1
+  index: -1
+yuanQiu
+  rotate: false
+  xy: 112, 145
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1

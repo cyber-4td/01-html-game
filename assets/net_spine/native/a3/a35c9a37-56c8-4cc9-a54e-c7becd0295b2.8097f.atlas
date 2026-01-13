@@ -1,0 +1,188 @@
+
+skeleton_caster_blaster_spark.png
+size: 1874,654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Huo1
+  rotate: false
+  xy: 1835, 539
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Huo2
+  rotate: false
+  xy: 1835, 431
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 1720, 15
+  size: 52, 53
+  orig: 54, 55
+  offset: 1, 1
+  index: -1
+Tou
+  rotate: false
+  xy: 1720, 70
+  size: 128, 118
+  orig: 130, 120
+  offset: 1, 1
+  index: -1
+Toufahou
+  rotate: false
+  xy: 1720, 190
+  size: 151, 123
+  orig: 151, 123
+  offset: 0, 0
+  index: -1
+Xiong
+  rotate: true
+  xy: 1835, 331
+  size: 43, 28
+  orig: 45, 30
+  offset: 1, 1
+  index: -1
+YouDabi
+  rotate: true
+  xy: 1835, 403
+  size: 26, 33
+  orig: 28, 35
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 1835, 590
+  size: 36, 23
+  orig: 38, 25
+  offset: 1, 1
+  index: -1
+Youqunbai
+  rotate: false
+  xy: 1835, 615
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 1376, 4
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 1416, 6
+  size: 38, 39
+  orig: 40, 41
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 1835, 376
+  size: 32, 25
+  orig: 34, 27
+  offset: 1, 1
+  index: -1
+Zuoqunbai
+  rotate: true
+  xy: 1774, 19
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: false
+  xy: 1835, 483
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+effect/0
+  rotate: false
+  xy: 1071, 306
+  size: 236, 346
+  orig: 300, 390
+  offset: 22, 18
+  index: -1
+effect/1
+  rotate: false
+  xy: 257, 303
+  size: 260, 349
+  orig: 300, 390
+  offset: 11, 18
+  index: -1
+effect/10
+  rotate: true
+  xy: 1376, 47
+  size: 260, 342
+  orig: 300, 390
+  offset: 36, 25
+  index: -1
+effect/11
+  rotate: false
+  xy: 2, 300
+  size: 253, 352
+  orig: 300, 390
+  offset: 39, 23
+  index: -1
+effect/2
+  rotate: false
+  xy: 519, 303
+  size: 260, 349
+  orig: 300, 390
+  offset: 11, 18
+  index: -1
+effect/3
+  rotate: false
+  xy: 781, 305
+  size: 288, 347
+  orig: 300, 390
+  offset: 0, 21
+  index: -1
+effect/4
+  rotate: true
+  xy: 1027, 15
+  size: 288, 347
+  orig: 300, 390
+  offset: 0, 21
+  index: -1
+effect/5
+  rotate: true
+  xy: 340, 4
+  size: 297, 347
+  orig: 300, 390
+  offset: 0, 21
+  index: -1
+effect/6
+  rotate: true
+  xy: 2, 2
+  size: 296, 336
+  orig: 300, 390
+  offset: 0, 23
+  index: -1
+effect/7
+  rotate: true
+  xy: 689, 5
+  size: 296, 336
+  orig: 300, 390
+  offset: 0, 23
+  index: -1
+effect/8
+  rotate: false
+  xy: 1571, 315
+  size: 262, 337
+  orig: 300, 390
+  offset: 35, 24
+  index: -1
+effect/9
+  rotate: false
+  xy: 1309, 309
+  size: 260, 343
+  orig: 300, 390
+  offset: 36, 25
+  index: -1

@@ -1,0 +1,160 @@
+
+S-bow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd_4
+  rotate: false
+  xy: 441, 71
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+gss
+  rotate: true
+  xy: 446, 317
+  size: 70, 67
+  orig: 78, 69
+  offset: 3, 1
+  index: -1
+huomiaoxl01
+  rotate: false
+  xy: 471, 209
+  size: 18, 24
+  orig: 108, 94
+  offset: 0, 2
+  index: -1
+huomiaoxl02
+  rotate: true
+  xy: 485, 283
+  size: 32, 27
+  orig: 108, 94
+  offset: 0, 2
+  index: -1
+huomiaoxl03
+  rotate: false
+  xy: 415, 185
+  size: 54, 37
+  orig: 108, 94
+  offset: 5, 4
+  index: -1
+huomiaoxl04
+  rotate: false
+  xy: 415, 149
+  size: 50, 34
+  orig: 108, 94
+  offset: 10, 3
+  index: -1
+huomiaoxl05
+  rotate: true
+  xy: 446, 273
+  size: 42, 37
+  orig: 108, 94
+  offset: 22, 7
+  index: -1
+huomiaoxl06
+  rotate: true
+  xy: 446, 235
+  size: 36, 40
+  orig: 108, 94
+  offset: 33, 13
+  index: -1
+huomiaoxl07
+  rotate: true
+  xy: 414, 96
+  size: 39, 45
+  orig: 108, 94
+  offset: 39, 19
+  index: -1
+huomiaoxl08
+  rotate: true
+  xy: 348, 137
+  size: 85, 65
+  orig: 108, 94
+  offset: 0, 8
+  index: -1
+huomiaoxl09
+  rotate: false
+  xy: 348, 2
+  size: 50, 64
+  orig: 108, 94
+  offset: 42, 12
+  index: -1
+huomiaoxl10
+  rotate: false
+  xy: 400, 7
+  size: 49, 59
+  orig: 108, 94
+  offset: 48, 22
+  index: -1
+huomiaoxl11
+  rotate: true
+  xy: 348, 68
+  size: 67, 64
+  orig: 108, 94
+  offset: 32, 21
+  index: -1
+huomiaoxl12
+  rotate: false
+  xy: 414, 69
+  size: 25, 25
+  orig: 108, 94
+  offset: 77, 63
+  index: -1
+huomiaoxl13
+  rotate: false
+  xy: 461, 124
+  size: 23, 23
+  orig: 108, 94
+  offset: 80, 66
+  index: -1
+huomiaoxl14
+  rotate: false
+  xy: 467, 161
+  size: 22, 22
+  orig: 108, 94
+  offset: 83, 69
+  index: -1
+huomiaoxl15
+  rotate: false
+  xy: 471, 190
+  size: 18, 17
+  orig: 108, 94
+  offset: 87, 74
+  index: -1
+wuqi1
+  rotate: false
+  xy: 2, 389
+  size: 512, 466
+  orig: 512, 471
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 348, 224
+  size: 96, 163
+  orig: 96, 163
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: true
+  xy: 515, 8
+  size: 357, 307
+  orig: 364, 316
+  offset: 2, 4
+  index: -1
+wuqi4
+  rotate: false
+  xy: 2, 10
+  size: 344, 377
+  orig: 344, 377
+  offset: 0, 0
+  index: -1
+wuqi5
+  rotate: false
+  xy: 516, 367
+  size: 474, 488
+  orig: 478, 507
+  offset: 0, 19
+  index: -1

@@ -1,0 +1,118 @@
+
+zjjqr.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 7
+  size: 96, 84
+  orig: 98, 86
+  offset: 1, 1
+  index: -1
+dabi1
+  rotate: true
+  xy: 314, 74
+  size: 56, 54
+  orig: 58, 61
+  offset: 1, 6
+  index: -1
+dabi2
+  rotate: true
+  xy: 277, 132
+  size: 58, 56
+  orig: 66, 58
+  offset: 1, 1
+  index: -1
+dang
+  rotate: false
+  xy: 283, 8
+  size: 61, 28
+  orig: 63, 30
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 314, 52
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 147, 10
+  size: 100, 46
+  orig: 102, 48
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 139, 112
+  size: 136, 139
+  orig: 138, 141
+  offset: 1, 1
+  index: -1
+kua
+  rotate: true
+  xy: 100, 11
+  size: 80, 45
+  orig: 82, 47
+  offset: 1, 1
+  index: -1
+leg1
+  rotate: false
+  xy: 330, 193
+  size: 51, 58
+  orig: 53, 60
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: false
+  xy: 277, 192
+  size: 51, 59
+  orig: 51, 61
+  offset: 0, 1
+  index: -1
+qiang
+  rotate: false
+  xy: 195, 38
+  size: 117, 72
+  orig: 121, 76
+  offset: 2, 2
+  index: -1
+shou1
+  rotate: false
+  xy: 335, 145
+  size: 40, 46
+  orig: 42, 48
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: true
+  xy: 346, 27
+  size: 45, 41
+  orig: 47, 43
+  offset: 1, 1
+  index: -1
+toukui
+  rotate: true
+  xy: 2, 93
+  size: 158, 135
+  orig: 160, 164
+  offset: 1, 28
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 239, 5
+  size: 42, 31
+  orig: 44, 33
+  offset: 1, 1
+  index: -1
+xiaobi2
+  rotate: false
+  xy: 195, 2
+  size: 42, 34
+  orig: 44, 36
+  offset: 1, 1
+  index: -1

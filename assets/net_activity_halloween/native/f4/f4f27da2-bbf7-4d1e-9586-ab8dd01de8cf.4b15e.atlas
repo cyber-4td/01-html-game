@@ -1,0 +1,13 @@
+
+dizuo2.png
+size: 184,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo2
+  rotate: false
+  xy: 2, 2
+  size: 180, 136
+  orig: 180, 136
+  offset: 0, 0
+  index: -1

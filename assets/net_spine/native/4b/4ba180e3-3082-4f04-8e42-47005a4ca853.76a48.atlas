@@ -1,0 +1,83 @@
+
+BuBin.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jian
+  rotate: false
+  xy: 2, 68
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+ShenTi
+  rotate: true
+  xy: 2, 23
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 39, 26
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+TouKui
+  rotate: true
+  xy: 51, 57
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+WeiJin
+  rotate: true
+  xy: 80, 20
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+YouJian
+  rotate: false
+  xy: 88, 74
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Youjiao
+  rotate: true
+  xy: 39, 5
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 58, 9
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+ZuoJian
+  rotate: false
+  xy: 88, 89
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ZuoJiao
+  rotate: true
+  xy: 2, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+ZuoShou
+  rotate: false
+  xy: 21, 5
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+nvshendezhufu.png
+size: 684,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/df86693f02
+  rotate: false
+  xy: 272, 426
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/guild_red_2
+  rotate: false
+  xy: 2, 196
+  size: 268, 486
+  orig: 270, 488
+  offset: 1, 1
+  index: -1
+images/red_partc_00
+  rotate: false
+  xy: 2, 31
+  size: 107, 163
+  orig: 360, 640
+  offset: 131, 253
+  index: -1
+images/red_partc_01
+  rotate: false
+  xy: 272, 265
+  size: 104, 159
+  orig: 360, 640
+  offset: 133, 257
+  index: -1
+images/red_partc_02
+  rotate: false
+  xy: 530, 527
+  size: 103, 155
+  orig: 360, 640
+  offset: 133, 261
+  index: -1
+images/red_partc_03
+  rotate: false
+  xy: 111, 42
+  size: 101, 152
+  orig: 360, 640
+  offset: 134, 264
+  index: -1
+images/red_partc_04
+  rotate: false
+  xy: 378, 274
+  size: 98, 150
+  orig: 360, 640
+  offset: 135, 267
+  index: -1
+images/red_partc_05
+  rotate: false
+  xy: 214, 46
+  size: 97, 148
+  orig: 360, 640
+  offset: 136, 269
+  index: -1
+images/red_partc_06
+  rotate: true
+  xy: 530, 429
+  size: 96, 146
+  orig: 360, 640
+  offset: 137, 271
+  index: -1
+images/red_partc_07
+  rotate: false
+  xy: 478, 279
+  size: 96, 145
+  orig: 360, 640
+  offset: 137, 273
+  index: -1
+images/red_partc_08
+  rotate: false
+  xy: 576, 283
+  size: 96, 144
+  orig: 360, 640
+  offset: 137, 274
+  index: -1
+images/red_partc_09
+  rotate: false
+  xy: 313, 121
+  size: 91, 142
+  orig: 360, 640
+  offset: 141, 276
+  index: -1
+images/red_partc_10
+  rotate: false
+  xy: 406, 135
+  size: 91, 137
+  orig: 360, 640
+  offset: 141, 277
+  index: -1
+images/red_partc_11
+  rotate: false
+  xy: 499, 141
+  size: 90, 136
+  orig: 360, 640
+  offset: 141, 279
+  index: -1
+images/red_partc_12
+  rotate: false
+  xy: 591, 146
+  size: 88, 135
+  orig: 360, 640
+  offset: 142, 280
+  index: -1
+images/red_partc_13
+  rotate: true
+  xy: 313, 33
+  size: 86, 133
+  orig: 360, 640
+  offset: 142, 282
+  index: -1
+images/red_partc_14
+  rotate: false
+  xy: 448, 2
+  size: 85, 131
+  orig: 360, 640
+  offset: 142, 284
+  index: -1
+images/red_partc_15
+  rotate: false
+  xy: 535, 9
+  size: 83, 130
+  orig: 360, 640
+  offset: 144, 285
+  index: -1

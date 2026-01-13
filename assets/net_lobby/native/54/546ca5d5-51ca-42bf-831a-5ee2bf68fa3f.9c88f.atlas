@@ -1,0 +1,55 @@
+
+ZhuBiChang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 353, 210
+  size: 264, 151
+  orig: 266, 151
+  offset: 2, 0
+  index: -1
+1
+  rotate: false
+  xy: 138, 335
+  size: 213, 139
+  orig: 213, 139
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 175
+  size: 213, 158
+  orig: 213, 158
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 213, 171
+  orig: 213, 171
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 217, 38
+  size: 213, 170
+  orig: 213, 170
+  offset: 0, 0
+  index: -1
+a_0
+  rotate: false
+  xy: 2, 421
+  size: 63, 53
+  orig: 122, 122
+  offset: 25, 42
+  index: -1
+a_1
+  rotate: false
+  xy: 67, 417
+  size: 69, 57
+  orig: 122, 122
+  offset: 20, 31
+  index: -1

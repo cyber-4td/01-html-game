@@ -1,0 +1,90 @@
+
+cx.png
+size: 991,946
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_0
+  rotate: true
+  xy: 2, 255
+  size: 229, 329
+  orig: 325, 340
+  offset: 39, 9
+  index: -1
+a_10
+  rotate: true
+  xy: 333, 251
+  size: 232, 327
+  orig: 325, 340
+  offset: 40, 11
+  index: -1
+a_11
+  rotate: true
+  xy: 662, 249
+  size: 234, 327
+  orig: 325, 340
+  offset: 38, 13
+  index: -1
+a_13
+  rotate: true
+  xy: 2, 491
+  size: 229, 320
+  orig: 325, 340
+  offset: 39, 9
+  index: -1
+a_14
+  rotate: true
+  xy: 654, 716
+  size: 228, 328
+  orig: 325, 340
+  offset: 40, 10
+  index: -1
+a_2
+  rotate: true
+  xy: 2, 11
+  size: 242, 325
+  orig: 325, 340
+  offset: 32, 13
+  index: -1
+a_3
+  rotate: true
+  xy: 329, 4
+  size: 245, 322
+  orig: 325, 340
+  offset: 31, 14
+  index: -1
+a_4
+  rotate: true
+  xy: 653, 2
+  size: 245, 328
+  orig: 325, 340
+  offset: 31, 11
+  index: -1
+a_5
+  rotate: true
+  xy: 324, 486
+  size: 230, 328
+  orig: 325, 340
+  offset: 46, 10
+  index: -1
+a_7
+  rotate: true
+  xy: 2, 722
+  size: 222, 321
+  orig: 325, 340
+  offset: 46, 10
+  index: -1
+a_8
+  rotate: true
+  xy: 325, 718
+  size: 226, 327
+  orig: 325, 340
+  offset: 43, 10
+  index: -1
+a_9
+  rotate: true
+  xy: 654, 485
+  size: 229, 329
+  orig: 325, 340
+  offset: 42, 11
+  index: -1

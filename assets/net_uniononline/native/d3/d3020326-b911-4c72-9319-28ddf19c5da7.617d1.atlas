@@ -1,0 +1,48 @@
+
+a.png
+size: 265,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 85, 55
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 81, 119
+  orig: 81, 119
+  offset: 0, 0
+  index: -1
+effect/guan_0
+  rotate: false
+  xy: 2, 123
+  size: 156, 148
+  orig: 156, 148
+  offset: 0, 0
+  index: -1
+effect/lizi_0
+  rotate: false
+  xy: 85, 23
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+effect/quan_0
+  rotate: true
+  xy: 160, 3
+  size: 125, 83
+  orig: 125, 83
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 160, 130
+  size: 103, 141
+  orig: 103, 141
+  offset: 0, 0
+  index: -1

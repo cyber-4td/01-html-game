@@ -1,0 +1,160 @@
+
+AiJiAo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group1
+  rotate: true
+  xy: 267, 170
+  size: 84, 69
+  orig: 84, 69
+  offset: 0, 0
+  index: -1
+cebai
+  rotate: false
+  xy: 396, 156
+  size: 34, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+cebai2
+  rotate: false
+  xy: 345, 43
+  size: 40, 40
+  orig: 48, 40
+  offset: 8, 0
+  index: -1
+dabi1
+  rotate: true
+  xy: 346, 155
+  size: 43, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+dabi111
+  rotate: false
+  xy: 345, 85
+  size: 41, 50
+  orig: 42, 50
+  offset: 1, 0
+  index: -1
+face
+  rotate: false
+  xy: 143, 131
+  size: 122, 123
+  orig: 123, 123
+  offset: 1, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 435, 155
+  size: 52, 45
+  orig: 54, 45
+  offset: 1, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 434, 112
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 388, 70
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 338, 200
+  size: 95, 54
+  orig: 95, 54
+  offset: 0, 0
+  index: -1
+mso
+  rotate: true
+  xy: 2, 101
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: true
+  xy: 246, 23
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 2, 15
+  size: 128, 84
+  orig: 128, 84
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 387, 29
+  size: 39, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+shou111
+  rotate: true
+  xy: 345, 2
+  size: 39, 40
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 435, 202
+  size: 69, 52
+  orig: 69, 53
+  offset: 0, 1
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 396, 121
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+xiaobi1111
+  rotate: true
+  xy: 428, 33
+  size: 35, 31
+  orig: 36, 32
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 143, 110
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 267, 137
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+ying1
+  rotate: false
+  xy: 132, 6
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+zhongbai
+  rotate: true
+  xy: 428, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1

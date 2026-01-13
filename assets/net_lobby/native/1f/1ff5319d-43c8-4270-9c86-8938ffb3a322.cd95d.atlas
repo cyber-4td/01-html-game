@@ -1,0 +1,27 @@
+
+zhongshenka.png
+size: 176,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 149, 137
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 149, 109
+  size: 24, 26
+  orig: 30, 30
+  offset: 3, 2
+  index: -1
+shaoguang_0
+  rotate: false
+  xy: 2, 56
+  size: 145, 118
+  orig: 155, 161
+  offset: 4, 19
+  index: -1

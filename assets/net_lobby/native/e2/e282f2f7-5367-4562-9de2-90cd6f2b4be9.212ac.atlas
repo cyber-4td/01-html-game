@@ -1,0 +1,174 @@
+
+lx_WeaponMask_Trans.png
+size: 480,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_GlowBlue
+  rotate: false
+  xy: 401, 60
+  size: 45, 45
+  orig: 53, 53
+  offset: 4, 4
+  index: -1
+eff_RunPar1
+  rotate: false
+  xy: 282, 292
+  size: 30, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+eff_RunPar2
+  rotate: false
+  xy: 344, 13
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+eff_RunPar3
+  rotate: true
+  xy: 278, 2
+  size: 29, 31
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+eff_RunPar4
+  rotate: false
+  xy: 249, 292
+  size: 31, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+eff_RunPar5
+  rotate: false
+  xy: 244, 2
+  size: 32, 29
+  orig: 32, 32
+  offset: 0, 2
+  index: -1
+eff_RunPar6
+  rotate: true
+  xy: 311, 4
+  size: 27, 31
+  orig: 32, 32
+  offset: 3, 0
+  index: -1
+eff_RushDiss_00
+  rotate: false
+  xy: 249, 326
+  size: 63, 44
+  orig: 105, 210
+  offset: 21, 26
+  index: -1
+eff_RushDiss_01
+  rotate: true
+  xy: 249, 213
+  size: 74, 72
+  orig: 105, 210
+  offset: 15, 26
+  index: -1
+eff_RushDiss_02
+  rotate: false
+  xy: 401, 107
+  size: 76, 101
+  orig: 105, 210
+  offset: 14, 26
+  index: -1
+eff_RushDiss_03
+  rotate: true
+  xy: 344, 210
+  size: 77, 130
+  orig: 105, 210
+  offset: 13, 26
+  index: -1
+eff_RushDiss_04
+  rotate: true
+  xy: 321, 289
+  size: 81, 157
+  orig: 105, 210
+  offset: 12, 26
+  index: -1
+eff_RushDiss_05
+  rotate: false
+  xy: 321, 47
+  size: 78, 161
+  orig: 105, 210
+  offset: 14, 25
+  index: -1
+eff_RushDiss_06
+  rotate: false
+  xy: 244, 33
+  size: 75, 166
+  orig: 105, 210
+  offset: 15, 24
+  index: -1
+eff_RushDiss_07
+  rotate: false
+  xy: 176, 201
+  size: 71, 169
+  orig: 105, 210
+  offset: 17, 24
+  index: -1
+eff_RushDiss_08
+  rotate: false
+  xy: 173, 22
+  size: 69, 172
+  orig: 105, 210
+  offset: 18, 23
+  index: -1
+eff_RushDiss_09
+  rotate: false
+  xy: 109, 196
+  size: 65, 174
+  orig: 105, 210
+  offset: 20, 23
+  index: -1
+eff_RushDiss_10
+  rotate: false
+  xy: 62, 11
+  size: 61, 178
+  orig: 105, 210
+  offset: 22, 22
+  index: -1
+eff_RushDiss_11
+  rotate: false
+  xy: 2, 9
+  size: 58, 179
+  orig: 105, 210
+  offset: 23, 22
+  index: -1
+eff_RushDiss_12
+  rotate: false
+  xy: 2, 190
+  size: 54, 180
+  orig: 105, 210
+  offset: 25, 22
+  index: -1
+eff_RushDiss_13
+  rotate: false
+  xy: 58, 191
+  size: 49, 179
+  orig: 105, 210
+  offset: 27, 24
+  index: -1
+eff_RushDiss_14
+  rotate: false
+  xy: 125, 21
+  size: 46, 173
+  orig: 105, 210
+  offset: 28, 31
+  index: -1
+eff_RushShine_00
+  rotate: true
+  xy: 62, 2
+  size: 7, 53
+  orig: 7, 57
+  offset: 0, 2
+  index: -1
+eff_WhitePice
+  rotate: false
+  xy: 117, 3
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

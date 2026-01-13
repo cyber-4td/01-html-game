@@ -1,0 +1,48 @@
+
+seven.png
+size: 732,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd/dd_0
+  rotate: true
+  xy: 228, 4
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+dd/dd_1
+  rotate: true
+  xy: 2, 4
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+rstar_0
+  rotate: false
+  xy: 650, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sweep/sweep_0
+  rotate: false
+  xy: 454, 4
+  size: 96, 160
+  orig: 96, 160
+  offset: 0, 0
+  index: -1
+sweep/sweep_1
+  rotate: false
+  xy: 552, 4
+  size: 96, 160
+  orig: 96, 160
+  offset: 0, 0
+  index: -1
+ystar_0
+  rotate: false
+  xy: 650, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

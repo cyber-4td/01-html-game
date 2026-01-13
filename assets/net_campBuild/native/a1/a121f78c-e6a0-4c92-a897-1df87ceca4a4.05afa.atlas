@@ -1,0 +1,90 @@
+
+yan.png
+size: 1226,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan_0
+  rotate: true
+  xy: 104, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_1
+  rotate: true
+  xy: 206, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_10
+  rotate: true
+  xy: 1022, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_11
+  rotate: true
+  xy: 1124, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_2
+  rotate: true
+  xy: 308, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_3
+  rotate: true
+  xy: 410, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_4
+  rotate: true
+  xy: 512, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_5
+  rotate: true
+  xy: 614, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_6
+  rotate: true
+  xy: 716, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_7
+  rotate: true
+  xy: 818, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_8
+  rotate: true
+  xy: 920, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+yan_9
+  rotate: true
+  xy: 2, 2
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1

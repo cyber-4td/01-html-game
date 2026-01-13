@@ -1,0 +1,13 @@
+
+yq_g1.png
+size: 43,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t1/g7
+  rotate: false
+  xy: 2, 2
+  size: 39, 41
+  orig: 50, 52
+  offset: 5, 5
+  index: -1

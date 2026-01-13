@@ -1,0 +1,13 @@
+
+suitBG.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suitBG
+  rotate: false
+  xy: 2, 2
+  size: 750, 1800
+  orig: 750, 1800
+  offset: 0, 0
+  index: -1

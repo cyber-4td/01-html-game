@@ -1,0 +1,111 @@
+
+yiJi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 273
+  size: 332, 177
+  orig: 334, 182
+  offset: 1, 5
+  index: -1
+eff_CenterFire_000
+  rotate: true
+  xy: 375, 209
+  size: 34, 41
+  orig: 45, 45
+  offset: 3, 1
+  index: -1
+eff_CenterFire_001
+  rotate: false
+  xy: 335, 140
+  size: 37, 42
+  orig: 45, 45
+  offset: 2, 1
+  index: -1
+eff_CenterFire_002
+  rotate: true
+  xy: 336, 282
+  size: 38, 42
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+eff_CenterFire_003
+  rotate: false
+  xy: 335, 184
+  size: 38, 42
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+eff_CenterFire_004
+  rotate: false
+  xy: 335, 228
+  size: 38, 43
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+eff_CenterFire_005
+  rotate: true
+  xy: 335, 58
+  size: 36, 43
+  orig: 45, 45
+  offset: 3, 1
+  index: -1
+eff_CenterFire_006
+  rotate: true
+  xy: 374, 147
+  size: 35, 43
+  orig: 45, 45
+  offset: 3, 1
+  index: -1
+eff_CenterFire_007
+  rotate: false
+  xy: 335, 96
+  size: 37, 42
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+eff_CenterFire_008
+  rotate: true
+  xy: 375, 245
+  size: 35, 43
+  orig: 45, 45
+  offset: 4, 1
+  index: -1
+eff_CenterFire_009
+  rotate: true
+  xy: 380, 286
+  size: 34, 42
+  orig: 45, 45
+  offset: 4, 1
+  index: -1
+eff_WhiteGlow
+  rotate: false
+  xy: 336, 322
+  size: 128, 128
+  orig: 150, 150
+  offset: 11, 11
+  index: -1
+self_Mask1
+  rotate: true
+  xy: 418, 210
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+self_Mask2
+  rotate: true
+  xy: 424, 287
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+yiJi
+  rotate: false
+  xy: 2, 2
+  size: 331, 269
+  orig: 332, 269
+  offset: 1, 0
+  index: -1

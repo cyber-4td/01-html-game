@@ -1,0 +1,125 @@
+
+AiLa.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group1
+  rotate: false
+  xy: 96, 241
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+erMai
+  rotate: true
+  xy: 337, 122
+  size: 180, 159
+  orig: 182, 161
+  offset: 1, 1
+  index: -1
+legL
+  rotate: true
+  xy: 216, 322
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+legR
+  rotate: true
+  xy: 142, 334
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+liuHai
+  rotate: false
+  xy: 54, 338
+  size: 86, 54
+  orig: 88, 56
+  offset: 1, 1
+  index: -1
+shouLei
+  rotate: true
+  xy: 2, 246
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 196, 170
+  size: 132, 139
+  orig: 134, 141
+  offset: 1, 1
+  index: -1
+touFa1
+  rotate: true
+  xy: 244, 387
+  size: 44, 127
+  orig: 44, 127
+  offset: 0, 0
+  index: -1
+touFa2
+  rotate: true
+  xy: 2, 399
+  size: 32, 113
+  orig: 32, 113
+  offset: 0, 0
+  index: -1
+touFa_beihou
+  rotate: false
+  xy: 2, 2
+  size: 176, 237
+  orig: 176, 237
+  offset: 0, 0
+  index: -1
+yanJing
+  rotate: false
+  xy: 293, 304
+  size: 141, 81
+  orig: 143, 83
+  offset: 1, 1
+  index: -1
+youGebo
+  rotate: true
+  xy: 199, 391
+  size: 40, 43
+  orig: 42, 45
+  offset: 1, 1
+  index: -1
+youJianbang
+  rotate: true
+  xy: 373, 387
+  size: 44, 61
+  orig: 46, 63
+  offset: 1, 1
+  index: -1
+youShou
+  rotate: false
+  xy: 117, 394
+  size: 39, 37
+  orig: 41, 39
+  offset: 1, 1
+  index: -1
+youShou2
+  rotate: false
+  xy: 158, 392
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+zuoGebo
+  rotate: false
+  xy: 436, 387
+  size: 53, 44
+  orig: 55, 46
+  offset: 1, 1
+  index: -1
+zuoJianbang
+  rotate: true
+  xy: 2, 348
+  size: 49, 50
+  orig: 51, 52
+  offset: 1, 1
+  index: -1

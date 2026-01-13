@@ -1,0 +1,69 @@
+
+uieffect_2.png
+size: 1043,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diwen
+  rotate: false
+  xy: 2, 3
+  size: 464, 453
+  orig: 596, 596
+  offset: 66, 50
+  index: -1
+huangguang
+  rotate: true
+  xy: 468, 12
+  size: 444, 450
+  orig: 596, 596
+  offset: 76, 73
+  index: -1
+img_xiaoguo
+  rotate: false
+  xy: 863, 847
+  size: 178, 194
+  orig: 178, 194
+  offset: 0, 0
+  index: -1
+kabei_1
+  rotate: false
+  xy: 845, 565
+  size: 182, 194
+  orig: 183, 194
+  offset: 0, 0
+  index: -1
+public_yinshen_mutl_D_00
+  rotate: true
+  xy: 587, 505
+  size: 254, 256
+  orig: 256, 256
+  offset: 1, 0
+  index: -1
+ringsav_10
+  rotate: true
+  xy: 587, 761
+  size: 280, 274
+  orig: 280, 280
+  offset: 0, 6
+  index: -1
+uieffect_1158
+  rotate: true
+  xy: 863, 811
+  size: 34, 42
+  orig: 36, 46
+  offset: 0, 2
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 2, 458
+  size: 583, 583
+  orig: 596, 596
+  offset: 6, 7
+  index: -1
+yuandian
+  rotate: false
+  xy: 907, 832
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

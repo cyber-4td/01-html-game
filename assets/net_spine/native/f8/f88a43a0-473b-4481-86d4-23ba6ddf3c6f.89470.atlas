@@ -1,0 +1,139 @@
+
+orc_bugler.png
+size: 781,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/0
+  rotate: false
+  xy: 383, 63
+  size: 121, 97
+  orig: 288, 250
+  offset: 5, 132
+  index: -1
+effect/1
+  rotate: false
+  xy: 2, 20
+  size: 235, 115
+  orig: 288, 250
+  offset: 5, 116
+  index: -1
+effect/2
+  rotate: false
+  xy: 383, 347
+  size: 271, 183
+  orig: 288, 250
+  offset: 5, 48
+  index: -1
+effect/3
+  rotate: false
+  xy: 383, 162
+  size: 198, 183
+  orig: 288, 250
+  offset: 78, 48
+  index: -1
+effect/4
+  rotate: false
+  xy: 656, 356
+  size: 100, 174
+  orig: 288, 250
+  offset: 176, 48
+  index: -1
+effect/5
+  rotate: true
+  xy: 579, 41
+  size: 100, 106
+  orig: 288, 250
+  offset: 176, 48
+  index: -1
+effect1/0
+  rotate: false
+  xy: 2, 137
+  size: 379, 393
+  orig: 435, 435
+  offset: 24, 20
+  index: -1
+haojiao
+  rotate: false
+  xy: 371, 2
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 583, 196
+  size: 149, 142
+  orig: 153, 145
+  offset: 2, 2
+  index: -1
+jianjia
+  rotate: false
+  xy: 716, 140
+  size: 63, 54
+  orig: 65, 56
+  offset: 1, 1
+  index: -1
+kuzi
+  rotate: true
+  xy: 727, 265
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 239, 13
+  size: 130, 122
+  orig: 132, 122
+  offset: 1, 0
+  index: -1
+xiaodao
+  rotate: false
+  xy: 583, 143
+  size: 131, 51
+  orig: 133, 53
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: false
+  xy: 687, 13
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 522, 15
+  size: 58, 48
+  orig: 61, 51
+  offset: 2, 1
+  index: -1
+youshou2
+  rotate: true
+  xy: 506, 75
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 727, 222
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 463, 2
+  size: 57, 59
+  orig: 60, 61
+  offset: 1, 1
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 687, 55
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1

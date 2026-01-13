@@ -1,0 +1,139 @@
+
+skeleton_shooter_cannoneer_dwarf.png
+size: 1495,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tou
+  rotate: false
+  xy: 1167, 104
+  size: 121, 151
+  orig: 121, 151
+  offset: 0, 0
+  index: -1
+YouDabi
+  rotate: false
+  xy: 1034, 19
+  size: 53, 42
+  orig: 55, 44
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 1089, 24
+  size: 38, 37
+  orig: 40, 39
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 1464, 11
+  size: 29, 25
+  orig: 31, 27
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: true
+  xy: 1438, 82
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 972, 13
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+ZuoXiaobi
+  rotate: true
+  xy: 1129, 22
+  size: 39, 36
+  orig: 41, 38
+  offset: 1, 1
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 1438, 122
+  size: 32, 39
+  orig: 34, 41
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: true
+  xy: 1464, 38
+  size: 42, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+effect/p_0
+  rotate: false
+  xy: 972, 63
+  size: 193, 192
+  orig: 250, 250
+  offset: 35, 38
+  index: -1
+effect/p_10
+  rotate: false
+  xy: 1290, 163
+  size: 180, 92
+  orig: 250, 250
+  offset: 35, 106
+  index: -1
+effect/p_2
+  rotate: false
+  xy: 495, 17
+  size: 240, 238
+  orig: 250, 250
+  offset: 10, 12
+  index: -1
+effect/p_4
+  rotate: false
+  xy: 2, 10
+  size: 246, 245
+  orig: 250, 250
+  offset: 4, 5
+  index: -1
+effect/p_6
+  rotate: false
+  xy: 250, 13
+  size: 243, 242
+  orig: 250, 250
+  offset: 7, 8
+  index: -1
+effect/p_8
+  rotate: false
+  xy: 737, 21
+  size: 233, 234
+  orig: 250, 250
+  offset: 15, 16
+  index: -1
+huopao
+  rotate: false
+  xy: 1290, 79
+  size: 146, 82
+  orig: 148, 84
+  offset: 1, 1
+  index: -1
+pifeng
+  rotate: false
+  xy: 1167, 17
+  size: 118, 85
+  orig: 118, 85
+  offset: 0, 0
+  index: -1
+pifengqian
+  rotate: true
+  xy: 1287, 4
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1376, 2
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+jian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian/jian
+  rotate: true
+  xy: 2, 2
+  size: 333, 860
+  orig: 362, 926
+  offset: 16, 19
+  index: -1
+jian/jian_0
+  rotate: true
+  xy: 272, 477
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_1
+  rotate: true
+  xy: 422, 477
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_10
+  rotate: true
+  xy: 752, 407
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_11
+  rotate: true
+  xy: 2, 368
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_12
+  rotate: true
+  xy: 152, 337
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_13
+  rotate: true
+  xy: 302, 337
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_14
+  rotate: true
+  xy: 452, 337
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_2
+  rotate: true
+  xy: 572, 477
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_3
+  rotate: true
+  xy: 722, 477
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_4
+  rotate: true
+  xy: 872, 477
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_5
+  rotate: true
+  xy: 2, 438
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_6
+  rotate: true
+  xy: 152, 407
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_7
+  rotate: true
+  xy: 302, 407
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_8
+  rotate: true
+  xy: 452, 407
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/jian_9
+  rotate: true
+  xy: 602, 407
+  size: 68, 148
+  orig: 76, 148
+  offset: 5, 0
+  index: -1
+jian/lizi_0
+  rotate: false
+  xy: 2, 587
+  size: 33, 32
+  orig: 40, 40
+  offset: 3, 4
+  index: -1
+jian/shang_0
+  rotate: true
+  xy: 160, 585
+  size: 34, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_1
+  rotate: true
+  xy: 295, 585
+  size: 34, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_10
+  rotate: true
+  xy: 542, 547
+  size: 36, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_11
+  rotate: true
+  xy: 677, 547
+  size: 36, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_12
+  rotate: true
+  xy: 812, 547
+  size: 36, 133
+  orig: 59, 148
+  offset: 13, 12
+  index: -1
+jian/shang_13
+  rotate: true
+  xy: 137, 508
+  size: 37, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_14
+  rotate: true
+  xy: 2, 510
+  size: 36, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_2
+  rotate: true
+  xy: 430, 585
+  size: 34, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_3
+  rotate: true
+  xy: 565, 585
+  size: 34, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_4
+  rotate: true
+  xy: 700, 585
+  size: 34, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_5
+  rotate: true
+  xy: 835, 585
+  size: 34, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_6
+  rotate: true
+  xy: 2, 548
+  size: 36, 133
+  orig: 59, 148
+  offset: 12, 12
+  index: -1
+jian/shang_7
+  rotate: true
+  xy: 137, 547
+  size: 36, 133
+  orig: 59, 148
+  offset: 13, 12
+  index: -1
+jian/shang_8
+  rotate: true
+  xy: 272, 547
+  size: 36, 133
+  orig: 59, 148
+  offset: 13, 12
+  index: -1
+jian/shang_9
+  rotate: true
+  xy: 407, 547
+  size: 36, 133
+  orig: 59, 148
+  offset: 13, 12
+  index: -1
+jian/xian_0
+  rotate: true
+  xy: 37, 586
+  size: 33, 121
+  orig: 44, 148
+  offset: 6, 13
+  index: -1

@@ -1,0 +1,188 @@
+
+redPlus-dark-male.png
+size: 1618,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianfu1
+  rotate: true
+  xy: 786, 21
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+bianfu2
+  rotate: true
+  xy: 997, 114
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+bianfu3
+  rotate: false
+  xy: 889, 108
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 846, 7
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+dabi2
+  rotate: false
+  xy: 971, 6
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 817, 100
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: true
+  xy: 993, 55
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+effect/di_0
+  rotate: true
+  xy: 2, 3
+  size: 321, 393
+  orig: 321, 393
+  offset: 0, 0
+  index: -1
+effect/lihua_0
+  rotate: true
+  xy: 1366, 22
+  size: 150, 123
+  orig: 150, 123
+  offset: 0, 0
+  index: -1
+effect/lihua_1
+  rotate: true
+  xy: 1368, 174
+  size: 150, 123
+  orig: 150, 123
+  offset: 0, 0
+  index: -1
+effect/lihua_2
+  rotate: true
+  xy: 1491, 22
+  size: 150, 123
+  orig: 150, 123
+  offset: 0, 0
+  index: -1
+effect/lihua_3
+  rotate: true
+  xy: 1493, 174
+  size: 150, 123
+  orig: 150, 123
+  offset: 0, 0
+  index: -1
+effect/qiqiu_0
+  rotate: false
+  xy: 1064, 174
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/qiqiu_1
+  rotate: false
+  xy: 1214, 22
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/qiqiu_2
+  rotate: false
+  xy: 1216, 174
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1060, 5
+  size: 145, 152
+  orig: 145, 152
+  offset: 0, 0
+  index: -1
+lingjie
+  rotate: true
+  xy: 939, 49
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+maozi1
+  rotate: false
+  xy: 817, 152
+  size: 245, 172
+  orig: 245, 172
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: true
+  xy: 397, 7
+  size: 317, 229
+  orig: 317, 229
+  offset: 0, 0
+  index: -1
+maozi3
+  rotate: false
+  xy: 628, 4
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 1029, 120
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 628, 93
+  size: 231, 187
+  orig: 231, 187
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 720, 14
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+xiaobi2
+  rotate: true
+  xy: 957, 108
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 1003, 25
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 939, 2
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1

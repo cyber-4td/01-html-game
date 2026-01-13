@@ -1,0 +1,153 @@
+
+demon_wizard_death.png
+size: 427,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tou2
+  rotate: false
+  xy: 220, 206
+  size: 152, 91
+  orig: 152, 101
+  offset: 0, 10
+  index: -1
+Youdabi
+  rotate: false
+  xy: 344, 140
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 280, 316
+  size: 22, 45
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Youxiaobi
+  rotate: false
+  xy: 382, 21
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Zuodabi
+  rotate: false
+  xy: 376, 305
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Zuojiao
+  rotate: false
+  xy: 367, 57
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 374, 211
+  size: 23, 45
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Zuoxiaobi
+  rotate: false
+  xy: 220, 300
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+dangbu
+  rotate: false
+  xy: 374, 236
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+effect/g2_0
+  rotate: true
+  xy: 2, 2
+  size: 200, 205
+  orig: 280, 280
+  offset: 45, 43
+  index: -1
+effect/g_0
+  rotate: false
+  xy: 2, 204
+  size: 216, 221
+  orig: 280, 280
+  offset: 36, 30
+  index: -1
+qunbaiYou
+  rotate: false
+  xy: 344, 363
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+qunbaihou
+  rotate: false
+  xy: 209, 5
+  size: 82, 49
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+qunbaoZuo
+  rotate: false
+  xy: 285, 363
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 220, 366
+  size: 63, 59
+  orig: 70, 59
+  offset: 7, 0
+  index: -1
+shuijiqiu
+  rotate: false
+  xy: 344, 73
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 209, 56
+  size: 146, 133
+  orig: 146, 133
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 382, 348
+  size: 31, 77
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 293, 15
+  size: 39, 87
+  orig: 39, 87
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 344, 299
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 344, 57
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+cuisitala.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi
+  rotate: false
+  xy: 305, 155
+  size: 96, 99
+  orig: 160, 161
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 354, 53
+  size: 73, 61
+  orig: 76, 63
+  offset: 1, 1
+  index: -1
+dabi1
+  rotate: true
+  xy: 240, 123
+  size: 39, 44
+  orig: 41, 46
+  offset: 1, 1
+  index: -1
+dabi2
+  rotate: true
+  xy: 354, 3
+  size: 48, 31
+  orig: 51, 36
+  offset: 1, 2
+  index: -1
+dapao
+  rotate: true
+  xy: 2, 74
+  size: 180, 103
+  orig: 182, 104
+  offset: 1, 1
+  index: -1
+ear
+  rotate: false
+  xy: 403, 170
+  size: 33, 44
+  orig: 35, 46
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 387, 22
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 107, 123
+  size: 131, 131
+  orig: 133, 133
+  offset: 1, 1
+  index: -1
+kua
+  rotate: false
+  xy: 238, 87
+  size: 65, 34
+  orig: 68, 37
+  offset: 1, 2
+  index: -1
+leg1
+  rotate: true
+  xy: 440, 145
+  size: 31, 30
+  orig: 33, 32
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: false
+  xy: 438, 178
+  size: 36, 36
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+leg3
+  rotate: false
+  xy: 452, 114
+  size: 27, 29
+  orig: 30, 32
+  offset: 1, 1
+  index: -1
+leg4
+  rotate: false
+  xy: 417, 90
+  size: 33, 36
+  orig: 35, 38
+  offset: 1, 1
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 2
+  size: 178, 70
+  orig: 180, 72
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: true
+  xy: 403, 128
+  size: 40, 35
+  orig: 43, 38
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 403, 216
+  size: 39, 38
+  orig: 42, 41
+  offset: 2, 1
+  index: -1
+toufa1
+  rotate: true
+  xy: 305, 85
+  size: 41, 47
+  orig: 43, 50
+  offset: 1, 1
+  index: -1
+toufa2
+  rotate: true
+  xy: 107, 79
+  size: 42, 67
+  orig: 44, 68
+  offset: 1, 1
+  index: -1
+toufa3
+  rotate: true
+  xy: 176, 84
+  size: 37, 60
+  orig: 41, 63
+  offset: 2, 2
+  index: -1
+toufa4
+  rotate: false
+  xy: 240, 164
+  size: 62, 90
+  orig: 64, 91
+  offset: 1, 1
+  index: -1
+xiaobi1
+  rotate: true
+  xy: 444, 218
+  size: 36, 34
+  orig: 38, 36
+  offset: 1, 1
+  index: -1
+xiaobi2
+  rotate: false
+  xy: 417, 55
+  size: 36, 33
+  orig: 38, 35
+  offset: 1, 1
+  index: -1
+yanjing
+  rotate: false
+  xy: 182, 20
+  size: 170, 62
+  orig: 171, 63
+  offset: 0, 1
+  index: -1
+yaodai
+  rotate: false
+  xy: 286, 128
+  size: 68, 25
+  orig: 70, 26
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,237 @@
+
+nwsck.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 918, 988
+  size: 93, 79
+  orig: 95, 81
+  offset: 1, 1
+  index: -1
+bozi
+  rotate: false
+  xy: 918, 1116
+  size: 40, 36
+  orig: 42, 38
+  offset: 1, 1
+  index: -1
+circle1
+  rotate: false
+  xy: 2, 199
+  size: 492, 492
+  orig: 492, 492
+  offset: 0, 0
+  index: -1
+circle11
+  rotate: false
+  xy: 2, 2
+  size: 194, 195
+  orig: 194, 195
+  offset: 0, 0
+  index: -1
+circle2
+  rotate: false
+  xy: 2, 693
+  size: 653, 653
+  orig: 671, 671
+  offset: 9, 9
+  index: -1
+cloud1
+  rotate: false
+  xy: 683, 1291
+  size: 278, 107
+  orig: 280, 107
+  offset: 1, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 683, 1670
+  size: 338, 147
+  orig: 339, 149
+  offset: 1, 1
+  index: -1
+eff_BigCircleGlow_000
+  rotate: false
+  xy: 657, 792
+  size: 241, 240
+  orig: 270, 270
+  offset: 15, 15
+  index: -1
+eff_CrownGlow_000
+  rotate: true
+  xy: 963, 1157
+  size: 91, 56
+  orig: 108, 72
+  offset: 12, 7
+  index: -1
+eff_PointPar_000
+  rotate: false
+  xy: 610, 551
+  size: 48, 48
+  orig: 58, 58
+  offset: 5, 5
+  index: -1
+eff_Star
+  rotate: true
+  xy: 918, 1247
+  size: 42, 43
+  orig: 55, 58
+  offset: 6, 8
+  index: -1
+eff_StarLine_000
+  rotate: false
+  xy: 994, 1636
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1
+eff_TriangleShine_000
+  rotate: true
+  xy: 963, 1250
+  size: 61, 57
+  orig: 72, 72
+  offset: 5, 6
+  index: -1
+eff_WingTopGlow_000
+  rotate: false
+  xy: 870, 601
+  size: 80, 70
+  orig: 117, 90
+  offset: 19, 13
+  index: -1
+jianBing
+  rotate: false
+  xy: 918, 1154
+  size: 41, 91
+  orig: 41, 92
+  offset: 0, 1
+  index: -1
+l_gebo
+  rotate: true
+  xy: 952, 547
+  size: 60, 62
+  orig: 62, 65
+  offset: 1, 2
+  index: -1
+l_jian
+  rotate: true
+  xy: 900, 765
+  size: 109, 113
+  orig: 112, 114
+  offset: 1, 1
+  index: -1
+l_shou
+  rotate: false
+  xy: 554, 548
+  size: 54, 51
+  orig: 57, 59
+  offset: 1, 1
+  index: -1
+l_shoubi
+  rotate: false
+  xy: 660, 552
+  size: 80, 47
+  orig: 82, 57
+  offset: 1, 6
+  index: -1
+liuhai1
+  rotate: true
+  xy: 870, 673
+  size: 90, 109
+  orig: 93, 111
+  offset: 1, 1
+  index: -1
+liuhai2
+  rotate: true
+  xy: 961, 1069
+  size: 86, 61
+  orig: 86, 63
+  offset: 0, 1
+  index: -1
+liuhai3
+  rotate: false
+  xy: 963, 1313
+  size: 57, 85
+  orig: 59, 85
+  offset: 2, 0
+  index: -1
+r_gebo
+  rotate: false
+  xy: 952, 609
+  size: 62, 62
+  orig: 62, 65
+  offset: 0, 2
+  index: -1
+r_jian
+  rotate: true
+  xy: 900, 876
+  size: 110, 114
+  orig: 111, 114
+  offset: 1, 0
+  index: -1
+r_shou
+  rotate: false
+  xy: 496, 547
+  size: 56, 52
+  orig: 57, 59
+  offset: 1, 0
+  index: -1
+r_shoubi
+  rotate: false
+  xy: 742, 552
+  size: 80, 47
+  orig: 82, 57
+  offset: 1, 6
+  index: -1
+shenti
+  rotate: false
+  xy: 683, 1400
+  size: 309, 268
+  orig: 356, 278
+  offset: 9, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 657, 1034
+  size: 255, 259
+  orig: 262, 260
+  offset: 0, 0
+  index: -1
+touguan
+  rotate: false
+  xy: 657, 663
+  size: 211, 127
+  orig: 211, 127
+  offset: 0, 0
+  index: -1
+wind-1L
+  rotate: true
+  xy: 2, 1348
+  size: 233, 679
+  orig: 234, 679
+  offset: 0, 0
+  index: -1
+wind-1R
+  rotate: true
+  xy: 2, 1583
+  size: 234, 679
+  orig: 234, 679
+  offset: 0, 0
+  index: -1
+wind-2L
+  rotate: true
+  xy: 496, 376
+  size: 169, 480
+  orig: 170, 481
+  offset: 0, 0
+  index: -1
+wind-2R
+  rotate: true
+  xy: 496, 205
+  size: 169, 480
+  orig: 170, 481
+  offset: 1, 0
+  index: -1

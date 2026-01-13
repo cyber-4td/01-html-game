@@ -1,0 +1,34 @@
+
+building-chengBao.png
+size: 576,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+building
+  rotate: false
+  xy: 5, 61
+  size: 567, 842
+  orig: 585, 875
+  offset: 9, 18
+  index: -1
+flag
+  rotate: false
+  xy: 5, 5
+  size: 151, 52
+  orig: 151, 52
+  offset: 0, 0
+  index: -1
+flag2
+  rotate: false
+  xy: 160, 5
+  size: 151, 52
+  orig: 151, 52
+  offset: 0, 0
+  index: -1
+qiGan
+  rotate: true
+  xy: 315, 29
+  size: 28, 70
+  orig: 29, 97
+  offset: 0, 0
+  index: -1

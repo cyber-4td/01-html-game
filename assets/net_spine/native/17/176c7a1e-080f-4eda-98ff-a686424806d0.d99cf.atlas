@@ -1,0 +1,69 @@
+
+caster_occultist.png
+size: 128,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 1, 75
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+YouDabi
+  rotate: true
+  xy: 82, 29
+  size: 28, 39
+  orig: 30, 41
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: true
+  xy: 1, 12
+  size: 30, 31
+  orig: 32, 33
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 82, 1
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 43, 21
+  size: 39, 36
+  orig: 41, 38
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: true
+  xy: 1, 42
+  size: 36, 42
+  orig: 38, 44
+  offset: 1, 1
+  index: -1
+huo
+  rotate: true
+  xy: 73, 57
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 75, 87
+  size: 57, 46
+  orig: 59, 48
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 1, 144
+  size: 110, 113
+  orig: 112, 115
+  offset: 1, 1
+  index: -1

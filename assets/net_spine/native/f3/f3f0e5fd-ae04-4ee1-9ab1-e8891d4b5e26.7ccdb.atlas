@@ -1,0 +1,27 @@
+
+slime.png
+size: 105,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer1
+  rotate: false
+  xy: 95, 43
+  size: 8, 17
+  orig: 10, 19
+  offset: 1, 1
+  index: -1
+shenii
+  rotate: false
+  xy: 2, 2
+  size: 91, 78
+  orig: 91, 82
+  offset: 0, 4
+  index: -1
+yanjing
+  rotate: false
+  xy: 95, 62
+  size: 8, 18
+  orig: 10, 20
+  offset: 1, 1
+  index: -1

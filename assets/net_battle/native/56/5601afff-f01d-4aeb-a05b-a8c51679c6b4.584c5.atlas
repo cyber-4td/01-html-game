@@ -1,0 +1,76 @@
+
+lx_UI_ElementSmoke.png
+size: 395,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lx_UI_ElementSmoke/eff_ElementBoom_000
+  rotate: false
+  xy: 2, 302
+  size: 71, 66
+  orig: 160, 160
+  offset: 45, 46
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_001
+  rotate: false
+  xy: 75, 285
+  size: 84, 83
+  orig: 160, 160
+  offset: 39, 38
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_002
+  rotate: true
+  xy: 161, 271
+  size: 97, 99
+  orig: 160, 160
+  offset: 32, 30
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_003
+  rotate: true
+  xy: 262, 261
+  size: 107, 112
+  orig: 160, 160
+  offset: 27, 23
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_004
+  rotate: true
+  xy: 2, 161
+  size: 122, 125
+  orig: 160, 160
+  offset: 19, 17
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_005
+  rotate: true
+  xy: 129, 147
+  size: 122, 128
+  orig: 160, 160
+  offset: 16, 16
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_006
+  rotate: false
+  xy: 2, 26
+  size: 124, 133
+  orig: 160, 160
+  offset: 15, 14
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_007
+  rotate: true
+  xy: 259, 136
+  size: 123, 134
+  orig: 160, 160
+  offset: 17, 14
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_008
+  rotate: true
+  xy: 128, 13
+  size: 132, 128
+  orig: 160, 160
+  offset: 9, 17
+  index: -1
+lx_UI_ElementSmoke/eff_ElementBoom_009
+  rotate: false
+  xy: 258, 2
+  size: 132, 132
+  orig: 160, 160
+  offset: 8, 21
+  index: -1

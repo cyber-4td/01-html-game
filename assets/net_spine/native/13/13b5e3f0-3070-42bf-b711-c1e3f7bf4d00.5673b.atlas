@@ -1,0 +1,202 @@
+
+wenleisa.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi
+  rotate: false
+  xy: 2, 223
+  size: 183, 251
+  orig: 184, 257
+  offset: 0, 6
+  index: -1
+body
+  rotate: false
+  xy: 329, 340
+  size: 99, 82
+  orig: 101, 84
+  offset: 1, 1
+  index: -1
+dabi1
+  rotate: false
+  xy: 367, 27
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+ear1
+  rotate: true
+  xy: 387, 168
+  size: 74, 63
+  orig: 84, 66
+  offset: 1, 1
+  index: -1
+ear2
+  rotate: false
+  xy: 397, 275
+  size: 74, 63
+  orig: 83, 65
+  offset: 8, 1
+  index: -1
+eye
+  rotate: false
+  xy: 397, 245
+  size: 52, 28
+  orig: 54, 31
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 187, 334
+  size: 140, 140
+  orig: 142, 142
+  offset: 1, 1
+  index: -1
+gong
+  rotate: true
+  xy: 2, 72
+  size: 149, 220
+  orig: 149, 220
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 329, 424
+  size: 169, 50
+  orig: 169, 50
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: false
+  xy: 451, 246
+  size: 38, 27
+  orig: 41, 30
+  offset: 1, 1
+  index: -1
+leg1
+  rotate: true
+  xy: 454, 2
+  size: 45, 35
+  orig: 47, 37
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: false
+  xy: 224, 64
+  size: 50, 50
+  orig: 52, 51
+  offset: 1, 1
+  index: -1
+leg3
+  rotate: false
+  xy: 452, 168
+  size: 41, 32
+  orig: 44, 34
+  offset: 2, 1
+  index: -1
+leg4
+  rotate: false
+  xy: 276, 62
+  size: 46, 52
+  orig: 48, 54
+  offset: 1, 1
+  index: -1
+qunzi1
+  rotate: false
+  xy: 452, 202
+  size: 40, 42
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+qunzi2
+  rotate: false
+  xy: 367, 69
+  size: 59, 38
+  orig: 61, 41
+  offset: 1, 1
+  index: -1
+qunzi3
+  rotate: true
+  xy: 473, 297
+  size: 47, 36
+  orig: 49, 38
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: false
+  xy: 409, 8
+  size: 43, 39
+  orig: 45, 41
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 409, 8
+  size: 43, 39
+  orig: 45, 41
+  offset: 1, 1
+  index: -1
+toufa1
+  rotate: false
+  xy: 224, 116
+  size: 161, 117
+  orig: 162, 120
+  offset: 1, 1
+  index: -1
+toufa2
+  rotate: true
+  xy: 293, 244
+  size: 88, 102
+  orig: 101, 104
+  offset: 1, 1
+  index: -1
+toufa3
+  rotate: true
+  xy: 187, 235
+  size: 97, 104
+  orig: 99, 106
+  offset: 1, 1
+  index: -1
+toufa4
+  rotate: false
+  xy: 324, 58
+  size: 41, 56
+  orig: 43, 59
+  offset: 1, 1
+  index: -1
+toufa5
+  rotate: false
+  xy: 470, 79
+  size: 34, 54
+  orig: 36, 56
+  offset: 1, 1
+  index: -1
+toushi1
+  rotate: true
+  xy: 430, 346
+  size: 76, 60
+  orig: 86, 60
+  offset: 9, 0
+  index: -1
+toushi2
+  rotate: true
+  xy: 387, 109
+  size: 57, 55
+  orig: 59, 58
+  offset: 1, 1
+  index: -1
+xiaob2
+  rotate: true
+  xy: 428, 49
+  size: 58, 40
+  orig: 60, 42
+  offset: 1, 1
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 444, 135
+  size: 58, 31
+  orig: 59, 33
+  offset: 0, 1
+  index: -1

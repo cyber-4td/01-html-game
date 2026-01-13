@@ -1,0 +1,13 @@
+
+jt.png
+size: 24,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jt
+  rotate: false
+  xy: 2, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1

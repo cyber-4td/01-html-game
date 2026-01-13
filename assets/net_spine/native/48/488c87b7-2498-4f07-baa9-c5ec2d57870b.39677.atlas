@@ -1,0 +1,118 @@
+
+goblin.png
+size: 323,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 246, 197
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 2
+  size: 119, 81
+  orig: 121, 83
+  offset: 1, 1
+  index: -1
+YouDabi
+  rotate: true
+  xy: 229, 90
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 275, 81
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: true
+  xy: 221, 6
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 265, 52
+  size: 29, 27
+  orig: 31, 29
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: true
+  xy: 236, 125
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: false
+  xy: 221, 44
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+effect/0
+  rotate: false
+  xy: 2, 85
+  size: 168, 57
+  orig: 260, 100
+  offset: 3, 15
+  index: -1
+effect/1
+  rotate: false
+  xy: 2, 205
+  size: 242, 68
+  orig: 260, 100
+  offset: 11, 9
+  index: -1
+effect/2
+  rotate: false
+  xy: 2, 144
+  size: 232, 59
+  orig: 260, 100
+  offset: 20, 11
+  index: -1
+effect/3
+  rotate: true
+  xy: 176, 15
+  size: 73, 43
+  orig: 260, 100
+  offset: 46, 25
+  index: -1
+effect/4
+  rotate: true
+  xy: 123, 3
+  size: 80, 51
+  orig: 260, 100
+  offset: 81, 17
+  index: -1
+effect/5
+  rotate: false
+  xy: 172, 90
+  size: 55, 52
+  orig: 260, 100
+  offset: 110, 13
+  index: -1
+effect/6
+  rotate: false
+  xy: 284, 115
+  size: 37, 45
+  orig: 260, 100
+  offset: 131, 17
+  index: -1
+wuqi
+  rotate: false
+  xy: 236, 162
+  size: 70, 33
+  orig: 72, 35
+  offset: 1, 1
+  index: -1

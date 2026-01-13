@@ -1,0 +1,104 @@
+
+kuanggong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tou2
+  rotate: false
+  xy: 2, 50
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+dabi1
+  rotate: false
+  xy: 375, 81
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+dabi2
+  rotate: true
+  xy: 229, 2
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+futou
+  rotate: false
+  xy: 208, 123
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 98, 8
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 413, 19
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 301, 5
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 208, 62
+  size: 165, 59
+  orig: 165, 59
+  offset: 0, 0
+  index: -1
+shangshen1
+  rotate: true
+  xy: 329, 152
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 177, 2
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 365, 11
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 412, 210
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+xiaobi2
+  rotate: true
+  xy: 412, 162
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 2, 14
+  size: 94, 34
+  orig: 94, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+goblin_earth_shaman.png
+size: 216,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 96, 87
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 94, 164
+  size: 120, 80
+  orig: 122, 82
+  offset: 1, 1
+  index: -1
+YouDabi
+  rotate: false
+  xy: 181, 43
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+YouXiaobi
+  rotate: true
+  xy: 168, 87
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 41, 8
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: true
+  xy: 2, 8
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 181, 2
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: false
+  xy: 168, 120
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+fazhang
+  rotate: true
+  xy: 2, 45
+  size: 88, 92
+  orig: 90, 94
+  offset: 1, 1
+  index: -1
+mianju
+  rotate: true
+  xy: 96, 16
+  size: 69, 83
+  orig: 71, 85
+  offset: 1, 1
+  index: -1
+yezitoufa
+  rotate: true
+  xy: 2, 135
+  size: 109, 90
+  orig: 109, 90
+  offset: 0, 0
+  index: -1

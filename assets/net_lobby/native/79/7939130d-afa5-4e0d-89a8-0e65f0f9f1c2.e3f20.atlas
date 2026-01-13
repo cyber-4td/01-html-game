@@ -1,0 +1,27 @@
+
+meirijingxuan.png
+size: 162,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 79
+  size: 81, 81
+  orig: 83, 83
+  offset: 1, 1
+  index: -1
+ren
+  rotate: true
+  xy: 2, 2
+  size: 75, 69
+  orig: 77, 71
+  offset: 1, 1
+  index: -1
+xingxing
+  rotate: false
+  xy: 73, 59
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1

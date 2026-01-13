@@ -1,0 +1,167 @@
+
+yy.png
+size: 1894,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 1856, 420
+  size: 34, 36
+  orig: 36, 38
+  offset: 1, 1
+  index: -1
+a_0
+  rotate: false
+  xy: 1182, 10
+  size: 234, 116
+  orig: 252, 118
+  offset: 16, 1
+  index: -1
+a_2
+  rotate: false
+  xy: 1418, 18
+  size: 235, 113
+  orig: 252, 118
+  offset: 15, 3
+  index: -1
+a_3
+  rotate: false
+  xy: 234, 4
+  size: 235, 116
+  orig: 252, 118
+  offset: 15, 0
+  index: -1
+a_5
+  rotate: false
+  xy: 471, 6
+  size: 235, 116
+  orig: 252, 118
+  offset: 15, 0
+  index: -1
+a_6
+  rotate: false
+  xy: 708, 6
+  size: 235, 116
+  orig: 252, 118
+  offset: 15, 0
+  index: -1
+a_7
+  rotate: false
+  xy: 945, 8
+  size: 235, 116
+  orig: 252, 118
+  offset: 15, 0
+  index: -1
+a_9
+  rotate: false
+  xy: 2, 3
+  size: 230, 117
+  orig: 252, 118
+  offset: 18, 0
+  index: -1
+bf_0
+  rotate: true
+  xy: 1814, 46
+  size: 149, 53
+  orig: 161, 90
+  offset: 7, 13
+  index: -1
+chs
+  rotate: true
+  xy: 1662, 197
+  size: 257, 95
+  orig: 257, 95
+  offset: 0, 0
+  index: -1
+cht
+  rotate: true
+  xy: 1759, 197
+  size: 257, 95
+  orig: 257, 95
+  offset: 0, 0
+  index: -1
+g_0
+  rotate: false
+  xy: 1655, 2
+  size: 157, 162
+  orig: 198, 162
+  offset: 18, 0
+  index: -1
+kr
+  rotate: true
+  xy: 1552, 166
+  size: 288, 108
+  orig: 288, 108
+  offset: 0, 0
+  index: -1
+tx_0
+  rotate: true
+  xy: 1087, 128
+  size: 326, 153
+  orig: 333, 162
+  offset: 7, 3
+  index: -1
+tx_11
+  rotate: true
+  xy: 1397, 133
+  size: 321, 153
+  orig: 333, 162
+  offset: 12, 3
+  index: -1
+tx_12
+  rotate: true
+  xy: 1242, 131
+  size: 323, 153
+  orig: 333, 162
+  offset: 10, 3
+  index: -1
+tx_14
+  rotate: true
+  xy: 932, 126
+  size: 328, 153
+  orig: 333, 162
+  offset: 5, 3
+  index: -1
+tx_2
+  rotate: true
+  xy: 777, 125
+  size: 329, 153
+  orig: 333, 162
+  offset: 3, 3
+  index: -1
+tx_3
+  rotate: true
+  xy: 467, 124
+  size: 330, 153
+  orig: 333, 162
+  offset: 2, 3
+  index: -1
+tx_5
+  rotate: true
+  xy: 2, 122
+  size: 332, 153
+  orig: 333, 162
+  offset: 0, 3
+  index: -1
+tx_6
+  rotate: true
+  xy: 157, 122
+  size: 332, 153
+  orig: 333, 162
+  offset: 0, 3
+  index: -1
+tx_8
+  rotate: true
+  xy: 312, 122
+  size: 332, 153
+  orig: 333, 162
+  offset: 0, 3
+  index: -1
+tx_9
+  rotate: true
+  xy: 622, 124
+  size: 330, 153
+  orig: 333, 162
+  offset: 2, 3
+  index: -1

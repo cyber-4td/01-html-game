@@ -1,0 +1,34 @@
+
+kaibaoxiangbiaoti.png
+size: 420,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baod0348
+  rotate: true
+  xy: 328, 41
+  size: 98, 90
+  orig: 100, 100
+  offset: 2, 5
+  index: -1
+gdd_02
+  rotate: true
+  xy: 328, 14
+  size: 25, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+gq_2
+  rotate: true
+  xy: 199, 11
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+tx_gxxx
+  rotate: false
+  xy: 2, 2
+  size: 195, 137
+  orig: 200, 142
+  offset: 3, 3
+  index: -1

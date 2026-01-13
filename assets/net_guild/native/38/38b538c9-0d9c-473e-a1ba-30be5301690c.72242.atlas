@@ -1,0 +1,34 @@
+
+building-shangDian.png
+size: 586,1118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 17
+  rotate: false
+  xy: 5, 423
+  size: 564, 691
+  orig: 577, 706
+  offset: 5, 9
+  index: -1
+light1
+  rotate: false
+  xy: 427, 106
+  size: 117, 313
+  orig: 119, 315
+  offset: 1, 1
+  index: -1
+light2
+  rotate: false
+  xy: 5, 48
+  size: 418, 371
+  orig: 424, 375
+  offset: 3, 3
+  index: -1
+light3
+  rotate: false
+  xy: 427, 5
+  size: 155, 97
+  orig: 168, 116
+  offset: 3, 17
+  index: -1

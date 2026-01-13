@@ -1,0 +1,153 @@
+
+purple-water-maleLeg.png
+size: 1513,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caoqun
+  rotate: false
+  xy: 1328, 52
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+haixing
+  rotate: false
+  xy: 1328, 14
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+paopao_0
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_1
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_10
+  rotate: false
+  xy: 1022, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_11
+  rotate: false
+  xy: 1124, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_2
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_3
+  rotate: false
+  xy: 308, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_4
+  rotate: false
+  xy: 410, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_5
+  rotate: false
+  xy: 512, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_6
+  rotate: false
+  xy: 614, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_7
+  rotate: false
+  xy: 716, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_8
+  rotate: false
+  xy: 818, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_9
+  rotate: false
+  xy: 920, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+star_0
+  rotate: false
+  xy: 1226, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+you-tui
+  rotate: false
+  xy: 1438, 47
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 1381, 8
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+youjian1
+  rotate: false
+  xy: 1482, 28
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+youjian2
+  rotate: false
+  xy: 1381, 56
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1422, 19
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: true
+  xy: 1482, 61
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1

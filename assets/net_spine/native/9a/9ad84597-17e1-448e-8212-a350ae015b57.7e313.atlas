@@ -1,0 +1,153 @@
+
+battering_ram_blade.png
+size: 1005,731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 758, 501
+  size: 46, 41
+  orig: 46, 42
+  offset: 0, 1
+  index: -1
+dao0
+  rotate: false
+  xy: 756, 151
+  size: 224, 134
+  orig: 224, 134
+  offset: 0, 0
+  index: -1
+dao1
+  rotate: false
+  xy: 459, 75
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1
+dao2
+  rotate: true
+  xy: 620, 10
+  size: 169, 90
+  orig: 169, 90
+  offset: 0, 0
+  index: -1
+effect/chongc_0
+  rotate: true
+  xy: 252, 18
+  size: 135, 205
+  orig: 303, 356
+  offset: 83, 42
+  index: -1
+effect/chongc_1
+  rotate: false
+  xy: 252, 155
+  size: 168, 228
+  orig: 303, 356
+  offset: 67, 52
+  index: -1
+effect/chongc_2
+  rotate: false
+  xy: 2, 40
+  size: 248, 343
+  orig: 303, 356
+  offset: 27, 1
+  index: -1
+effect/chongc_3
+  rotate: false
+  xy: 254, 386
+  size: 248, 343
+  orig: 303, 356
+  offset: 27, 1
+  index: -1
+effect/chongc_4
+  rotate: false
+  xy: 2, 385
+  size: 250, 344
+  orig: 303, 356
+  offset: 26, 0
+  index: -1
+effect/chongc_5
+  rotate: false
+  xy: 826, 477
+  size: 177, 252
+  orig: 303, 356
+  offset: 40, 51
+  index: -1
+effect/chongc_6
+  rotate: true
+  xy: 504, 373
+  size: 169, 252
+  orig: 303, 356
+  offset: 40, 51
+  index: -1
+kuangjia
+  rotate: false
+  xy: 854, 67
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 542, 2
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: false
+  xy: 542, 2
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+lun3
+  rotate: false
+  xy: 459, 2
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+lun4
+  rotate: false
+  xy: 459, 2
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+zhuZi
+  rotate: false
+  xy: 504, 544
+  size: 320, 185
+  orig: 335, 185
+  offset: 8, 0
+  index: -1
+zuDang1
+  rotate: false
+  xy: 422, 181
+  size: 206, 190
+  orig: 206, 190
+  offset: 0, 0
+  index: -1
+zuDang2
+  rotate: false
+  xy: 758, 287
+  size: 243, 188
+  orig: 243, 188
+  offset: 0, 0
+  index: -1
+zuDang3
+  rotate: false
+  xy: 712, 51
+  size: 140, 98
+  orig: 140, 98
+  offset: 0, 0
+  index: -1
+zuDang4
+  rotate: true
+  xy: 630, 194
+  size: 177, 124
+  orig: 177, 124
+  offset: 0, 0
+  index: -1

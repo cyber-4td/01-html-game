@@ -1,0 +1,83 @@
+
+gargoyle.png
+size: 493,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 377, 66
+  size: 79, 87
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 273, 67
+  size: 86, 102
+  orig: 89, 106
+  offset: 0, 2
+  index: -1
+shenti
+  rotate: true
+  xy: 172, 56
+  size: 97, 99
+  orig: 97, 101
+  offset: 0, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 168, 151
+  orig: 170, 153
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: true
+  xy: 458, 88
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 333, 4
+  size: 34, 61
+  orig: 38, 61
+  offset: 2, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 231, 14
+  size: 40, 39
+  orig: 42, 41
+  offset: 1, 1
+  index: -1
+youshou2
+  rotate: true
+  xy: 369, 15
+  size: 49, 69
+  orig: 59, 75
+  offset: 5, 5
+  index: -1
+zuojiao
+  rotate: false
+  xy: 440, 6
+  size: 37, 58
+  orig: 39, 59
+  offset: 1, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 273, 12
+  size: 58, 53
+  orig: 64, 56
+  offset: 5, 1
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 172, 2
+  size: 52, 57
+  orig: 54, 59
+  offset: 1, 1
+  index: -1

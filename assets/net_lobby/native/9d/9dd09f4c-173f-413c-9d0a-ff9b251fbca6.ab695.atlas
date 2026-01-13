@@ -1,0 +1,34 @@
+
+ui_wupinhuoqu1.png
+size: 189,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 92, 7
+  size: 37, 39
+  orig: 39, 39
+  offset: 1, 0
+  index: -1
+tx_bdd
+  rotate: true
+  xy: 92, 48
+  size: 43, 37
+  orig: 50, 50
+  offset: 4, 8
+  index: -1
+tx_guangkuang
+  rotate: false
+  xy: 2, 2
+  size: 88, 89
+  orig: 89, 91
+  offset: 0, 1
+  index: -1
+tx_quan
+  rotate: false
+  xy: 2, 93
+  size: 94, 94
+  orig: 100, 100
+  offset: 2, 0
+  index: -1

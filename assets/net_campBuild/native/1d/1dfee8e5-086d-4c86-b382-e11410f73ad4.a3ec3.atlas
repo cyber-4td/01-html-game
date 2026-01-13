@@ -1,0 +1,104 @@
+
+shizi.png
+size: 1984,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xian_0
+  rotate: true
+  xy: 2, 738
+  size: 220, 699
+  orig: 272, 699
+  offset: 16, 0
+  index: -1
+xian_10
+  rotate: false
+  xy: 1147, 46
+  size: 187, 690
+  orig: 272, 699
+  offset: 33, 5
+  index: -1
+xian_11
+  rotate: true
+  xy: 2, 192
+  size: 188, 666
+  orig: 272, 699
+  offset: 32, 17
+  index: -1
+xian_12
+  rotate: true
+  xy: 2, 2
+  size: 188, 666
+  orig: 272, 699
+  offset: 32, 17
+  index: -1
+xian_14
+  rotate: true
+  xy: 1336, 9
+  size: 142, 626
+  orig: 272, 699
+  offset: 55, 37
+  index: -1
+xian_15
+  rotate: true
+  xy: 2, 382
+  size: 132, 668
+  orig: 272, 699
+  offset: 60, 16
+  index: -1
+xian_16
+  rotate: false
+  xy: 1848, 338
+  size: 134, 620
+  orig: 272, 699
+  offset: 59, 40
+  index: -1
+xian_18
+  rotate: true
+  xy: 1336, 153
+  size: 104, 638
+  orig: 272, 699
+  offset: 74, 31
+  index: -1
+xian_2
+  rotate: true
+  xy: 703, 738
+  size: 220, 699
+  orig: 272, 699
+  offset: 16, 0
+  index: -1
+xian_3
+  rotate: false
+  xy: 1404, 259
+  size: 220, 699
+  orig: 272, 699
+  offset: 16, 0
+  index: -1
+xian_4
+  rotate: false
+  xy: 1626, 259
+  size: 220, 699
+  orig: 272, 699
+  offset: 16, 0
+  index: -1
+xian_6
+  rotate: false
+  xy: 925, 38
+  size: 220, 698
+  orig: 272, 699
+  offset: 16, 1
+  index: -1
+xian_7
+  rotate: true
+  xy: 2, 516
+  size: 220, 699
+  orig: 272, 699
+  offset: 16, 0
+  index: -1
+xian_8
+  rotate: false
+  xy: 703, 37
+  size: 220, 699
+  orig: 272, 699
+  offset: 16, 0
+  index: -1

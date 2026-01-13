@@ -1,0 +1,153 @@
+
+kuanshu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beidai
+  rotate: false
+  xy: 189, 43
+  size: 79, 77
+  orig: 81, 79
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 435, 162
+  size: 92, 71
+  orig: 94, 74
+  offset: 1, 2
+  index: -1
+dabi1
+  rotate: true
+  xy: 81, 43
+  size: 53, 61
+  orig: 54, 63
+  offset: 1, 1
+  index: -1
+dabi12
+  rotate: true
+  xy: 315, 2
+  size: 52, 61
+  orig: 54, 63
+  offset: 1, 1
+  index: -1
+ear
+  rotate: false
+  xy: 471, 87
+  size: 38, 44
+  orig: 41, 46
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 435, 133
+  size: 44, 27
+  orig: 46, 29
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 189, 122
+  size: 132, 132
+  orig: 134, 134
+  offset: 1, 1
+  index: -1
+kouzhao
+  rotate: false
+  xy: 323, 56
+  size: 146, 71
+  orig: 149, 73
+  offset: 1, 1
+  index: -1
+kua
+  rotate: true
+  xy: 270, 40
+  size: 80, 43
+  orig: 82, 46
+  offset: 1, 2
+  index: -1
+leg1
+  rotate: false
+  xy: 378, 11
+  size: 44, 43
+  orig: 46, 44
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: true
+  xy: 225, 8
+  size: 33, 38
+  orig: 34, 41
+  offset: 1, 1
+  index: -1
+leg3
+  rotate: false
+  xy: 265, 4
+  size: 35, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+leg4
+  rotate: false
+  xy: 424, 9
+  size: 42, 45
+  orig: 44, 47
+  offset: 1, 1
+  index: -1
+luntai
+  rotate: true
+  xy: 323, 129
+  size: 125, 110
+  orig: 127, 112
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: false
+  xy: 144, 15
+  size: 38, 39
+  orig: 41, 43
+  offset: 1, 2
+  index: -1
+shou12
+  rotate: true
+  xy: 81, 3
+  size: 38, 39
+  orig: 41, 43
+  offset: 2, 2
+  index: -1
+toufa1
+  rotate: false
+  xy: 2, 98
+  size: 185, 156
+  orig: 185, 156
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: true
+  xy: 144, 56
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+xiaobi12
+  rotate: false
+  xy: 184, 3
+  size: 39, 38
+  orig: 42, 40
+  offset: 2, 1
+  index: -1
+yaodai
+  rotate: true
+  xy: 471, 2
+  size: 83, 29
+  orig: 85, 31
+  offset: 1, 1
+  index: -1
+zhadan
+  rotate: true
+  xy: 2, 26
+  size: 70, 77
+  orig: 72, 80
+  offset: 1, 1
+  index: -1

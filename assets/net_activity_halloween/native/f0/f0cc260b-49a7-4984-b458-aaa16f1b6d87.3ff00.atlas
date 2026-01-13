@@ -1,0 +1,125 @@
+
+cx.png
+size: 458,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk_0
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_0
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+xl_0
+  rotate: false
+  xy: 2, 812
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_1
+  rotate: false
+  xy: 154, 812
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_10
+  rotate: false
+  xy: 154, 356
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_11
+  rotate: false
+  xy: 306, 356
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_12
+  rotate: false
+  xy: 2, 204
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_13
+  rotate: false
+  xy: 154, 204
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_14
+  rotate: false
+  xy: 306, 204
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_2
+  rotate: false
+  xy: 306, 812
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_3
+  rotate: false
+  xy: 2, 660
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_4
+  rotate: false
+  xy: 154, 660
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_5
+  rotate: false
+  xy: 306, 660
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_6
+  rotate: false
+  xy: 2, 508
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_7
+  rotate: false
+  xy: 154, 508
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_8
+  rotate: false
+  xy: 306, 508
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xl_9
+  rotate: false
+  xy: 2, 356
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

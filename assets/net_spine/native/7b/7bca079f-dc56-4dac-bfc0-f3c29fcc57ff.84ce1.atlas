@@ -1,0 +1,272 @@
+
+redPlus-water-femaleBody.png
+size: 2033,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N_bianzi
+  rotate: false
+  xy: 1891, 193
+  size: 106, 65
+  orig: 106, 65
+  offset: 0, 0
+  index: -1
+N_bianzi2
+  rotate: true
+  xy: 1891, 260
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+N_bibjiao2
+  rotate: true
+  xy: 1891, 153
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+N_binjiao1
+  rotate: true
+  xy: 1940, 45
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+N_body
+  rotate: false
+  xy: 1772, 299
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+N_dabi2
+  rotate: false
+  xy: 1996, 56
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+N_ear1
+  rotate: true
+  xy: 1998, 94
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+N_ear2
+  rotate: true
+  xy: 1958, 86
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+N_fa-1
+  rotate: true
+  xy: 1920, 378
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+N_fa-2
+  rotate: true
+  xy: 1935, 324
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+N_fa-3
+  rotate: true
+  xy: 1842, 301
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+N_face
+  rotate: false
+  xy: 1772, 374
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+N_hua
+  rotate: true
+  xy: 1935, 260
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+N_jianjia3
+  rotate: true
+  xy: 1891, 2
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+N_jianjia4
+  rotate: false
+  xy: 1999, 224
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+N_maozi
+  rotate: true
+  xy: 1758, 12
+  size: 285, 131
+  orig: 285, 131
+  offset: 0, 0
+  index: -1
+N_maozi2
+  rotate: true
+  xy: 1652, 10
+  size: 287, 104
+  orig: 287, 104
+  offset: 0, 0
+  index: -1
+N_shou2
+  rotate: false
+  xy: 1891, 56
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+N_toufa2
+  rotate: false
+  xy: 1891, 537
+  size: 140, 90
+  orig: 140, 90
+  offset: 0, 0
+  index: -1
+N_xianglian
+  rotate: true
+  xy: 1999, 153
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+N_xiaobi2
+  rotate: true
+  xy: 1971, 158
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+N_yanjing
+  rotate: false
+  xy: 1891, 472
+  size: 136, 63
+  orig: 136, 63
+  offset: 0, 0
+  index: -1
+N_yanpiL
+  rotate: false
+  xy: 1999, 196
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+N_yanpiR
+  rotate: true
+  xy: 1971, 134
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+effect/di_0
+  rotate: false
+  xy: 2, 299
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_10
+  rotate: true
+  xy: 992, 4
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_11
+  rotate: false
+  xy: 1182, 299
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_12
+  rotate: true
+  xy: 1322, 4
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_14
+  rotate: false
+  xy: 1477, 299
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_2
+  rotate: true
+  xy: 2, 4
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_3
+  rotate: false
+  xy: 297, 299
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_4
+  rotate: true
+  xy: 332, 4
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_6
+  rotate: false
+  xy: 592, 299
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_7
+  rotate: true
+  xy: 662, 4
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/di_8
+  rotate: false
+  xy: 887, 299
+  size: 293, 328
+  orig: 293, 328
+  offset: 0, 0
+  index: -1
+effect/sweep_0
+  rotate: false
+  xy: 1772, 495
+  size: 117, 132
+  orig: 117, 132
+  offset: 0, 0
+  index: -1
+niao1-body
+  rotate: true
+  xy: 1889, 377
+  size: 93, 29
+  orig: 93, 29
+  offset: 0, 0
+  index: -1
+niao1-chibang1-1
+  rotate: true
+  xy: 1891, 104
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+lveduo_zhujiemian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q1
+  rotate: true
+  xy: 934, 79
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+c0
+  rotate: false
+  xy: 2, 794
+  size: 754, 176
+  orig: 754, 176
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: true
+  xy: 916, 114
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: true
+  xy: 847, 114
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+cao3
+  rotate: false
+  xy: 959, 153
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+lan1
+  rotate: false
+  xy: 2, 383
+  size: 752, 409
+  orig: 752, 409
+  offset: 0, 0
+  index: -1
+men1
+  rotate: true
+  xy: 758, 605
+  size: 365, 217
+  orig: 365, 217
+  offset: 0, 0
+  index: -1
+qizi1
+  rotate: false
+  xy: 756, 105
+  size: 89, 111
+  orig: 89, 111
+  offset: 0, 0
+  index: -1
+qizi2
+  rotate: true
+  xy: 756, 14
+  size: 89, 111
+  orig: 89, 111
+  offset: 0, 0
+  index: -1
+shuibo1
+  rotate: true
+  xy: 934, 55
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+shuibo2
+  rotate: true
+  xy: 977, 218
+  size: 752, 24
+  orig: 752, 24
+  offset: 0, 0
+  index: -1
+suolian1
+  rotate: true
+  xy: 847, 153
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+suolian2
+  rotate: false
+  xy: 869, 2
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 2, 67
+  size: 752, 149
+  orig: 752, 149
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+xunluo.png
+size: 1077,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 5
+  size: 654, 655
+  orig: 654, 655
+  offset: 0, 0
+  index: -1
+hou1
+  rotate: false
+  xy: 942, 250
+  size: 131, 61
+  orig: 133, 63
+  offset: 1, 1
+  index: -1
+hou2
+  rotate: false
+  xy: 942, 250
+  size: 131, 61
+  orig: 133, 63
+  offset: 1, 1
+  index: -1
+hou3
+  rotate: true
+  xy: 967, 313
+  size: 104, 108
+  orig: 109, 112
+  offset: 3, 2
+  index: -1
+hou4
+  rotate: false
+  xy: 658, 86
+  size: 234, 75
+  orig: 236, 77
+  offset: 1, 1
+  index: -1
+zhong1
+  rotate: true
+  xy: 942, 56
+  size: 192, 123
+  orig: 194, 125
+  offset: 1, 1
+  index: -1
+zhong2
+  rotate: false
+  xy: 658, 2
+  size: 82, 82
+  orig: 84, 84
+  offset: 1, 1
+  index: -1
+zhong3
+  rotate: true
+  xy: 981, 419
+  size: 241, 89
+  orig: 243, 91
+  offset: 1, 1
+  index: -1
+zhong4
+  rotate: false
+  xy: 658, 371
+  size: 307, 142
+  orig: 309, 144
+  offset: 1, 1
+  index: -1
+zhong5
+  rotate: false
+  xy: 742, 21
+  size: 112, 63
+  orig: 114, 65
+  offset: 1, 1
+  index: -1
+zhong6
+  rotate: false
+  xy: 658, 163
+  size: 282, 206
+  orig: 284, 208
+  offset: 1, 1
+  index: -1
+zhong7
+  rotate: true
+  xy: 658, 515
+  size: 145, 321
+  orig: 147, 323
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+redDP-fire-maleLeg.png
+size: 471,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_qiandabi
+  rotate: true
+  xy: 407, 57
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Q_qiandatui
+  rotate: false
+  xy: 114, 2
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Q_qianjianjia
+  rotate: true
+  xy: 389, 3
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+Q_qianjiao
+  rotate: false
+  xy: 183, 2
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Q_qiankuijia1
+  rotate: false
+  xy: 2, 2
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Q_qiankuijia2
+  rotate: true
+  xy: 431, 10
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Q_qiankuijia3
+  rotate: false
+  xy: 269, 43
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+Q_qianshou
+  rotate: true
+  xy: 284, 4
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Q_qianxiaobi
+  rotate: false
+  xy: 407, 101
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Q_xiaotui
+  rotate: false
+  xy: 237, 2
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+Q_xiaotuiguanjiie
+  rotate: false
+  xy: 47, 12
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+effect/jt_0
+  rotate: false
+  xy: 114, 42
+  size: 153, 100
+  orig: 153, 100
+  offset: 0, 0
+  index: -1
+effect/ping_1
+  rotate: false
+  xy: 2, 32
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+effect/xing_0
+  rotate: false
+  xy: 320, 6
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+effect/xing_1
+  rotate: false
+  xy: 338, 75
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+effect/xing_2
+  rotate: false
+  xy: 269, 75
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+gate-front.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 699, 44
+  size: 168, 101
+  orig: 168, 101
+  offset: 0, 0
+  index: -1
+1/1
+  rotate: false
+  xy: 457, 292
+  size: 440, 208
+  orig: 520, 290
+  offset: 40, 19
+  index: -1
+1/gate
+  rotate: false
+  xy: 712, 147
+  size: 246, 143
+  orig: 246, 143
+  offset: 0, 0
+  index: -1
+2/2
+  rotate: false
+  xy: 2, 40
+  size: 440, 209
+  orig: 520, 290
+  offset: 40, 18
+  index: -1
+2/gate
+  rotate: false
+  xy: 457, 147
+  size: 253, 143
+  orig: 253, 143
+  offset: 0, 0
+  index: -1
+3/3
+  rotate: false
+  xy: 2, 251
+  size: 453, 249
+  orig: 520, 290
+  offset: 34, 19
+  index: -1
+3/gate
+  rotate: false
+  xy: 444, 2
+  size: 253, 143
+  orig: 253, 143
+  offset: 0, 0
+  index: -1
+base1
+  rotate: false
+  xy: 2, 11
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1

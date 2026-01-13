@@ -1,0 +1,76 @@
+
+glow.png
+size: 243,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yc_0
+  rotate: true
+  xy: 2, 281
+  size: 88, 115
+  orig: 113, 133
+  offset: 12, 8
+  index: -1
+yc_1
+  rotate: true
+  xy: 2, 281
+  size: 88, 115
+  orig: 113, 133
+  offset: 12, 8
+  index: -1
+yc_2
+  rotate: true
+  xy: 119, 280
+  size: 89, 122
+  orig: 113, 133
+  offset: 11, 8
+  index: -1
+yc_3
+  rotate: true
+  xy: 2, 189
+  size: 90, 115
+  orig: 113, 133
+  offset: 10, 9
+  index: -1
+yc_4
+  rotate: true
+  xy: 119, 188
+  size: 90, 121
+  orig: 113, 133
+  offset: 10, 11
+  index: -1
+yc_5
+  rotate: true
+  xy: 119, 95
+  size: 91, 122
+  orig: 113, 133
+  offset: 9, 11
+  index: -1
+yc_6
+  rotate: true
+  xy: 2, 96
+  size: 91, 115
+  orig: 113, 133
+  offset: 9, 10
+  index: -1
+yc_7
+  rotate: true
+  xy: 2, 96
+  size: 91, 115
+  orig: 113, 133
+  offset: 9, 10
+  index: -1
+yc_8
+  rotate: true
+  xy: 118, 2
+  size: 91, 121
+  orig: 113, 133
+  offset: 9, 10
+  index: -1
+yc_9
+  rotate: true
+  xy: 2, 2
+  size: 92, 114
+  orig: 113, 133
+  offset: 8, 10
+  index: -1

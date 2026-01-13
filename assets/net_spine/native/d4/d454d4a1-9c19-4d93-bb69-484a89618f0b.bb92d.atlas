@@ -1,0 +1,90 @@
+
+catapult_armor.png
+size: 775,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dizuo
+  rotate: false
+  xy: 2, 301
+  size: 348, 228
+  orig: 350, 230
+  offset: 1, 1
+  index: -1
+LUNzhongzhou1
+  rotate: false
+  xy: 290, 2
+  size: 29, 39
+  orig: 32, 42
+  offset: 2, 1
+  index: -1
+LUNzhongzhou2
+  rotate: true
+  xy: 321, 10
+  size: 31, 40
+  orig: 34, 43
+  offset: 1, 1
+  index: -1
+dunpai
+  rotate: false
+  xy: 2, 30
+  size: 286, 269
+  orig: 288, 271
+  offset: 1, 1
+  index: -1
+gunlun
+  rotate: true
+  xy: 551, 131
+  size: 151, 96
+  orig: 153, 98
+  offset: 1, 1
+  index: -1
+kuangjia
+  rotate: false
+  xy: 551, 26
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+lunzi1
+  rotate: false
+  xy: 655, 306
+  size: 102, 112
+  orig: 104, 114
+  offset: 1, 1
+  index: -1
+lunzi2
+  rotate: true
+  xy: 655, 420
+  size: 109, 118
+  orig: 111, 120
+  offset: 1, 1
+  index: -1
+lunzi3
+  rotate: false
+  xy: 654, 50
+  size: 104, 110
+  orig: 106, 112
+  offset: 1, 1
+  index: -1
+muzhuang1
+  rotate: true
+  xy: 290, 43
+  size: 239, 259
+  orig: 241, 261
+  offset: 1, 1
+  index: -1
+stone
+  rotate: false
+  xy: 649, 162
+  size: 124, 120
+  orig: 124, 120
+  offset: 0, 0
+  index: -1
+toushiqi
+  rotate: false
+  xy: 352, 284
+  size: 301, 245
+  orig: 301, 245
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+red-fire-maleLeg.png
+size: 143,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-L
+  rotate: false
+  xy: 59, 45
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+chain-0
+  rotate: false
+  xy: 2, 2
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+foot-L
+  rotate: false
+  xy: 110, 72
+  size: 31, 25
+  orig: 33, 27
+  offset: 1, 1
+  index: -1
+hand-L
+  rotate: false
+  xy: 92, 9
+  size: 32, 34
+  orig: 34, 36
+  offset: 1, 1
+  index: -1
+knee-L
+  rotate: false
+  xy: 110, 48
+  size: 26, 22
+  orig: 28, 25
+  offset: 1, 2
+  index: -1
+leg-L
+  rotate: true
+  xy: 2, 46
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+shoulder-L
+  rotate: false
+  xy: 44, 5
+  size: 46, 38
+  orig: 48, 40
+  offset: 1, 1
+  index: -1

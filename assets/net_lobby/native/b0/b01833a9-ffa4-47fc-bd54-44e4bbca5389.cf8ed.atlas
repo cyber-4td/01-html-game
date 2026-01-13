@@ -1,0 +1,13 @@
+
+heroDNA-nvShen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 484, 506
+  orig: 538, 562
+  offset: 27, 28
+  index: -1

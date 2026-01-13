@@ -1,0 +1,41 @@
+
+lx_NewItemGacha_Glow.png
+size: 300,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_GlowBlue
+  rotate: false
+  xy: 166, 99
+  size: 65, 65
+  orig: 75, 75
+  offset: 5, 5
+  index: -1
+eff_GlowPurple
+  rotate: false
+  xy: 166, 32
+  size: 65, 65
+  orig: 75, 75
+  offset: 5, 5
+  index: -1
+eff_GlowRed
+  rotate: false
+  xy: 233, 99
+  size: 65, 65
+  orig: 75, 75
+  offset: 5, 5
+  index: -1
+eff_GlowWhite
+  rotate: false
+  xy: 2, 2
+  size: 162, 162
+  orig: 200, 200
+  offset: 19, 19
+  index: -1
+eff_Glow_000
+  rotate: false
+  xy: 233, 32
+  size: 65, 65
+  orig: 75, 75
+  offset: 5, 5
+  index: -1

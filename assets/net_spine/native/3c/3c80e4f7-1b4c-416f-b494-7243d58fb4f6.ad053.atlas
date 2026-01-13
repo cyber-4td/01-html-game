@@ -1,0 +1,13 @@
+
+king-leg.png
+size: 61,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg
+  rotate: false
+  xy: 5, 10
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+purple-water-femaleBody.png
+size: 341,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 5
+  rotate: false
+  xy: 101, 125
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+bianzi
+  rotate: false
+  xy: 178, 46
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+bianzi2
+  rotate: true
+  xy: 301, 10
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+bingjiao
+  rotate: true
+  xy: 101, 4
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 239, 119
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 261, 169
+  size: 105, 63
+  orig: 105, 63
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 2, 61
+  size: 213, 97
+  orig: 213, 97
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: false
+  xy: 101, 211
+  size: 158, 63
+  orig: 158, 63
+  offset: 0, 0
+  index: -1
+mojing
+  rotate: true
+  xy: 187, 107
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 101, 37
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+touding
+  rotate: false
+  xy: 2, 2
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 258, 47
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+youer
+  rotate: true
+  xy: 258, 74
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+zluoxiaobi
+  rotate: true
+  xy: 289, 123
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: true
+  xy: 155, 2
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 251, 6
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+zuojian1
+  rotate: true
+  xy: 298, 93
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+zuojian2
+  rotate: false
+  xy: 205, 2
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 302, 65
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

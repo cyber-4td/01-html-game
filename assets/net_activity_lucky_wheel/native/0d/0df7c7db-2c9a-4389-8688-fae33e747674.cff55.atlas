@@ -1,0 +1,13 @@
+
+lx_Turntable_BGSelect.png
+size: 148,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_CenterMidHighLight_0
+  rotate: false
+  xy: 2, 2
+  size: 144, 192
+  orig: 170, 240
+  offset: 13, 25
+  index: -1

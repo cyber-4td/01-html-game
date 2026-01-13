@@ -1,0 +1,27 @@
+
+lx_Statue_Progress.png
+size: 236,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_CenterGlow_000
+  rotate: true
+  xy: 2, 2
+  size: 123, 140
+  orig: 182, 170
+  offset: 52, 21
+  index: -1
+eff_Circle
+  rotate: false
+  xy: 144, 34
+  size: 90, 91
+  orig: 98, 98
+  offset: 4, 4
+  index: -1
+eff_Glow_000
+  rotate: false
+  xy: 144, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

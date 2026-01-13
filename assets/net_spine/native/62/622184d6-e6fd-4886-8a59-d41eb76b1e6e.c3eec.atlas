@@ -1,0 +1,251 @@
+
+futuresoilder.png
+size: 1981,1414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1814, 644
+  size: 142, 162
+  orig: 142, 162
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1779, 34
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 578, 776
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 578, 1063
+  size: 342, 349
+  orig: 342, 349
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 458, 138
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1779, 88
+  size: 145, 154
+  orig: 145, 154
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 369, 184
+  size: 129, 78
+  orig: 129, 78
+  offset: 0, 0
+  index: -1
+BL
+  rotate: false
+  xy: 2, 771
+  size: 574, 641
+  orig: 574, 641
+  offset: 0, 0
+  index: -1
+effect/di_0
+  rotate: false
+  xy: 2, 37
+  size: 365, 276
+  orig: 365, 276
+  offset: 0, 0
+  index: -1
+effect/effect/1_0
+  rotate: false
+  xy: 1250, 526
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+effect/effect/2_0
+  rotate: false
+  xy: 1532, 526
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+effect/effect/3_0
+  rotate: false
+  xy: 1013, 184
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+effect/effect/4_0
+  rotate: false
+  xy: 1295, 244
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+effect/effect/5_0
+  rotate: false
+  xy: 1577, 244
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+effect/effect/6_0
+  rotate: true
+  xy: 1013, 24
+  size: 158, 280
+  orig: 158, 280
+  offset: 0, 0
+  index: -1
+effect/jt_0
+  rotate: false
+  xy: 1814, 529
+  size: 160, 113
+  orig: 160, 113
+  offset: 0, 0
+  index: -1
+effect/lizi_0
+  rotate: false
+  xy: 1859, 407
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/lizi_1
+  rotate: false
+  xy: 1859, 285
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/lizi_2
+  rotate: false
+  xy: 369, 16
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/lizi_3
+  rotate: false
+  xy: 491, 16
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/quan_0
+  rotate: false
+  xy: 2, 315
+  size: 454, 454
+  orig: 454, 454
+  offset: 0, 0
+  index: -1
+effect/xing_0
+  rotate: true
+  xy: 578, 799
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_10
+  rotate: true
+  xy: 922, 808
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_11
+  rotate: true
+  xy: 1264, 808
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_12
+  rotate: true
+  xy: 1606, 808
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_14
+  rotate: false
+  xy: 986, 466
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_2
+  rotate: false
+  xy: 922, 1072
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_3
+  rotate: false
+  xy: 1186, 1072
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_4
+  rotate: false
+  xy: 1450, 1072
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_5
+  rotate: false
+  xy: 1714, 1072
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_7
+  rotate: false
+  xy: 458, 429
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_8
+  rotate: false
+  xy: 722, 457
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xing_9
+  rotate: false
+  xy: 749, 115
+  size: 262, 340
+  orig: 262, 340
+  offset: 0, 0
+  index: -1
+effect/xq2_0
+  rotate: false
+  xy: 1295, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/xq_0
+  rotate: false
+  xy: 1537, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

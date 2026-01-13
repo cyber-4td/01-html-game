@@ -1,0 +1,69 @@
+
+slime_fast_split.png
+size: 289,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuLou1
+  rotate: false
+  xy: 208, 75
+  size: 45, 59
+  orig: 47, 65
+  offset: 1, 5
+  index: -1
+kuLou2
+  rotate: true
+  xy: 255, 98
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+kuLou3
+  rotate: true
+  xy: 237, 21
+  size: 52, 36
+  orig: 54, 38
+  offset: 1, 1
+  index: -1
+mei1
+  rotate: true
+  xy: 177, 5
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+mei2
+  rotate: false
+  xy: 177, 68
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 2
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 264, 82
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: false
+  xy: 255, 81
+  size: 7, 15
+  orig: 9, 17
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 237, 2
+  size: 39, 17
+  orig: 41, 19
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,139 @@
+
+FaMuChang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 277
+  size: 264, 151
+  orig: 266, 151
+  offset: 2, 0
+  index: -1
+11
+  rotate: true
+  xy: 159, 34
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 376, 2
+  size: 211, 121
+  orig: 211, 121
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 2, 33
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 159, 227
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 159, 67
+  size: 215, 146
+  orig: 215, 146
+  offset: 0, 0
+  index: -1
+31
+  rotate: true
+  xy: 437, 358
+  size: 70, 62
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 437, 215
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+33
+  rotate: true
+  xy: 2, 65
+  size: 210, 155
+  orig: 210, 155
+  offset: 0, 0
+  index: -1
+41
+  rotate: true
+  xy: 159, 217
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+42
+  rotate: true
+  xy: 481, 219
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+43
+  rotate: true
+  xy: 211, 216
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+44
+  rotate: false
+  xy: 437, 308
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+45
+  rotate: true
+  xy: 268, 215
+  size: 213, 167
+  orig: 213, 167
+  offset: 0, 0
+  index: -1
+eff_Glow_000
+  rotate: false
+  xy: 437, 258
+  size: 48, 48
+  orig: 56, 56
+  offset: 4, 4
+  index: -1
+eff_SmokeHeavy
+  rotate: true
+  xy: 481, 237
+  size: 19, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+eff_Spark1
+  rotate: false
+  xy: 179, 218
+  size: 17, 7
+  orig: 17, 9
+  offset: 0, 1
+  index: -1
+eff_Spark2
+  rotate: true
+  xy: 257, 239
+  size: 36, 4
+  orig: 36, 4
+  offset: 0, 0
+  index: -1
+eff_Spark3
+  rotate: false
+  xy: 198, 222
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1

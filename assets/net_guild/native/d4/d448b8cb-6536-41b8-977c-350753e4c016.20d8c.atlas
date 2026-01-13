@@ -1,0 +1,48 @@
+
+building-huDone.png
+size: 678,879
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+building
+  rotate: false
+  xy: 5, 323
+  size: 519, 552
+  orig: 697, 552
+  offset: 178, 0
+  index: -1
+flag
+  rotate: false
+  xy: 528, 648
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+flag2
+  rotate: false
+  xy: 622, 134
+  size: 42, 185
+  orig: 44, 194
+  offset: 1, 6
+  index: -1
+light1
+  rotate: false
+  xy: 393, 39
+  size: 225, 280
+  orig: 227, 282
+  offset: 1, 1
+  index: -1
+light2
+  rotate: true
+  xy: 528, 323
+  size: 321, 146
+  orig: 323, 151
+  offset: 1, 4
+  index: -1
+light3
+  rotate: false
+  xy: 5, 5
+  size: 384, 314
+  orig: 386, 316
+  offset: 1, 1
+  index: -1

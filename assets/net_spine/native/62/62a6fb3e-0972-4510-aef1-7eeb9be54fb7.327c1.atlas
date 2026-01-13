@@ -1,0 +1,272 @@
+
+orange-water-maleLeg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi1
+  rotate: true
+  xy: 194, 6
+  size: 32, 48
+  orig: 34, 50
+  offset: 1, 1
+  index: -1
+effect/wu1_0
+  rotate: true
+  xy: 285, 184
+  size: 47, 41
+  orig: 136, 136
+  offset: 39, 6
+  index: -1
+effect/wu1_1
+  rotate: false
+  xy: 247, 362
+  size: 62, 71
+  orig: 136, 136
+  offset: 33, 7
+  index: -1
+effect/wu1_11
+  rotate: false
+  xy: 2, 3
+  size: 20, 22
+  orig: 136, 136
+  offset: 96, 78
+  index: -1
+effect/wu1_12
+  rotate: false
+  xy: 2, 3
+  size: 20, 22
+  orig: 136, 136
+  offset: 96, 78
+  index: -1
+effect/wu1_13
+  rotate: false
+  xy: 42, 11
+  size: 12, 14
+  orig: 136, 136
+  offset: 101, 86
+  index: -1
+effect/wu1_14
+  rotate: false
+  xy: 42, 11
+  size: 12, 14
+  orig: 136, 136
+  offset: 101, 86
+  index: -1
+effect/wu1_15
+  rotate: false
+  xy: 94, 309
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/wu1_2
+  rotate: true
+  xy: 171, 339
+  size: 76, 74
+  orig: 136, 136
+  offset: 27, 16
+  index: -1
+effect/wu1_3
+  rotate: true
+  xy: 57, 30
+  size: 87, 76
+  orig: 136, 136
+  offset: 23, 25
+  index: -1
+effect/wu1_4
+  rotate: true
+  xy: 57, 30
+  size: 87, 76
+  orig: 136, 136
+  offset: 23, 25
+  index: -1
+effect/wu1_5
+  rotate: true
+  xy: 94, 312
+  size: 93, 75
+  orig: 136, 136
+  offset: 22, 29
+  index: -1
+effect/wu1_6
+  rotate: true
+  xy: 94, 312
+  size: 93, 75
+  orig: 136, 136
+  offset: 22, 29
+  index: -1
+effect/wu1_7
+  rotate: true
+  xy: 2, 119
+  size: 92, 64
+  orig: 136, 136
+  offset: 25, 42
+  index: -1
+effect/wu1_8
+  rotate: true
+  xy: 2, 119
+  size: 92, 64
+  orig: 136, 136
+  offset: 25, 42
+  index: -1
+effect/wu1_9
+  rotate: true
+  xy: 2, 27
+  size: 90, 53
+  orig: 136, 136
+  offset: 28, 47
+  index: -1
+effect/wu1_10
+  rotate: true
+  xy: 2, 27
+  size: 90, 53
+  orig: 136, 136
+  offset: 28, 47
+  index: -1
+effect/wu2_0
+  rotate: false
+  xy: 140, 139
+  size: 77, 81
+  orig: 136, 136
+  offset: 28, 29
+  index: -1
+effect/wu2_10
+  rotate: true
+  xy: 135, 40
+  size: 83, 78
+  orig: 136, 136
+  offset: 15, 20
+  index: -1
+effect/wu2_11
+  rotate: true
+  xy: 95, 222
+  size: 85, 67
+  orig: 136, 136
+  offset: 20, 38
+  index: -1
+effect/wu2_12
+  rotate: true
+  xy: 194, 435
+  size: 74, 69
+  orig: 136, 136
+  offset: 36, 42
+  index: -1
+effect/wu2_13
+  rotate: true
+  xy: 219, 157
+  size: 72, 64
+  orig: 136, 136
+  offset: 41, 51
+  index: -1
+effect/wu2_14
+  rotate: true
+  xy: 215, 60
+  size: 77, 57
+  orig: 136, 136
+  offset: 36, 63
+  index: -1
+effect/wu2_15
+  rotate: true
+  xy: 164, 229
+  size: 81, 52
+  orig: 136, 136
+  offset: 33, 71
+  index: -1
+effect/wu2_2
+  rotate: true
+  xy: 102, 417
+  size: 92, 90
+  orig: 136, 136
+  offset: 19, 26
+  index: -1
+effect/wu2_4
+  rotate: true
+  xy: 2, 309
+  size: 96, 90
+  orig: 136, 136
+  offset: 21, 28
+  index: -1
+effect/wu2_6
+  rotate: false
+  xy: 2, 407
+  size: 98, 102
+  orig: 136, 136
+  offset: 22, 18
+  index: -1
+effect/wu2_8
+  rotate: true
+  xy: 2, 213
+  size: 94, 91
+  orig: 136, 136
+  offset: 15, 17
+  index: -1
+effect/wu2_9
+  rotate: true
+  xy: 68, 125
+  size: 86, 70
+  orig: 136, 136
+  offset: 15, 17
+  index: -1
+effect/xuehua_0
+  rotate: true
+  xy: 274, 93
+  size: 62, 60
+  orig: 100, 100
+  offset: 17, 21
+  index: -1
+jianjia1
+  rotate: true
+  xy: 218, 263
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+jianjia2
+  rotate: false
+  xy: 265, 233
+  size: 55, 28
+  orig: 57, 30
+  offset: 1, 1
+  index: -1
+jianxia3
+  rotate: false
+  xy: 24, 6
+  size: 16, 19
+  orig: 18, 21
+  offset: 1, 1
+  index: -1
+leg
+  rotate: false
+  xy: 244, 3
+  size: 44, 55
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 57, 2
+  size: 26, 31
+  orig: 28, 33
+  offset: 1, 1
+  index: -1
+xiabai1
+  rotate: false
+  xy: 218, 231
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: true
+  xy: 265, 440
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 135, 4
+  size: 57, 34
+  orig: 59, 36
+  offset: 1, 1
+  index: -1

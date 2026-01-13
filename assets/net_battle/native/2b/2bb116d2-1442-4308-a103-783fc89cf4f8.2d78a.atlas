@@ -1,0 +1,153 @@
+
+down.png
+size: 487,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_8
+  rotate: false
+  xy: 2, 603
+  size: 216, 420
+  orig: 272, 420
+  offset: 31, 0
+  index: -1
+gy_0
+  rotate: false
+  xy: 220, 685
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gy_1
+  rotate: false
+  xy: 408, 195
+  size: 36, 175
+  orig: 129, 355
+  offset: 65, 20
+  index: -1
+gy_10
+  rotate: false
+  xy: 402, 705
+  size: 73, 318
+  orig: 129, 355
+  offset: 30, 22
+  index: -1
+gy_11
+  rotate: false
+  xy: 191, 285
+  size: 47, 316
+  orig: 129, 355
+  offset: 54, 25
+  index: -1
+gy_12
+  rotate: false
+  xy: 339, 377
+  size: 42, 310
+  orig: 129, 355
+  offset: 54, 29
+  index: -1
+gy_13
+  rotate: false
+  xy: 420, 398
+  size: 42, 305
+  orig: 129, 355
+  offset: 55, 32
+  index: -1
+gy_14
+  rotate: false
+  xy: 464, 407
+  size: 21, 296
+  orig: 129, 355
+  offset: 65, 40
+  index: -1
+gy_2
+  rotate: false
+  xy: 359, 167
+  size: 47, 203
+  orig: 129, 355
+  offset: 65, 22
+  index: -1
+gy_3
+  rotate: false
+  xy: 262, 147
+  size: 95, 228
+  orig: 129, 355
+  offset: 19, 23
+  index: -1
+gy_4
+  rotate: false
+  xy: 162, 2
+  size: 98, 265
+  orig: 129, 355
+  offset: 19, 23
+  index: -1
+gy_5
+  rotate: false
+  xy: 240, 388
+  size: 97, 298
+  orig: 129, 355
+  offset: 19, 20
+  index: -1
+gy_6
+  rotate: false
+  xy: 2, 269
+  size: 107, 332
+  orig: 129, 355
+  offset: 9, 17
+  index: -1
+gy_7
+  rotate: false
+  xy: 220, 688
+  size: 96, 335
+  orig: 129, 355
+  offset: 19, 20
+  index: -1
+gy_8
+  rotate: false
+  xy: 318, 689
+  size: 82, 334
+  orig: 129, 355
+  offset: 29, 21
+  index: -1
+gy_9
+  rotate: false
+  xy: 111, 269
+  size: 78, 332
+  orig: 129, 355
+  offset: 29, 19
+  index: -1
+jiantou_0
+  rotate: false
+  xy: 262, 14
+  size: 113, 131
+  orig: 140, 188
+  offset: 16, 41
+  index: -1
+lizi_0
+  rotate: false
+  xy: 446, 278
+  size: 28, 118
+  orig: 48, 144
+  offset: 8, 14
+  index: -1
+sweep2_8
+  rotate: false
+  xy: 2, 21
+  size: 158, 246
+  orig: 195, 281
+  offset: 19, 33
+  index: -1
+sweep_0
+  rotate: true
+  xy: 377, 8
+  size: 157, 107
+  orig: 190, 123
+  offset: 17, 12
+  index: -1
+xian_0
+  rotate: false
+  xy: 383, 372
+  size: 35, 315
+  orig: 72, 348
+  offset: 17, 19
+  index: -1

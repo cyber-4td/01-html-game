@@ -1,0 +1,167 @@
+
+purple-water-femaleBody.png
+size: 757,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi-R
+  rotate: false
+  xy: 169, 28
+  size: 60, 118
+  orig: 60, 118
+  offset: 0, 0
+  index: -1
+duanxiu-zuo
+  rotate: false
+  xy: 231, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+eding
+  rotate: true
+  xy: 404, 3
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+kouzi
+  rotate: true
+  xy: 449, 3
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+leisi
+  rotate: true
+  xy: 105, 19
+  size: 127, 62
+  orig: 127, 62
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 342, 2
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 487, 55
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: false
+  xy: 707, 10
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+liuhai4
+  rotate: true
+  xy: 534, 5
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 2, 5
+  size: 141, 101
+  orig: 141, 101
+  offset: 0, 0
+  index: -1
+mawei-zuo
+  rotate: false
+  xy: 342, 37
+  size: 41, 109
+  orig: 41, 109
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 632, 66
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 548, 63
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+star_0
+  rotate: false
+  xy: 385, 46
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 231, 32
+  size: 114, 109
+  orig: 114, 109
+  offset: 0, 0
+  index: -1
+yiling-you
+  rotate: false
+  xy: 169, 3
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+yiling-zuo
+  rotate: false
+  xy: 262, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+zs-1
+  rotate: true
+  xy: 627, 6
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+zs-2
+  rotate: false
+  xy: 679, 66
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+zuo-dabi
+  rotate: true
+  xy: 485, 6
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+zuo-shoubi
+  rotate: false
+  xy: 717, 66
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: true
+  xy: 717, 102
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 291, 3
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+guangtianshi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gezi
+  rotate: false
+  xy: 170, 10
+  size: 126, 113
+  orig: 126, 113
+  offset: 0, 0
+  index: -1
+gezi1
+  rotate: true
+  xy: 298, 32
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+gezi2
+  rotate: false
+  xy: 2, 2
+  size: 166, 121
+  orig: 166, 121
+  offset: 0, 0
+  index: -1

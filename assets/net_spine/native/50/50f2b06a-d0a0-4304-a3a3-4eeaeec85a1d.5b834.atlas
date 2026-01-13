@@ -1,0 +1,160 @@
+
+redPlus-earth-maleLeg.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi1
+  rotate: false
+  xy: 482, 556
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+daizi1
+  rotate: true
+  xy: 322, 94
+  size: 68, 115
+  orig: 68, 115
+  offset: 0, 0
+  index: -1
+effect/lizi2_98
+  rotate: false
+  xy: 475, 37
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+effect/ql2_0
+  rotate: false
+  xy: 2, 484
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_10
+  rotate: false
+  xy: 162, 164
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_11
+  rotate: false
+  xy: 322, 164
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_12
+  rotate: false
+  xy: 2, 4
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_14
+  rotate: false
+  xy: 162, 4
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_2
+  rotate: false
+  xy: 162, 484
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_3
+  rotate: false
+  xy: 322, 484
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_4
+  rotate: false
+  xy: 2, 324
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_6
+  rotate: false
+  xy: 162, 324
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_7
+  rotate: false
+  xy: 322, 324
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/ql2_8
+  rotate: false
+  xy: 2, 164
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+effect/sanjiao_0
+  rotate: true
+  xy: 439, 74
+  size: 88, 69
+  orig: 88, 69
+  offset: 0, 0
+  index: -1
+jianjia10
+  rotate: false
+  xy: 390, 18
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+lingzi10
+  rotate: false
+  xy: 322, 43
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 482, 531
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 390, 49
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 435, 36
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: true
+  xy: 482, 602
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+xiuzi10
+  rotate: false
+  xy: 475, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

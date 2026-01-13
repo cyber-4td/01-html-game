@@ -1,0 +1,83 @@
+
+gargoyle_armor.png
+size: 296,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 172, 155
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 101, 16
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 105
+  size: 168, 151
+  orig: 170, 153
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: true
+  xy: 263, 190
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 226, 9
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 184, 8
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+youshou2
+  rotate: false
+  xy: 184, 48
+  size: 50, 64
+  orig: 58, 71
+  offset: 4, 6
+  index: -1
+zuojiao
+  rotate: true
+  xy: 172, 114
+  size: 39, 59
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 236, 99
+  size: 58, 54
+  orig: 64, 55
+  offset: 5, 1
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 236, 45
+  size: 52, 53
+  orig: 58, 55
+  offset: 5, 1
+  index: -1

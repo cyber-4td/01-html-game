@@ -1,0 +1,69 @@
+
+huode.png
+size: 676,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 595, 60
+  size: 51, 50
+  orig: 60, 62
+  offset: 4, 6
+  index: -1
+11
+  rotate: false
+  xy: 533, 8
+  size: 51, 50
+  orig: 60, 62
+  offset: 4, 6
+  index: -1
+8
+  rotate: false
+  xy: 586, 24
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+9_0
+  rotate: false
+  xy: 542, 60
+  size: 51, 50
+  orig: 60, 62
+  offset: 4, 6
+  index: -1
+a_0
+  rotate: true
+  xy: 2, 80
+  size: 76, 268
+  orig: 104, 291
+  offset: 13, 12
+  index: -1
+b
+  rotate: true
+  xy: 2, 2
+  size: 76, 268
+  orig: 104, 291
+  offset: 13, 12
+  index: -1
+c
+  rotate: true
+  xy: 272, 80
+  size: 76, 268
+  orig: 104, 291
+  offset: 13, 12
+  index: -1
+d
+  rotate: true
+  xy: 272, 5
+  size: 73, 259
+  orig: 104, 291
+  offset: 14, 13
+  index: -1
+xian_0
+  rotate: true
+  xy: 542, 112
+  size: 44, 132
+  orig: 44, 132
+  offset: 0, 0
+  index: -1

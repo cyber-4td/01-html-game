@@ -1,0 +1,146 @@
+
+three.png
+size: 2000,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_effect/f_star_0
+  rotate: false
+  xy: 1898, 333
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sweep_0
+  rotate: false
+  xy: 2, 33
+  size: 100, 400
+  orig: 100, 400
+  offset: 0, 0
+  index: -1
+wuqi/di1_0
+  rotate: false
+  xy: 508, 163
+  size: 180, 270
+  orig: 180, 270
+  offset: 0, 0
+  index: -1
+wuqi/di2_0
+  rotate: false
+  xy: 104, 153
+  size: 200, 280
+  orig: 200, 280
+  offset: 0, 0
+  index: -1
+wuqi/di3_0
+  rotate: false
+  xy: 306, 153
+  size: 200, 280
+  orig: 200, 280
+  offset: 0, 0
+  index: -1
+wuqi/nd_0
+  rotate: false
+  xy: 690, 173
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_1
+  rotate: false
+  xy: 841, 173
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_10
+  rotate: true
+  xy: 690, 22
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_11
+  rotate: true
+  xy: 952, 22
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_12
+  rotate: true
+  xy: 1214, 22
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_13
+  rotate: true
+  xy: 1476, 22
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_14
+  rotate: true
+  xy: 1738, 22
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_2
+  rotate: false
+  xy: 992, 173
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_3
+  rotate: false
+  xy: 1143, 173
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_4
+  rotate: false
+  xy: 1294, 173
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_5
+  rotate: false
+  xy: 1445, 173
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_6
+  rotate: false
+  xy: 1596, 173
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_7
+  rotate: false
+  xy: 1747, 173
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_8
+  rotate: true
+  xy: 104, 2
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1
+wuqi/nd_9
+  rotate: true
+  xy: 366, 2
+  size: 149, 260
+  orig: 149, 260
+  offset: 0, 0
+  index: -1

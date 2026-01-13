@@ -1,0 +1,27 @@
+
+slime_metal.png
+size: 96,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer1
+  rotate: true
+  xy: 2, 2
+  size: 8, 19
+  orig: 10, 21
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 12
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 23, 2
+  size: 8, 19
+  orig: 10, 21
+  offset: 1, 1
+  index: -1

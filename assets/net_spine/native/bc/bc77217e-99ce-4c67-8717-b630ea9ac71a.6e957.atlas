@@ -1,0 +1,34 @@
+
+slime_fire.png
+size: 169,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer1
+  rotate: true
+  xy: 90, 4
+  size: 8, 18
+  orig: 10, 20
+  offset: 1, 1
+  index: -1
+huoyan
+  rotate: false
+  xy: 2, 2
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 90, 14
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 110, 4
+  size: 8, 18
+  orig: 10, 20
+  offset: 1, 1
+  index: -1

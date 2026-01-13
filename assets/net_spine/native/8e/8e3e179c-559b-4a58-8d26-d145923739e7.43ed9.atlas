@@ -1,0 +1,118 @@
+
+redDp-light-femaleLeg.png
+size: 1776,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_r-dabi
+  rotate: true
+  xy: 1601, 6
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+Q_r-datui
+  rotate: false
+  xy: 1652, 64
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+Q_r-jianz
+  rotate: true
+  xy: 1699, 6
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+Q_r-jiao
+  rotate: false
+  xy: 1712, 61
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+Q_r-qunzi
+  rotate: true
+  xy: 1518, 15
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+Q_r-xbi
+  rotate: true
+  xy: 1601, 46
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+Q_r-xtui
+  rotate: false
+  xy: 1661, 8
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+Q_shou1
+  rotate: false
+  xy: 1737, 26
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+effect/jt_0
+  rotate: true
+  xy: 2, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_1
+  rotate: true
+  xy: 204, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_2
+  rotate: true
+  xy: 406, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_3
+  rotate: true
+  xy: 608, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_4
+  rotate: true
+  xy: 810, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_5
+  rotate: true
+  xy: 1012, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/jt_6
+  rotate: true
+  xy: 1214, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+effect/star_8
+  rotate: false
+  xy: 1416, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

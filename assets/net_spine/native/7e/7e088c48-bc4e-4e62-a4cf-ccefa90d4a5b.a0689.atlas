@@ -1,0 +1,132 @@
+
+battering_ram.png
+size: 1005,641
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 174, 3
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+effect/chongc_0
+  rotate: true
+  xy: 524, 159
+  size: 135, 205
+  orig: 303, 356
+  offset: 83, 42
+  index: -1
+effect/chongc_1
+  rotate: true
+  xy: 754, 276
+  size: 168, 228
+  orig: 303, 356
+  offset: 67, 52
+  index: -1
+effect/chongc_2
+  rotate: false
+  xy: 254, 296
+  size: 248, 343
+  orig: 303, 356
+  offset: 27, 1
+  index: -1
+effect/chongc_3
+  rotate: false
+  xy: 504, 296
+  size: 248, 343
+  orig: 303, 356
+  offset: 27, 1
+  index: -1
+effect/chongc_4
+  rotate: false
+  xy: 2, 295
+  size: 250, 344
+  orig: 303, 356
+  offset: 26, 0
+  index: -1
+effect/chongc_5
+  rotate: false
+  xy: 174, 41
+  size: 177, 252
+  orig: 303, 356
+  offset: 40, 51
+  index: -1
+effect/chongc_6
+  rotate: false
+  xy: 353, 42
+  size: 169, 252
+  orig: 303, 356
+  offset: 40, 51
+  index: -1
+kuangjia
+  rotate: false
+  xy: 711, 17
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 931, 202
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: false
+  xy: 931, 128
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+lun3
+  rotate: false
+  xy: 931, 128
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+lun4
+  rotate: false
+  xy: 931, 128
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+zhuZi
+  rotate: true
+  xy: 2, 2
+  size: 291, 170
+  orig: 321, 183
+  offset: 30, 13
+  index: -1
+zuDang1
+  rotate: true
+  xy: 731, 100
+  size: 174, 198
+  orig: 174, 198
+  offset: 0, 0
+  index: -1
+zuDang2
+  rotate: false
+  xy: 754, 446
+  size: 246, 193
+  orig: 246, 193
+  offset: 0, 0
+  index: -1
+zuDang3
+  rotate: true
+  xy: 631, 45
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+zuDang4
+  rotate: true
+  xy: 524, 12
+  size: 145, 105
+  orig: 145, 105
+  offset: 0, 0
+  index: -1

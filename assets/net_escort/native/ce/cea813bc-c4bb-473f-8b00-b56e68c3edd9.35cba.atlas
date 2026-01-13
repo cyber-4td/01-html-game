@@ -1,0 +1,307 @@
+
+maChe-wuzi-B.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-1tui-L
+  rotate: true
+  xy: 223, 108
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+B-1tui-R
+  rotate: true
+  xy: 261, 108
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+B-2tui-L
+  rotate: true
+  xy: 344, 182
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+B-2tui-R
+  rotate: true
+  xy: 347, 268
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+B-baoxiang B
+  rotate: true
+  xy: 288, 179
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+B-cheban2B
+  rotate: false
+  xy: 288, 287
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+B-dai
+  rotate: false
+  xy: 413, 208
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+B-denglong B
+  rotate: false
+  xy: 366, 116
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+B-denglong1 B
+  rotate: true
+  xy: 419, 243
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+B-er-L
+  rotate: true
+  xy: 107, 223
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+B-er-R
+  rotate: false
+  xy: 107, 104
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+B-fa-1
+  rotate: true
+  xy: 121, 224
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+B-fa-2
+  rotate: true
+  xy: 378, 136
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+B-fa-3
+  rotate: false
+  xy: 415, 231
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+B-gun1B
+  rotate: true
+  xy: 358, 298
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+B-gun2B
+  rotate: false
+  xy: 378, 257
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+B-gunzi B
+  rotate: true
+  xy: 341, 166
+  size: 11, 60
+  orig: 11, 60
+  offset: 0, 0
+  index: -1
+B-lun1 B
+  rotate: false
+  xy: 347, 231
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+B-lun2 B
+  rotate: true
+  xy: 442, 310
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+B-lun3B
+  rotate: true
+  xy: 419, 270
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+B-pugai1B
+  rotate: true
+  xy: 282, 53
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+B-pugai2B
+  rotate: true
+  xy: 328, 53
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+B-shen
+  rotate: true
+  xy: 288, 129
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+B-tou
+  rotate: true
+  xy: 341, 111
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+B-wei
+  rotate: true
+  xy: 299, 109
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+B-weilan1B
+  rotate: true
+  xy: 288, 233
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+B-weilanB
+  rotate: false
+  xy: 117, 21
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+B-xiangzi1B
+  rotate: true
+  xy: 378, 222
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+B-xiangzi2B
+  rotate: false
+  xy: 376, 187
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+B-xiangzi3B
+  rotate: true
+  xy: 400, 300
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+B-xiangzi5B
+  rotate: true
+  xy: 341, 131
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+B-xiangzi6B
+  rotate: true
+  xy: 413, 185
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+lunTai
+  rotate: false
+  xy: 344, 199
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+peng-cheng
+  rotate: false
+  xy: 2, 223
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+peng-cheng2
+  rotate: true
+  xy: 217, 53
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+peng-hui
+  rotate: true
+  xy: 2, 118
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+peng-hui2
+  rotate: true
+  xy: 223, 285
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+peng-lan
+  rotate: true
+  xy: 107, 234
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+peng-lan2
+  rotate: true
+  xy: 223, 231
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+peng-lv
+  rotate: false
+  xy: 118, 107
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+peng-lv2
+  rotate: true
+  xy: 223, 177
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+peng-zi
+  rotate: false
+  xy: 2, 2
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+peng-zi2
+  rotate: true
+  xy: 223, 123
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1

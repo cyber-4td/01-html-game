@@ -1,0 +1,202 @@
+
+jianshen.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi1
+  rotate: true
+  xy: 129, 11
+  size: 87, 115
+  orig: 89, 117
+  offset: 1, 1
+  index: -1
+bianzi2
+  rotate: true
+  xy: 219, 117
+  size: 50, 114
+  orig: 52, 116
+  offset: 1, 1
+  index: -1
+black
+  rotate: false
+  xy: 2, 18
+  size: 125, 80
+  orig: 129, 84
+  offset: 2, 2
+  index: -1
+body
+  rotate: true
+  xy: 436, 181
+  size: 95, 90
+  orig: 98, 92
+  offset: 1, 1
+  index: -1
+dabi1
+  rotate: true
+  xy: 737, 258
+  size: 53, 46
+  orig: 55, 52
+  offset: 1, 0
+  index: -1
+dabi12
+  rotate: true
+  xy: 712, 200
+  size: 55, 46
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 576, 216
+  size: 52, 60
+  orig: 56, 64
+  offset: 2, 2
+  index: -1
+ear2
+  rotate: false
+  xy: 630, 216
+  size: 52, 60
+  orig: 56, 64
+  offset: 2, 2
+  index: -1
+effect/pg_0
+  rotate: true
+  xy: 2, 100
+  size: 406, 215
+  orig: 447, 266
+  offset: 16, 25
+  index: -1
+effect/pg_1
+  rotate: true
+  xy: 2, 100
+  size: 406, 215
+  orig: 447, 266
+  offset: 16, 25
+  index: -1
+effect/pg_2
+  rotate: true
+  xy: 219, 169
+  size: 337, 215
+  orig: 447, 266
+  offset: 85, 26
+  index: -1
+effect/pg_3
+  rotate: true
+  xy: 436, 278
+  size: 228, 217
+  orig: 447, 266
+  offset: 194, 26
+  index: -1
+effect/pg_4
+  rotate: false
+  xy: 655, 313
+  size: 152, 193
+  orig: 447, 266
+  offset: 270, 27
+  index: -1
+eye
+  rotate: true
+  xy: 246, 15
+  size: 100, 46
+  orig: 108, 50
+  offset: 2, 2
+  index: -1
+face
+  rotate: true
+  xy: 599, 2
+  size: 173, 191
+  orig: 175, 193
+  offset: 1, 0
+  index: -1
+jian
+  rotate: true
+  xy: 335, 6
+  size: 161, 262
+  orig: 165, 266
+  offset: 2, 2
+  index: -1
+jianjia
+  rotate: true
+  xy: 785, 263
+  size: 48, 47
+  orig: 52, 51
+  offset: 2, 2
+  index: -1
+kua
+  rotate: true
+  xy: 528, 188
+  size: 88, 46
+  orig: 90, 49
+  offset: 1, 2
+  index: -1
+leg1
+  rotate: true
+  xy: 809, 463
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: true
+  xy: 684, 257
+  size: 54, 51
+  orig: 56, 53
+  offset: 1, 1
+  index: -1
+leg3
+  rotate: true
+  xy: 627, 177
+  size: 37, 41
+  orig: 39, 43
+  offset: 1, 1
+  index: -1
+leg4
+  rotate: false
+  xy: 760, 206
+  size: 47, 50
+  orig: 47, 52
+  offset: 0, 1
+  index: -1
+shou1
+  rotate: false
+  xy: 809, 378
+  size: 40, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1
+shou2
+  rotate: true
+  xy: 809, 420
+  size: 41, 40
+  orig: 45, 44
+  offset: 2, 2
+  index: -1
+xiabai
+  rotate: true
+  xy: 670, 178
+  size: 36, 40
+  orig: 38, 42
+  offset: 1, 1
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 576, 177
+  size: 49, 37
+  orig: 51, 39
+  offset: 1, 1
+  index: -1
+xiaobi12
+  rotate: false
+  xy: 576, 177
+  size: 49, 37
+  orig: 51, 39
+  offset: 1, 1
+  index: -1
+yaodai
+  rotate: true
+  xy: 294, 26
+  size: 89, 30
+  orig: 91, 32
+  offset: 1, 2
+  index: -1

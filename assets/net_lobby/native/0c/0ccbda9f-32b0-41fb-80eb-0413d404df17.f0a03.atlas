@@ -1,0 +1,20 @@
+
+fuBen-yiYuan.png
+size: 478,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_1
+  rotate: true
+  xy: 420, 138
+  size: 146, 54
+  orig: 146, 54
+  offset: 0, 0
+  index: -1
+yiYuan
+  rotate: false
+  xy: 5, 5
+  size: 411, 279
+  orig: 411, 279
+  offset: 0, 0
+  index: -1

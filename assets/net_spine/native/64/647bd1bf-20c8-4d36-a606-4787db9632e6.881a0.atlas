@@ -1,0 +1,41 @@
+
+slime_fire_lava.png
+size: 302,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo
+  rotate: true
+  xy: 2, 35
+  size: 140, 164
+  orig: 140, 164
+  offset: 0, 0
+  index: -1
+shi1
+  rotate: true
+  xy: 168, 2
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 39, 25
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: true
+  xy: 56, 25
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 2, 2
+  size: 31, 35
+  orig: 33, 45
+  offset: 1, 1
+  index: -1

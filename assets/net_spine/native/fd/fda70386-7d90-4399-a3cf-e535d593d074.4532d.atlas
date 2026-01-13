@@ -1,0 +1,48 @@
+
+slime_fast_metal.png
+size: 152,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Color_Balance1
+  rotate: true
+  xy: 2, 2
+  size: 169, 142
+  orig: 169, 142
+  offset: 0, 0
+  index: -1
+mei1
+  rotate: false
+  xy: 91, 173
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+mei2
+  rotate: true
+  xy: 2, 177
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 2, 223
+  size: 7, 15
+  orig: 9, 17
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: true
+  xy: 19, 222
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 36, 207
+  size: 53, 23
+  orig: 55, 49
+  offset: 1, 8
+  index: -1

@@ -1,0 +1,293 @@
+
+cai-water-stageOn.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 490, 497
+  size: 345, 519
+  orig: 345, 519
+  offset: 0, 0
+  index: -1
+effect/fs_-50
+  rotate: false
+  xy: 1692, 816
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/lizi_0
+  rotate: false
+  xy: 1409, 190
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+effect/lizi_1
+  rotate: false
+  xy: 1486, 190
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+effect/lizi_2
+  rotate: false
+  xy: 1563, 190
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+effect/quan_3
+  rotate: false
+  xy: 1463, 816
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/qx_0
+  rotate: true
+  xy: 1660, 2
+  size: 263, 250
+  orig: 263, 250
+  offset: 0, 0
+  index: -1
+effect/she_-50
+  rotate: false
+  xy: 1768, 375
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/star_0
+  rotate: false
+  xy: 1132, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 1379, 10
+  size: 77, 279
+  orig: 77, 279
+  offset: 0, 0
+  index: -1
+effect/xian_0
+  rotate: false
+  xy: 972, 513
+  size: 39, 120
+  orig: 39, 120
+  offset: 0, 0
+  index: -1
+effect/xinzuo_0
+  rotate: true
+  xy: 1217, 3
+  size: 82, 52
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+effect/xinzuo_1
+  rotate: true
+  xy: 1271, 3
+  size: 82, 52
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+effect/xinzuo_2
+  rotate: true
+  xy: 1325, 3
+  size: 82, 52
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+effect/xuan_0
+  rotate: false
+  xy: 1516, 564
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+huan1
+  rotate: false
+  xy: 1079, 189
+  size: 328, 328
+  orig: 328, 328
+  offset: 0, 0
+  index: -1
+huan2
+  rotate: false
+  xy: 837, 500
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+jinHuan1
+  rotate: false
+  xy: 1108, 663
+  size: 353, 353
+  orig: 353, 353
+  offset: 0, 0
+  index: -1
+jinHuan2
+  rotate: false
+  xy: 1768, 577
+  size: 237, 237
+  orig: 237, 237
+  offset: 0, 0
+  index: -1
+jinHuan2_1
+  rotate: false
+  xy: 490, 436
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+jinHuan2_2
+  rotate: true
+  xy: 540, 436
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+jinHuan2_3
+  rotate: false
+  xy: 1973, 969
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+jinHuan2_4
+  rotate: true
+  xy: 1912, 968
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+jinHuan3
+  rotate: false
+  xy: 2, 3
+  size: 546, 430
+  orig: 546, 430
+  offset: 0, 0
+  index: -1
+jinHuan4
+  rotate: false
+  xy: 590, 8
+  size: 487, 487
+  orig: 487, 487
+  offset: 0, 0
+  index: -1
+jinHuan5
+  rotate: true
+  xy: 1126, 519
+  size: 142, 140
+  orig: 142, 140
+  offset: 0, 0
+  index: -1
+jinHuan6
+  rotate: false
+  xy: 1342, 560
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+jinHuan7
+  rotate: false
+  xy: 1132, 87
+  size: 234, 100
+  orig: 234, 100
+  offset: 0, 0
+  index: -1
+liuxing1
+  rotate: true
+  xy: 2, 435
+  size: 581, 486
+  orig: 581, 486
+  offset: 0, 0
+  index: -1
+liuxing2
+  rotate: true
+  xy: 837, 635
+  size: 381, 269
+  orig: 381, 269
+  offset: 0, 0
+  index: -1
+xHuan1
+  rotate: false
+  xy: 1368, 89
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+xHuan2
+  rotate: false
+  xy: 1467, 111
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+xHuan3
+  rotate: false
+  xy: 1445, 591
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+xHuan4
+  rotate: true
+  xy: 1463, 768
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+xHuan5
+  rotate: false
+  xy: 550, 399
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+xHuan6
+  rotate: true
+  xy: 550, 370
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: true
+  xy: 1409, 267
+  size: 291, 281
+  orig: 291, 281
+  offset: 0, 0
+  index: -1
+xingzuo1
+  rotate: false
+  xy: 1268, 555
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+xingzuo2
+  rotate: false
+  xy: 1013, 519
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+xingzuo3
+  rotate: false
+  xy: 1079, 40
+  size: 51, 147
+  orig: 51, 147
+  offset: 0, 0
+  index: -1
+xingzuo4
+  rotate: true
+  xy: 1546, 113
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1

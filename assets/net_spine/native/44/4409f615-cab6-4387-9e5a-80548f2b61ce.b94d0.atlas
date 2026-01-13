@@ -1,0 +1,139 @@
+
+battering_ram_armor.png
+size: 1007,863
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 378, 71
+  size: 51, 46
+  orig: 51, 47
+  offset: 0, 1
+  index: -1
+dun
+  rotate: false
+  xy: 888, 321
+  size: 91, 131
+  orig: 91, 131
+  offset: 0, 0
+  index: -1
+effect/chongc_0
+  rotate: false
+  xy: 854, 630
+  size: 151, 231
+  orig: 341, 401
+  offset: 94, 47
+  index: -1
+effect/chongc_1
+  rotate: false
+  xy: 776, 16
+  size: 187, 256
+  orig: 341, 401
+  offset: 77, 59
+  index: -1
+effect/chongc_2
+  rotate: false
+  xy: 2, 85
+  size: 279, 387
+  orig: 341, 401
+  offset: 30, 1
+  index: -1
+effect/chongc_3
+  rotate: false
+  xy: 285, 474
+  size: 279, 387
+  orig: 341, 401
+  offset: 30, 1
+  index: -1
+effect/chongc_4
+  rotate: false
+  xy: 2, 474
+  size: 281, 387
+  orig: 341, 401
+  offset: 29, 0
+  index: -1
+effect/chongc_5
+  rotate: true
+  xy: 491, 22
+  size: 199, 283
+  orig: 341, 401
+  offset: 45, 58
+  index: -1
+effect/chongc_6
+  rotate: true
+  xy: 566, 447
+  size: 190, 283
+  orig: 341, 401
+  offset: 45, 58
+  index: -1
+kuangjia
+  rotate: true
+  xy: 283, 26
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 97, 2
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: false
+  xy: 97, 2
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+lun3
+  rotate: false
+  xy: 2, 3
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+lun4
+  rotate: false
+  xy: 2, 3
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+zhuZi
+  rotate: true
+  xy: 283, 119
+  size: 353, 206
+  orig: 358, 212
+  offset: 5, 6
+  index: -1
+zuDang1
+  rotate: false
+  xy: 491, 223
+  size: 275, 222
+  orig: 275, 222
+  offset: 0, 0
+  index: -1
+zuDang2
+  rotate: false
+  xy: 566, 639
+  size: 286, 222
+  orig: 286, 222
+  offset: 0, 0
+  index: -1
+zuDang3
+  rotate: true
+  xy: 851, 454
+  size: 174, 127
+  orig: 174, 127
+  offset: 0, 0
+  index: -1
+zuDang4
+  rotate: true
+  xy: 768, 274
+  size: 171, 118
+  orig: 171, 118
+  offset: 0, 0
+  index: -1

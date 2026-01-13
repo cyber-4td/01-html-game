@@ -1,0 +1,55 @@
+
+slime_fast_fire.png
+size: 404,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo
+  rotate: true
+  xy: 2, 2
+  size: 139, 163
+  orig: 139, 163
+  offset: 0, 0
+  index: -1
+mei1
+  rotate: true
+  xy: 341, 81
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+mei2
+  rotate: false
+  xy: 341, 14
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 167, 10
+  size: 172, 131
+  orig: 172, 131
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 372, 28
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: false
+  xy: 372, 11
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 372, 45
+  size: 30, 34
+  orig: 32, 40
+  offset: 1, 5
+  index: -1

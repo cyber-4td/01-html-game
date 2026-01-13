@@ -1,0 +1,27 @@
+
+lx_Guide_Circle.png
+size: 276,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+self_BigCircle
+  rotate: false
+  xy: 2, 2
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+self_Hand
+  rotate: false
+  xy: 185, 87
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+self_SmallCircle
+  rotate: false
+  xy: 185, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

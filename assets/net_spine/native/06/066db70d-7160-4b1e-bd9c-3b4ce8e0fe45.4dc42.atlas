@@ -1,0 +1,139 @@
+
+troll.png
+size: 628,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Datuil
+  rotate: true
+  xy: 512, 20
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 512, 310
+  size: 114, 69
+  orig: 114, 69
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 597, 268
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+dabiL
+  rotate: false
+  xy: 512, 166
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+dabiR
+  rotate: true
+  xy: 512, 87
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+datuiR
+  rotate: false
+  xy: 591, 42
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+effect/dg_0
+  rotate: false
+  xy: 2, 2
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1
+effect/dg_1
+  rotate: false
+  xy: 257, 257
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1
+effect/dg_2
+  rotate: false
+  xy: 257, 2
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1
+effect/dg_3
+  rotate: false
+  xy: 2, 257
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1
+jiaoL
+  rotate: true
+  xy: 597, 232
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+jiaoR
+  rotate: true
+  xy: 597, 199
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+qunBai
+  rotate: true
+  xy: 575, 111
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 512, 225
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 512, 381
+  size: 129, 95
+  orig: 129, 95
+  offset: 0, 0
+  index: -1
+tuiR
+  rotate: true
+  xy: 563, 74
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+xiaobiL
+  rotate: false
+  xy: 554, 38
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+xiaobiR
+  rotate: false
+  xy: 512, 52
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+xiaotuil
+  rotate: true
+  xy: 512, 120
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1

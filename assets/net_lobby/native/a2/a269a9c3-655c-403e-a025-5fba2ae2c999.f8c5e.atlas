@@ -1,0 +1,27 @@
+
+shouchong1.png
+size: 594,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 2
+  size: 242, 200
+  orig: 376, 380
+  offset: 133, 7
+  index: -1
+06
+  rotate: false
+  xy: 246, 141
+  size: 61, 61
+  orig: 63, 63
+  offset: 1, 1
+  index: -1
+qizhi
+  rotate: false
+  xy: 2, 204
+  size: 321, 388
+  orig: 321, 388
+  offset: 0, 0
+  index: -1

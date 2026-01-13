@@ -1,0 +1,153 @@
+
+guard_lancer_sparta.png
+size: 949,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 871, 201
+  size: 87, 78
+  orig: 87, 78
+  offset: 0, 0
+  index: -1
+YouDabi
+  rotate: false
+  xy: 641, 59
+  size: 23, 34
+  orig: 25, 36
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 343, 22
+  size: 38, 32
+  orig: 40, 34
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 28, 6
+  size: 25, 26
+  orig: 27, 28
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: false
+  xy: 802, 4
+  size: 32, 36
+  orig: 38, 36
+  offset: 6, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 304, 22
+  size: 39, 32
+  orig: 41, 34
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 261, 13
+  size: 43, 41
+  orig: 45, 43
+  offset: 1, 1
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 1, 4
+  size: 27, 28
+  orig: 29, 30
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: false
+  xy: 174, 2
+  size: 45, 35
+  orig: 49, 35
+  offset: 4, 0
+  index: -1
+dun
+  rotate: false
+  xy: 802, 40
+  size: 72, 94
+  orig: 74, 96
+  offset: 1, 1
+  index: -1
+a_0
+  rotate: false
+  xy: 401, 33
+  size: 240, 60
+  orig: 400, 200
+  offset: 5, 74
+  index: -1
+a_10
+  rotate: false
+  xy: 659, 201
+  size: 212, 165
+  orig: 400, 200
+  offset: 136, 19
+  index: -1
+a_12
+  rotate: true
+  xy: 236, 54
+  size: 200, 165
+  orig: 400, 200
+  offset: 149, 18
+  index: -1
+a_2
+  rotate: false
+  xy: 668, 134
+  size: 267, 67
+  orig: 400, 200
+  offset: 36, 67
+  index: -1
+a_4
+  rotate: false
+  xy: 401, 93
+  size: 267, 107
+  orig: 400, 200
+  offset: 94, 47
+  index: -1
+a_6
+  rotate: false
+  xy: 1, 106
+  size: 235, 148
+  orig: 400, 200
+  offset: 90, 27
+  index: -1
+a_8
+  rotate: false
+  xy: 428, 200
+  size: 231, 166
+  orig: 400, 200
+  offset: 105, 19
+  index: -1
+c_0
+  rotate: false
+  xy: 1, 254
+  size: 427, 112
+  orig: 451, 170
+  offset: 10, 21
+  index: -1
+head
+  rotate: false
+  xy: 668, 1
+  size: 134, 133
+  orig: 136, 135
+  offset: 1, 1
+  index: -1
+pifeng
+  rotate: false
+  xy: 177, 13
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 1, 32
+  size: 176, 74
+  orig: 178, 76
+  offset: 1, 1
+  index: -1

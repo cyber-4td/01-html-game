@@ -1,0 +1,27 @@
+
+flag.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1
+  rotate: false
+  xy: 286, 2
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+qigan
+  rotate: true
+  xy: 2, 18
+  size: 182, 282
+  orig: 182, 282
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: false
+  xy: 286, 33
+  size: 149, 167
+  orig: 149, 167
+  offset: 0, 0
+  index: -1

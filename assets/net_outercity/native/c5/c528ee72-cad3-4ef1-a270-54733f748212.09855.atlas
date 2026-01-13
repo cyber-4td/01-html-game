@@ -1,0 +1,27 @@
+
+lx_KuangDong_Star.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_PointGlow
+  rotate: false
+  xy: 95, 14
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+eff_Star
+  rotate: false
+  xy: 95, 51
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+eff_StarGlow_000
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

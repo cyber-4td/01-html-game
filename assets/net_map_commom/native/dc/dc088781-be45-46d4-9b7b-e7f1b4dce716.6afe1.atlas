@@ -1,0 +1,293 @@
+
+shuiJingTa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 803, 261
+  size: 224, 134
+  orig: 224, 134
+  offset: 0, 0
+  index: -1
+new/1-1
+  rotate: true
+  xy: 212, 743
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+new/1-2
+  rotate: false
+  xy: 820, 487
+  size: 183, 215
+  orig: 220, 346
+  offset: 19, 23
+  index: -1
+new/2-1
+  rotate: true
+  xy: 671, 725
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+new/2-2
+  rotate: true
+  xy: 705, 74
+  size: 185, 239
+  orig: 220, 346
+  offset: 16, 23
+  index: -1
+new/3-1
+  rotate: true
+  xy: 883, 704
+  size: 106, 115
+  orig: 106, 115
+  offset: 0, 0
+  index: -1
+new/3-2
+  rotate: true
+  xy: 2, 2
+  size: 185, 239
+  orig: 220, 346
+  offset: 16, 22
+  index: -1
+new/4-1
+  rotate: true
+  xy: 152, 635
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+new/4-2
+  rotate: true
+  xy: 243, 2
+  size: 185, 239
+  orig: 220, 346
+  offset: 16, 22
+  index: -1
+new/light-1
+  rotate: false
+  xy: 54, 833
+  size: 60, 39
+  orig: 77, 93
+  offset: 8, 2
+  index: -1
+new/light-2
+  rotate: true
+  xy: 300, 742
+  size: 73, 80
+  orig: 77, 93
+  offset: 2, 1
+  index: -1
+new/yan/yan2_0
+  rotate: false
+  xy: 2, 507
+  size: 223, 126
+  orig: 281, 184
+  offset: 21, 32
+  index: -1
+new/yan/yan2_1
+  rotate: false
+  xy: 450, 479
+  size: 223, 126
+  orig: 281, 184
+  offset: 21, 32
+  index: -1
+new/yan/yan2_2
+  rotate: false
+  xy: 644, 607
+  size: 174, 116
+  orig: 281, 184
+  offset: 12, 42
+  index: -1
+new/yan/yan2_3
+  rotate: false
+  xy: 277, 616
+  size: 171, 114
+  orig: 281, 184
+  offset: 12, 43
+  index: -1
+new/yan/yan2_4
+  rotate: true
+  xy: 770, 725
+  size: 85, 111
+  orig: 281, 184
+  offset: 9, 45
+  index: -1
+new/yan/yan2_5
+  rotate: true
+  xy: 571, 727
+  size: 84, 98
+  orig: 281, 184
+  offset: 8, 57
+  index: -1
+new/yan/yan2_6
+  rotate: true
+  xy: 476, 730
+  size: 82, 93
+  orig: 281, 184
+  offset: 6, 60
+  index: -1
+new/yan/yan2_7
+  rotate: true
+  xy: 382, 732
+  size: 81, 92
+  orig: 281, 184
+  offset: 5, 60
+  index: -1
+new/yan/yan2_8
+  rotate: true
+  xy: 116, 827
+  size: 45, 73
+  orig: 281, 184
+  offset: 3, 72
+  index: -1
+new/yan/yan2_9
+  rotate: true
+  xy: 2, 851
+  size: 21, 50
+  orig: 281, 184
+  offset: 2, 74
+  index: -1
+new/yan/yan3_10
+  rotate: false
+  xy: 2, 771
+  size: 104, 60
+  orig: 125, 84
+  offset: 7, 8
+  index: -1
+new/yan/yan3_11
+  rotate: false
+  xy: 108, 755
+  size: 102, 61
+  orig: 125, 84
+  offset: 8, 8
+  index: -1
+new/yan/yan3_12
+  rotate: false
+  xy: 588, 813
+  size: 101, 59
+  orig: 125, 84
+  offset: 8, 10
+  index: -1
+new/yan/yan3_13
+  rotate: false
+  xy: 385, 815
+  size: 99, 57
+  orig: 125, 84
+  offset: 9, 11
+  index: -1
+new/yan/yan3_14
+  rotate: false
+  xy: 191, 818
+  size: 96, 54
+  orig: 125, 84
+  offset: 9, 11
+  index: -1
+new/yan/yan3_5
+  rotate: false
+  xy: 289, 817
+  size: 94, 55
+  orig: 125, 84
+  offset: 14, 12
+  index: -1
+new/yan/yan3_6
+  rotate: false
+  xy: 486, 814
+  size: 100, 58
+  orig: 125, 84
+  offset: 10, 9
+  index: -1
+new/yan/yan3_7
+  rotate: false
+  xy: 691, 812
+  size: 101, 60
+  orig: 125, 84
+  offset: 9, 8
+  index: -1
+new/yan/yan3_8
+  rotate: false
+  xy: 794, 812
+  size: 103, 60
+  orig: 125, 84
+  offset: 8, 8
+  index: -1
+new/yan/yan3_9
+  rotate: false
+  xy: 899, 812
+  size: 104, 60
+  orig: 125, 84
+  offset: 7, 8
+  index: -1
+new/yan/yan_0
+  rotate: false
+  xy: 231, 189
+  size: 235, 159
+  orig: 261, 188
+  offset: 2, 29
+  index: -1
+new/yan/yan_1
+  rotate: false
+  xy: 468, 189
+  size: 235, 159
+  orig: 261, 188
+  offset: 2, 29
+  index: -1
+new/yan/yan_2
+  rotate: false
+  xy: 2, 230
+  size: 227, 128
+  orig: 261, 188
+  offset: 18, 22
+  index: -1
+new/yan/yan_3
+  rotate: false
+  xy: 444, 350
+  size: 225, 127
+  orig: 261, 188
+  offset: 21, 21
+  index: -1
+new/yan/yan_4
+  rotate: false
+  xy: 227, 488
+  size: 221, 126
+  orig: 261, 188
+  offset: 28, 19
+  index: -1
+new/yan/yan_5
+  rotate: false
+  xy: 2, 379
+  size: 220, 126
+  orig: 261, 188
+  offset: 30, 18
+  index: -1
+new/yan/yan_6
+  rotate: false
+  xy: 224, 360
+  size: 218, 126
+  orig: 261, 188
+  offset: 34, 16
+  index: -1
+new/yan/yan_7
+  rotate: true
+  xy: 675, 389
+  size: 216, 126
+  orig: 261, 188
+  offset: 36, 15
+  index: -1
+new/yan/yan_8
+  rotate: false
+  xy: 450, 610
+  size: 192, 115
+  orig: 261, 188
+  offset: 61, 14
+  index: -1
+new/yan/yan_9
+  rotate: false
+  xy: 2, 663
+  size: 148, 90
+  orig: 261, 188
+  offset: 106, 15
+  index: -1

@@ -1,0 +1,111 @@
+
+ogre.png
+size: 797,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: false
+  xy: 304, 190
+  size: 196, 233
+  orig: 196, 233
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 98, 6
+  size: 135, 144
+  orig: 137, 146
+  offset: 1, 1
+  index: -1
+YouDabi
+  rotate: false
+  xy: 697, 110
+  size: 95, 105
+  orig: 95, 105
+  offset: 0, 0
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 601, 209
+  size: 94, 106
+  orig: 94, 106
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: true
+  xy: 606, 58
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: true
+  xy: 697, 217
+  size: 104, 98
+  orig: 106, 100
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 2, 3
+  size: 94, 147
+  orig: 94, 147
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 606, 127
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+effect/0
+  rotate: true
+  xy: 502, 194
+  size: 121, 97
+  orig: 288, 250
+  offset: 5, 132
+  index: -1
+effect/1
+  rotate: true
+  xy: 187, 188
+  size: 235, 115
+  orig: 288, 250
+  offset: 5, 116
+  index: -1
+effect/2
+  rotate: true
+  xy: 2, 152
+  size: 271, 183
+  orig: 288, 250
+  offset: 5, 48
+  index: -1
+effect/3
+  rotate: false
+  xy: 406, 5
+  size: 198, 183
+  orig: 288, 250
+  offset: 78, 48
+  index: -1
+effect/4
+  rotate: true
+  xy: 606, 323
+  size: 100, 174
+  orig: 288, 250
+  offset: 176, 48
+  index: -1
+effect/5
+  rotate: false
+  xy: 502, 317
+  size: 100, 106
+  orig: 288, 250
+  offset: 176, 48
+  index: -1
+gunzi
+  rotate: true
+  xy: 235, 2
+  size: 184, 169
+  orig: 186, 171
+  offset: 1, 1
+  index: -1

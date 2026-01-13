@@ -1,0 +1,83 @@
+
+skeleton_shooter_archer.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 279, 61
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 2, 21
+  size: 105, 100
+  orig: 107, 102
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 239, 22
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: true
+  xy: 104, 3
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Zuogebo
+  rotate: true
+  xy: 147, 2
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 174, 9
+  size: 22, 31
+  orig: 24, 33
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: false
+  xy: 198, 5
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 178, 48
+  size: 45, 78
+  orig: 47, 80
+  offset: 1, 1
+  index: -1
+gongxian
+  rotate: false
+  xy: 225, 50
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 104, 39
+  size: 87, 38
+  orig: 89, 40
+  offset: 1, 1
+  index: -1
+pifeng
+  rotate: true
+  xy: 144, 42
+  size: 84, 32
+  orig: 86, 34
+  offset: 1, 1
+  index: -1

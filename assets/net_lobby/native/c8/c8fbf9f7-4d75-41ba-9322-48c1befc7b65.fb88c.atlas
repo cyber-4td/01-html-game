@@ -1,0 +1,27 @@
+
+tubiao.png
+size: 315,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di2_0
+  rotate: true
+  xy: 2, 17
+  size: 182, 166
+  orig: 200, 200
+  offset: 7, 18
+  index: -1
+di_0
+  rotate: false
+  xy: 170, 56
+  size: 143, 143
+  orig: 200, 200
+  offset: 30, 29
+  index: -1
+lizi_0
+  rotate: false
+  xy: 170, 2
+  size: 54, 52
+  orig: 75, 75
+  offset: 13, 11
+  index: -1

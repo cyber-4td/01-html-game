@@ -1,0 +1,76 @@
+
+ShiGuan.png
+size: 957,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 290
+  size: 440, 234
+  orig: 445, 236
+  offset: 4, 1
+  index: -1
+1-1
+  rotate: true
+  xy: 746, 224
+  size: 300, 209
+  orig: 302, 211
+  offset: 1, 1
+  index: -1
+1-2
+  rotate: false
+  xy: 356, 267
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+2-1
+  rotate: false
+  xy: 609, 13
+  size: 300, 209
+  orig: 302, 211
+  offset: 1, 1
+  index: -1
+222
+  rotate: false
+  xy: 356, 245
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+3-1
+  rotate: false
+  xy: 307, 21
+  size: 300, 222
+  orig: 302, 224
+  offset: 1, 1
+  index: -1
+3-2
+  rotate: false
+  xy: 911, 193
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+4-1
+  rotate: false
+  xy: 444, 245
+  size: 300, 279
+  orig: 302, 281
+  offset: 1, 1
+  index: -1
+4-2
+  rotate: false
+  xy: 307, 256
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+5-1
+  rotate: false
+  xy: 2, 2
+  size: 303, 286
+  orig: 330, 307
+  offset: 14, 15
+  index: -1

@@ -1,0 +1,111 @@
+
+original-zuoQi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hbody
+  rotate: true
+  xy: 2, 108
+  size: 145, 111
+  orig: 145, 111
+  offset: 0, 0
+  index: -1
+Hface
+  rotate: true
+  xy: 115, 158
+  size: 95, 84
+  orig: 97, 86
+  offset: 1, 1
+  index: -1
+Hleg-1
+  rotate: false
+  xy: 227, 61
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Hleg-2
+  rotate: true
+  xy: 2, 2
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+Hleg-3
+  rotate: true
+  xy: 67, 2
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Hleg-4
+  rotate: false
+  xy: 201, 120
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+dai
+  rotate: false
+  xy: 131, 16
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+ear-L
+  rotate: false
+  xy: 196, 15
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+ear-R
+  rotate: false
+  xy: 226, 13
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 115, 109
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+huan
+  rotate: true
+  xy: 167, 110
+  size: 20, 25
+  orig: 22, 27
+  offset: 1, 1
+  index: -1
+maan
+  rotate: false
+  xy: 152, 51
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 167, 132
+  size: 21, 24
+  orig: 23, 26
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 201, 180
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+ying
+  rotate: false
+  xy: 2, 48
+  size: 148, 58
+  orig: 150, 60
+  offset: 1, 1
+  index: -1

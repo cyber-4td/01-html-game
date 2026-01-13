@@ -1,0 +1,160 @@
+
+cai-fire-female.png
+size: 1766,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_dabi1
+  rotate: false
+  xy: 1418, 404
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+Q_shou1
+  rotate: false
+  xy: 1418, 310
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+Q_tui
+  rotate: false
+  xy: 1536, 218
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+Q_tui2
+  rotate: false
+  xy: 1418, 191
+  size: 116, 58
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+Q_tui3
+  rotate: true
+  xy: 1418, 251
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+Q_xiaobi1
+  rotate: true
+  xy: 1418, 346
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+effect/lizi_157
+  rotate: false
+  xy: 1613, 224
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+effect/shang_0
+  rotate: true
+  xy: 2, 179
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_1
+  rotate: false
+  xy: 2, 2
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_10
+  rotate: true
+  xy: 1064, 179
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_11
+  rotate: false
+  xy: 1178, 2
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_12
+  rotate: false
+  xy: 1472, 296
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_13
+  rotate: true
+  xy: 1241, 179
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_14
+  rotate: false
+  xy: 1472, 14
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_2
+  rotate: true
+  xy: 179, 179
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_3
+  rotate: false
+  xy: 296, 2
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_4
+  rotate: true
+  xy: 356, 179
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_5
+  rotate: true
+  xy: 533, 179
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_6
+  rotate: false
+  xy: 590, 2
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_7
+  rotate: true
+  xy: 710, 179
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_8
+  rotate: false
+  xy: 884, 2
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1
+effect/shang_9
+  rotate: true
+  xy: 887, 179
+  size: 292, 175
+  orig: 292, 175
+  offset: 0, 0
+  index: -1

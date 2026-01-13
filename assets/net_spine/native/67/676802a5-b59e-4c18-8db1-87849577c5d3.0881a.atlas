@@ -1,0 +1,125 @@
+
+orc_shield_spiked_warlord.png
+size: 930,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: false
+  xy: 471, 66
+  size: 109, 149
+  orig: 111, 151
+  offset: 1, 1
+  index: -1
+effect/0
+  rotate: false
+  xy: 174, 14
+  size: 131, 178
+  orig: 350, 297
+  offset: 21, 97
+  index: -1
+effect/1
+  rotate: true
+  xy: 285, 217
+  size: 287, 191
+  orig: 350, 297
+  offset: 22, 96
+  index: -1
+effect/2
+  rotate: true
+  xy: 2, 194
+  size: 310, 281
+  orig: 350, 297
+  offset: 23, 6
+  index: -1
+effect/3
+  rotate: false
+  xy: 478, 229
+  size: 218, 275
+  orig: 350, 297
+  offset: 115, 12
+  index: -1
+fuzi
+  rotate: false
+  xy: 591, 8
+  size: 228, 219
+  orig: 228, 219
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 821, 129
+  size: 99, 99
+  orig: 102, 102
+  offset: 1, 2
+  index: -1
+kuzi
+  rotate: false
+  xy: 471, 2
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 5
+  size: 170, 187
+  orig: 170, 187
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 307, 12
+  size: 162, 203
+  orig: 164, 205
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: true
+  xy: 821, 5
+  size: 65, 51
+  orig: 69, 53
+  offset: 2, 1
+  index: -1
+youshou1
+  rotate: true
+  xy: 821, 305
+  size: 93, 103
+  orig: 93, 105
+  offset: 0, 1
+  index: -1
+youshou2
+  rotate: true
+  xy: 698, 376
+  size: 128, 118
+  orig: 128, 126
+  offset: 0, 4
+  index: -1
+youshouzhi2
+  rotate: true
+  xy: 804, 230
+  size: 73, 81
+  orig: 75, 84
+  offset: 1, 1
+  index: -1
+zuojiao
+  rotate: false
+  xy: 821, 72
+  size: 67, 55
+  orig: 69, 55
+  offset: 1, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 821, 400
+  size: 104, 107
+  orig: 110, 107
+  offset: 3, 0
+  index: -1
+zuoshouzhi
+  rotate: false
+  xy: 698, 234
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1

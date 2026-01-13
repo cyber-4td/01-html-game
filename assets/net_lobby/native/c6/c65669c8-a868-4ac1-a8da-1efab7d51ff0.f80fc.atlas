@@ -1,0 +1,62 @@
+
+fuwenbaoxiang.png
+size: 730,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gqqhuang
+  rotate: false
+  xy: 2, 177
+  size: 276, 217
+  orig: 278, 238
+  offset: 1, 20
+  index: -1
+guang
+  rotate: false
+  xy: 532, 51
+  size: 138, 138
+  orig: 160, 160
+  offset: 11, 11
+  index: -1
+guanghuang
+  rotate: false
+  xy: 196, 2
+  size: 173, 173
+  orig: 200, 200
+  offset: 13, 14
+  index: -1
+tb
+  rotate: true
+  xy: 371, 13
+  size: 168, 159
+  orig: 168, 159
+  offset: 0, 0
+  index: -1
+tbg
+  rotate: false
+  xy: 516, 191
+  size: 212, 203
+  orig: 222, 211
+  offset: 5, 4
+  index: -1
+tbghuang
+  rotate: false
+  xy: 280, 183
+  size: 234, 211
+  orig: 236, 212
+  offset: 1, 0
+  index: -1
+tbhuang
+  rotate: false
+  xy: 2, 7
+  size: 192, 168
+  orig: 192, 168
+  offset: 0, 0
+  index: -1
+yq_g1
+  rotate: false
+  xy: 672, 148
+  size: 39, 41
+  orig: 43, 45
+  offset: 2, 2
+  index: -1

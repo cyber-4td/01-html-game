@@ -1,0 +1,146 @@
+
+jx.png
+size: 1849,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_0
+  rotate: true
+  xy: 1442, 88
+  size: 145, 150
+  orig: 243, 243
+  offset: 49, 45
+  index: -1
+a_1
+  rotate: true
+  xy: 1675, 143
+  size: 155, 161
+  orig: 243, 243
+  offset: 44, 39
+  index: -1
+a_10
+  rotate: true
+  xy: 1436, 235
+  size: 230, 237
+  orig: 243, 243
+  offset: 5, 2
+  index: -1
+a_11
+  rotate: false
+  xy: 485, 224
+  size: 237, 241
+  orig: 243, 243
+  offset: 1, 0
+  index: -1
+a_12
+  rotate: false
+  xy: 2, 222
+  size: 240, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+a_13
+  rotate: false
+  xy: 244, 222
+  size: 239, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+a_14
+  rotate: false
+  xy: 724, 224
+  size: 237, 241
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+a_15
+  rotate: false
+  xy: 963, 227
+  size: 234, 238
+  orig: 243, 243
+  offset: 1, 1
+  index: -1
+a_16
+  rotate: false
+  xy: 1199, 230
+  size: 235, 235
+  orig: 243, 243
+  offset: 0, 3
+  index: -1
+a_17
+  rotate: true
+  xy: 1664, 7
+  size: 134, 121
+  orig: 243, 243
+  offset: 72, 57
+  index: -1
+a_18
+  rotate: true
+  xy: 1594, 102
+  size: 131, 68
+  orig: 243, 243
+  offset: 73, 84
+  index: -1
+a_19
+  rotate: false
+  xy: 1442, 20
+  size: 126, 66
+  orig: 243, 243
+  offset: 75, 83
+  index: -1
+a_2
+  rotate: true
+  xy: 1675, 300
+  size: 165, 172
+  orig: 243, 243
+  offset: 39, 34
+  index: -1
+a_3
+  rotate: false
+  xy: 1264, 44
+  size: 176, 184
+  orig: 243, 243
+  offset: 33, 28
+  index: -1
+a_4
+  rotate: false
+  xy: 844, 28
+  size: 186, 194
+  orig: 243, 243
+  offset: 28, 23
+  index: -1
+a_5
+  rotate: false
+  xy: 646, 17
+  size: 196, 205
+  orig: 243, 243
+  offset: 22, 18
+  index: -1
+a_6
+  rotate: false
+  xy: 442, 9
+  size: 202, 211
+  orig: 243, 243
+  offset: 19, 15
+  index: -1
+a_7
+  rotate: false
+  xy: 229, 3
+  size: 211, 217
+  orig: 243, 243
+  offset: 15, 12
+  index: -1
+a_8
+  rotate: true
+  xy: 2, 3
+  size: 217, 225
+  orig: 243, 243
+  offset: 11, 8
+  index: -1
+a_9
+  rotate: true
+  xy: 1032, 2
+  size: 223, 230
+  orig: 243, 243
+  offset: 8, 6
+  index: -1

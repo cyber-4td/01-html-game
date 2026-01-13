@@ -1,0 +1,125 @@
+
+shouchong2.png
+size: 108,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 319
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+gong
+  rotate: true
+  xy: 1, 164
+  size: 75, 84
+  orig: 75, 85
+  offset: 0, 1
+  index: -1
+gss
+  rotate: false
+  xy: 82, 36
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+huo0001
+  rotate: true
+  xy: 1, 102
+  size: 29, 47
+  orig: 42, 48
+  offset: 7, 0
+  index: -1
+huo0002
+  rotate: true
+  xy: 46, 70
+  size: 32, 42
+  orig: 42, 48
+  offset: 6, 0
+  index: -1
+huo0003
+  rotate: true
+  xy: 12, 131
+  size: 34, 42
+  orig: 42, 48
+  offset: 4, 0
+  index: -1
+huo0004
+  rotate: true
+  xy: 54, 132
+  size: 33, 42
+  orig: 42, 48
+  offset: 3, 0
+  index: -1
+huo0005
+  rotate: true
+  xy: 37, 3
+  size: 33, 37
+  orig: 42, 48
+  offset: 3, 0
+  index: -1
+huo0006
+  rotate: true
+  xy: 45, 36
+  size: 34, 37
+  orig: 42, 48
+  offset: 2, 0
+  index: -1
+huo0007
+  rotate: false
+  xy: 74, 2
+  size: 34, 34
+  orig: 42, 48
+  offset: 2, 0
+  index: -1
+huo0008
+  rotate: true
+  xy: 1, 8
+  size: 34, 36
+  orig: 42, 48
+  offset: 2, 0
+  index: -1
+huo0009
+  rotate: false
+  xy: 64, 168
+  size: 36, 40
+  orig: 42, 48
+  offset: 2, 0
+  index: -1
+huo0010
+  rotate: false
+  xy: 29, 165
+  size: 35, 43
+  orig: 42, 48
+  offset: 2, 0
+  index: -1
+huo0011
+  rotate: true
+  xy: 1, 42
+  size: 30, 44
+  orig: 42, 48
+  offset: 6, 0
+  index: -1
+huo0012
+  rotate: true
+  xy: 1, 72
+  size: 30, 45
+  orig: 42, 48
+  offset: 6, 0
+  index: -1
+huo0013
+  rotate: true
+  xy: 54, 102
+  size: 30, 46
+  orig: 42, 48
+  offset: 7, 0
+  index: -1
+jian
+  rotate: false
+  xy: 1, 237
+  size: 104, 82
+  orig: 105, 82
+  offset: 1, 0
+  index: -1

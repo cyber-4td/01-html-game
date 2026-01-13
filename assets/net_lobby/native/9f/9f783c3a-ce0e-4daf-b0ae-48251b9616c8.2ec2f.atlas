@@ -1,0 +1,13 @@
+
+anniusaoguang.png
+size: 145,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saoguang
+  rotate: false
+  xy: 2, 2
+  size: 96, 141
+  orig: 99, 144
+  offset: 2, 1
+  index: -1

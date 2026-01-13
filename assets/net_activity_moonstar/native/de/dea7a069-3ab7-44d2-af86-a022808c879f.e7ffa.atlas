@@ -1,0 +1,90 @@
+
+liudong.png
+size: 329,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liudong_0
+  rotate: true
+  xy: 271, 800
+  size: 10, 11
+  orig: 210, 210
+  offset: 101, 89
+  index: -1
+liudong_11
+  rotate: true
+  xy: 2, 644
+  size: 166, 170
+  orig: 210, 210
+  offset: 20, 9
+  index: -1
+liudong_12
+  rotate: true
+  xy: 2, 476
+  size: 166, 169
+  orig: 210, 210
+  offset: 20, 10
+  index: -1
+liudong_14
+  rotate: true
+  xy: 2, 308
+  size: 166, 169
+  orig: 210, 210
+  offset: 20, 10
+  index: -1
+liudong_15
+  rotate: true
+  xy: 168, 92
+  size: 158, 159
+  orig: 210, 210
+  offset: 24, 15
+  index: -1
+liudong_2
+  rotate: true
+  xy: 250, 20
+  size: 70, 73
+  orig: 210, 210
+  offset: 68, 57
+  index: -1
+liudong_3
+  rotate: true
+  xy: 138, 2
+  size: 88, 110
+  orig: 210, 210
+  offset: 61, 46
+  index: -1
+liudong_5
+  rotate: true
+  xy: 173, 252
+  size: 128, 144
+  orig: 210, 210
+  offset: 42, 34
+  index: -1
+liudong_6
+  rotate: false
+  xy: 2, 13
+  size: 134, 129
+  orig: 210, 210
+  offset: 39, 31
+  index: -1
+liudong_8
+  rotate: true
+  xy: 173, 382
+  size: 148, 150
+  orig: 210, 210
+  offset: 29, 19
+  index: -1
+liudong_9
+  rotate: true
+  xy: 2, 144
+  size: 162, 164
+  orig: 210, 210
+  offset: 22, 12
+  index: -1
+zidan_0
+  rotate: false
+  xy: 174, 532
+  size: 95, 278
+  orig: 95, 278
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+orange-fire-maleBody.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-R
+  rotate: false
+  xy: 548, 762
+  size: 56, 29
+  orig: 58, 31
+  offset: 1, 0
+  index: -1
+body
+  rotate: true
+  xy: 459, 673
+  size: 79, 88
+  orig: 80, 88
+  offset: 1, 0
+  index: -1
+body1
+  rotate: true
+  xy: 549, 674
+  size: 56, 60
+  orig: 63, 60
+  offset: 7, 0
+  index: -1
+effect/effe_0
+  rotate: false
+  xy: 503, 229
+  size: 289, 170
+  orig: 300, 197
+  offset: 0, 17
+  index: -1
+effect/effe_1
+  rotate: false
+  xy: 702, 803
+  size: 285, 187
+  orig: 300, 197
+  offset: 0, 4
+  index: -1
+effect/effe_10
+  rotate: true
+  xy: 304, 754
+  size: 236, 197
+  orig: 300, 197
+  offset: 64, 0
+  index: -1
+effect/effe_11
+  rotate: false
+  xy: 503, 401
+  size: 192, 197
+  orig: 300, 197
+  offset: 108, 0
+  index: -1
+effect/effe_12
+  rotate: false
+  xy: 503, 793
+  size: 197, 197
+  orig: 300, 197
+  offset: 103, 0
+  index: -1
+effect/effe_13
+  rotate: true
+  xy: 2, 381
+  size: 201, 197
+  orig: 300, 197
+  offset: 99, 0
+  index: -1
+effect/effe_14
+  rotate: true
+  xy: 2, 584
+  size: 208, 197
+  orig: 300, 197
+  offset: 92, 0
+  index: -1
+effect/effe_2
+  rotate: false
+  xy: 697, 412
+  size: 277, 186
+  orig: 300, 197
+  offset: 0, 8
+  index: -1
+effect/effe_3
+  rotate: true
+  xy: 2, 103
+  size: 276, 185
+  orig: 300, 197
+  offset: 0, 12
+  index: -1
+effect/effe_4
+  rotate: false
+  xy: 2, 794
+  size: 300, 196
+  orig: 300, 197
+  offset: 0, 1
+  index: -1
+effect/effe_5
+  rotate: false
+  xy: 201, 389
+  size: 300, 195
+  orig: 300, 197
+  offset: 0, 2
+  index: -1
+effect/effe_6
+  rotate: false
+  xy: 690, 600
+  size: 300, 191
+  orig: 300, 197
+  offset: 0, 6
+  index: -1
+effect/effe_7
+  rotate: true
+  xy: 201, 113
+  size: 274, 186
+  orig: 300, 197
+  offset: 26, 11
+  index: -1
+effect/effe_8
+  rotate: true
+  xy: 794, 130
+  size: 280, 181
+  orig: 300, 197
+  offset: 20, 16
+  index: -1
+effect/effe_9
+  rotate: false
+  xy: 389, 46
+  size: 184, 181
+  orig: 300, 197
+  offset: 116, 16
+  index: -1
+fire
+  rotate: true
+  xy: 201, 586
+  size: 206, 100
+  orig: 206, 101
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 303, 605
+  size: 147, 154
+  orig: 149, 156
+  offset: 1, 1
+  index: -1
+ling-L
+  rotate: false
+  xy: 611, 692
+  size: 58, 38
+  orig: 62, 40
+  offset: 2, 1
+  index: -1
+ling-R
+  rotate: false
+  xy: 609, 628
+  size: 67, 44
+  orig: 74, 48
+  offset: 3, 2
+  index: -1
+pifeng1
+  rotate: false
+  xy: 459, 600
+  size: 148, 71
+  orig: 149, 71
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 606, 732
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+shoulder-R
+  rotate: true
+  xy: 503, 754
+  size: 37, 43
+  orig: 39, 45
+  offset: 1, 1
+  index: -1
+spark1
+  rotate: false
+  xy: 331, 591
+  size: 25, 12
+  orig: 27, 14
+  offset: 1, 1
+  index: -1
+spark2
+  rotate: false
+  xy: 303, 587
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1

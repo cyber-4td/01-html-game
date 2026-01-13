@@ -1,0 +1,83 @@
+
+infantry5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+infantry_0000_lefthand
+  rotate: false
+  xy: 2, 204
+  size: 90, 264
+  orig: 90, 264
+  offset: 0, 0
+  index: -1
+infantry_0001_Tou
+  rotate: true
+  xy: 2, 2
+  size: 200, 203
+  orig: 200, 203
+  offset: 0, 0
+  index: -1
+infantry_0002_Lingzi
+  rotate: false
+  xy: 94, 294
+  size: 169, 54
+  orig: 169, 54
+  offset: 0, 0
+  index: -1
+infantry_0003_body
+  rotate: true
+  xy: 207, 163
+  size: 129, 109
+  orig: 129, 109
+  offset: 0, 0
+  index: -1
+infantry_0004_Youtui
+  rotate: true
+  xy: 308, 121
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+infantry_0005_Zuotui
+  rotate: true
+  xy: 256, 118
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+infantry_0006_righthand
+  rotate: true
+  xy: 277, 306
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+infantry_0007_dunpai
+  rotate: true
+  xy: 277, 366
+  size: 102, 115
+  orig: 102, 115
+  offset: 0, 0
+  index: -1
+infantry_0008_Zuodabi
+  rotate: false
+  xy: 207, 117
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+infantry_0009_zuoshoubi
+  rotate: true
+  xy: 94, 232
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+infantry_0010_pifeng
+  rotate: false
+  xy: 94, 350
+  size: 181, 118
+  orig: 181, 118
+  offset: 0, 0
+  index: -1

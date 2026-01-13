@@ -1,0 +1,118 @@
+
+original-male.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+binjiao1
+  rotate: false
+  xy: 2, 2
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+binjiao2
+  rotate: false
+  xy: 26, 3
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 169, 85
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 133, 8
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+ear2
+  rotate: false
+  xy: 220, 174
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 68, 44
+  size: 99, 100
+  orig: 101, 102
+  offset: 1, 1
+  index: -1
+hand
+  rotate: true
+  xy: 213, 29
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: true
+  xy: 2, 37
+  size: 107, 64
+  orig: 109, 66
+  offset: 1, 1
+  index: -1
+mao1
+  rotate: true
+  xy: 169, 8
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: true
+  xy: 213, 2
+  size: 25, 34
+  orig: 27, 36
+  offset: 1, 1
+  index: -1
+scarf
+  rotate: true
+  xy: 146, 162
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+scarf-0
+  rotate: false
+  xy: 249, 6
+  size: 19, 21
+  orig: 21, 23
+  offset: 1, 1
+  index: -1
+toufa1
+  rotate: true
+  xy: 2, 146
+  size: 108, 81
+  orig: 110, 83
+  offset: 1, 1
+  index: -1
+toufa2
+  rotate: true
+  xy: 85, 157
+  size: 97, 59
+  orig: 100, 59
+  offset: 3, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 50, 4
+  size: 81, 31
+  orig: 83, 33
+  offset: 1, 1
+  index: -1
+xiongjia
+  rotate: true
+  xy: 220, 210
+  size: 44, 27
+  orig: 46, 29
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 510,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+outdoors_img7_1
+  rotate: false
+  xy: 2, 2
+  size: 144, 38
+  orig: 144, 38
+  offset: 0, 0
+  index: -1
+outdoors_img7_1up
+  rotate: false
+  xy: 2, 42
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: -1
+sb2_0
+  rotate: false
+  xy: 156, 5
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+sb3_0
+  rotate: false
+  xy: 233, 10
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+sb_0
+  rotate: false
+  xy: 2, 82
+  size: 304, 195
+  orig: 304, 195
+  offset: 0, 0
+  index: -1
+sl2_0
+  rotate: false
+  xy: 377, 5
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sl3_0
+  rotate: false
+  xy: 308, 127
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+sl_0
+  rotate: false
+  xy: 305, 10
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

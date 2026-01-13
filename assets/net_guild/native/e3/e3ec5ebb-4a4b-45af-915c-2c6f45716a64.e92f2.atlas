@@ -1,0 +1,20 @@
+
+trainShow.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N
+  rotate: true
+  xy: 2, 298
+  size: 294, 1836
+  orig: 294, 1836
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 2, 2
+  size: 294, 1836
+  orig: 294, 1836
+  offset: 0, 0
+  index: -1

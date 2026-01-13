@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 476,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect1/fangshe_7
+  rotate: true
+  xy: 322, 131
+  size: 44, 151
+  orig: 76, 181
+  offset: 16, 10
+  index: -1
+effect1/guang_0
+  rotate: false
+  xy: 2, 2
+  size: 318, 326
+  orig: 338, 330
+  offset: 12, 4
+  index: -1
+effect1/jt_0
+  rotate: false
+  xy: 322, 2
+  size: 35, 127
+  orig: 65, 157
+  offset: 14, 14
+  index: -1
+effect1/kk_0
+  rotate: false
+  xy: 322, 177
+  size: 152, 151
+  orig: 210, 205
+  offset: 30, 28
+  index: -1
+effect1/quan_7
+  rotate: false
+  xy: 359, 17
+  size: 113, 112
+  orig: 133, 130
+  offset: 10, 7
+  index: -1

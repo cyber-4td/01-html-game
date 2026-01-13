@@ -1,0 +1,48 @@
+
+baoxiangxiao.png
+size: 246,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gn_g1_1
+  rotate: false
+  xy: 2, 87
+  size: 157, 157
+  orig: 164, 164
+  offset: 4, 3
+  index: -1
+img_hongdian
+  rotate: false
+  xy: 167, 23
+  size: 39, 38
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+img_tianshu
+  rotate: true
+  xy: 94, 2
+  size: 83, 71
+  orig: 96, 83
+  offset: 6, 1
+  index: -1
+m8
+  rotate: true
+  xy: 167, 63
+  size: 83, 63
+  orig: 96, 83
+  offset: 6, 1
+  index: -1
+zhubaoxiang1
+  rotate: true
+  xy: 161, 148
+  size: 96, 70
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+zhubaoxiang2
+  rotate: false
+  xy: 2, 2
+  size: 90, 83
+  orig: 96, 83
+  offset: 2, 0
+  index: -1

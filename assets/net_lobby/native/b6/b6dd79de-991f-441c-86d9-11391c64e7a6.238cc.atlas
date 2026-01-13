@@ -1,0 +1,48 @@
+
+zengjiagongji.png
+size: 515,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 113
+  size: 446, 130
+  orig: 450, 134
+  offset: 2, 2
+  index: -1
+huo1
+  rotate: false
+  xy: 2, 253
+  size: 232, 134
+  orig: 232, 150
+  offset: 0, 7
+  index: -1
+huo2
+  rotate: false
+  xy: 281, 383
+  size: 232, 130
+  orig: 232, 150
+  offset: 0, 8
+  index: -1
+huo3
+  rotate: false
+  xy: 47, 389
+  size: 232, 124
+  orig: 232, 150
+  offset: 0, 10
+  index: -1
+huo4
+  rotate: false
+  xy: 236, 245
+  size: 231, 136
+  orig: 232, 150
+  offset: 1, 7
+  index: -1
+xingxing
+  rotate: false
+  xy: 2, 470
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1

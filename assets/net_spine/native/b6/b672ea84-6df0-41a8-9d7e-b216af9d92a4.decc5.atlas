@@ -1,0 +1,111 @@
+
+baigujixiekulou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 190, 49
+  size: 77, 77
+  orig: 79, 79
+  offset: 1, 1
+  index: -1
+xiaBa
+  rotate: true
+  xy: 132, 32
+  size: 94, 56
+  orig: 96, 58
+  offset: 1, 1
+  index: -1
+yaoBuzhuangshi
+  rotate: false
+  xy: 410, 15
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+yaoDai
+  rotate: false
+  xy: 132, 3
+  size: 71, 27
+  orig: 73, 29
+  offset: 1, 1
+  index: -1
+youDatui
+  rotate: true
+  xy: 325, 78
+  size: 48, 35
+  orig: 51, 37
+  offset: 2, 1
+  index: -1
+youGebo
+  rotate: false
+  xy: 269, 58
+  size: 54, 68
+  orig: 56, 70
+  offset: 1, 1
+  index: -1
+youJian
+  rotate: true
+  xy: 362, 79
+  size: 47, 42
+  orig: 49, 44
+  offset: 1, 1
+  index: -1
+youShou
+  rotate: false
+  xy: 256, 3
+  size: 49, 44
+  orig: 51, 46
+  offset: 1, 1
+  index: -1
+youXiaotui
+  rotate: false
+  xy: 440, 55
+  size: 39, 36
+  orig: 41, 38
+  offset: 1, 1
+  index: -1
+zuoDatui
+  rotate: true
+  xy: 406, 83
+  size: 43, 32
+  orig: 45, 34
+  offset: 1, 1
+  index: -1
+zuoGebo
+  rotate: true
+  xy: 307, 7
+  size: 49, 59
+  orig: 51, 61
+  offset: 1, 1
+  index: -1
+zuoJian
+  rotate: true
+  xy: 368, 34
+  size: 43, 40
+  orig: 45, 42
+  offset: 1, 1
+  index: -1
+zuoShou
+  rotate: false
+  xy: 205, 2
+  size: 49, 45
+  orig: 52, 49
+  offset: 1, 2
+  index: -1
+zuoXiaotui
+  rotate: false
+  xy: 440, 93
+  size: 41, 33
+  orig: 43, 35
+  offset: 1, 1
+  index: -1
+zuoYan
+  rotate: false
+  xy: 2, 16
+  size: 128, 110
+  orig: 130, 112
+  offset: 1, 1
+  index: -1

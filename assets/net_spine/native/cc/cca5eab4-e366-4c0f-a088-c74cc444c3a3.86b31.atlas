@@ -1,0 +1,223 @@
+
+GuErDan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group1
+  rotate: true
+  xy: 171, 2
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+Group2
+  rotate: true
+  xy: 551, 311
+  size: 48, 64
+  orig: 50, 66
+  offset: 1, 1
+  index: -1
+Group3
+  rotate: true
+  xy: 296, 386
+  size: 40, 60
+  orig: 42, 62
+  offset: 1, 1
+  index: -1
+Group4
+  rotate: false
+  xy: 168, 258
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 418, 302
+  size: 131, 86
+  orig: 131, 86
+  offset: 0, 0
+  index: -1
+douPeng
+  rotate: true
+  xy: 2, 65
+  size: 188, 156
+  orig: 190, 158
+  offset: 1, 1
+  index: -1
+faZhang
+  rotate: false
+  xy: 2, 255
+  size: 164, 254
+  orig: 167, 256
+  offset: 1, 1
+  index: -1
+guCiyou1
+  rotate: true
+  xy: 296, 428
+  size: 81, 168
+  orig: 83, 170
+  offset: 1, 1
+  index: -1
+guCiyou2
+  rotate: true
+  xy: 399, 6
+  size: 95, 137
+  orig: 97, 139
+  offset: 1, 1
+  index: -1
+guCizuo1
+  rotate: false
+  xy: 363, 103
+  size: 81, 162
+  orig: 83, 164
+  offset: 1, 1
+  index: -1
+guCizuo2
+  rotate: false
+  xy: 268, 112
+  size: 93, 144
+  orig: 95, 146
+  offset: 1, 1
+  index: -1
+huJia_L
+  rotate: false
+  xy: 260, 2
+  size: 72, 27
+  orig: 72, 27
+  offset: 0, 0
+  index: -1
+huJia_R
+  rotate: false
+  xy: 268, 81
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+huZi
+  rotate: true
+  xy: 302, 267
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+huoYan
+  rotate: false
+  xy: 466, 420
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+qunBai
+  rotate: false
+  xy: 551, 361
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+qunZi
+  rotate: false
+  xy: 2, 4
+  size: 167, 59
+  orig: 167, 59
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 168, 379
+  size: 126, 130
+  orig: 128, 132
+  offset: 1, 1
+  index: -1
+weiBo
+  rotate: true
+  xy: 160, 80
+  size: 173, 106
+  orig: 175, 108
+  offset: 1, 1
+  index: -1
+yaoDai
+  rotate: false
+  xy: 260, 31
+  size: 137, 47
+  orig: 137, 47
+  offset: 0, 0
+  index: -1
+youJianjia
+  rotate: true
+  xy: 446, 133
+  size: 89, 60
+  orig: 91, 62
+  offset: 1, 1
+  index: -1
+youShangbi
+  rotate: false
+  xy: 540, 426
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+youShou
+  rotate: false
+  xy: 358, 387
+  size: 42, 39
+  orig: 44, 41
+  offset: 1, 1
+  index: -1
+youXiaotui
+  rotate: true
+  xy: 522, 231
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 508, 142
+  size: 64, 80
+  orig: 66, 82
+  offset: 1, 1
+  index: -1
+zhuZiziuocopy6
+  rotate: false
+  xy: 402, 390
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+zuoJianjia
+  rotate: true
+  xy: 446, 224
+  size: 76, 74
+  orig: 78, 76
+  offset: 1, 1
+  index: -1
+zuoShangbi
+  rotate: true
+  xy: 606, 367
+  size: 57, 50
+  orig: 59, 52
+  offset: 1, 1
+  index: -1
+zuoShou
+  rotate: false
+  xy: 538, 38
+  size: 42, 47
+  orig: 44, 49
+  offset: 1, 1
+  index: -1
+zuoShouhuwan
+  rotate: true
+  xy: 611, 455
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+zuoXiaotui
+  rotate: true
+  xy: 538, 87
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1

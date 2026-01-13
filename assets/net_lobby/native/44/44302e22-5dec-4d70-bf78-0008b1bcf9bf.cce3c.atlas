@@ -1,0 +1,48 @@
+
+gonghuiniao.png
+size: 98,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 5, 294
+  size: 90, 83
+  orig: 92, 94
+  offset: 1, 9
+  index: -1
+chibang2
+  rotate: 180
+  xy: 5, 232
+  size: 40, 115
+  orig: 68, 115
+  offset: 22, 0
+  index: -1
+chibang3
+  rotate: false
+  xy: 44, 195
+  size: 40, 115
+  orig: 61, 116
+  offset: 1, 1
+  index: -1
+chibang4
+  rotate: false
+  xy: 5, 75
+  size: 74, 88
+  orig: 75, 90
+  offset: 0, 1
+  index: -1
+niao1
+  rotate: 270
+  xy: 5, 131
+  size: 98, 58
+  orig: 101, 60
+  offset: 1, 1
+  index: -1
+niao2
+  rotate: true
+  xy: 5, 6
+  size: 97, 57
+  orig: 138, 125
+  offset: 32, 68
+  index: -1

@@ -1,0 +1,139 @@
+
+orc.png
+size: 821,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/0
+  rotate: false
+  xy: 505, 2
+  size: 121, 97
+  orig: 288, 250
+  offset: 5, 132
+  index: -1
+effect/1
+  rotate: true
+  xy: 187, 40
+  size: 235, 115
+  orig: 288, 250
+  offset: 5, 116
+  index: -1
+effect/2
+  rotate: true
+  xy: 2, 4
+  size: 271, 183
+  orig: 288, 250
+  offset: 5, 48
+  index: -1
+effect/3
+  rotate: true
+  xy: 304, 77
+  size: 198, 183
+  orig: 288, 250
+  offset: 78, 48
+  index: -1
+effect/4
+  rotate: false
+  xy: 489, 101
+  size: 100, 174
+  orig: 288, 250
+  offset: 176, 48
+  index: -1
+effect/5
+  rotate: false
+  xy: 628, 8
+  size: 100, 106
+  orig: 288, 250
+  offset: 176, 48
+  index: -1
+erduo1
+  rotate: true
+  xy: 457, 8
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 730, 89
+  size: 48, 41
+  orig: 50, 43
+  offset: 1, 1
+  index: -1
+huwanyou
+  rotate: true
+  xy: 730, 44
+  size: 43, 41
+  orig: 45, 43
+  offset: 1, 1
+  index: -1
+kuzi
+  rotate: false
+  xy: 298, 6
+  size: 77, 32
+  orig: 77, 32
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 377, 4
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+shouzhiyou
+  rotate: false
+  xy: 304, 46
+  size: 27, 29
+  orig: 29, 31
+  offset: 1, 1
+  index: -1
+wuqi
+  rotate: false
+  xy: 591, 116
+  size: 112, 159
+  orig: 114, 161
+  offset: 1, 1
+  index: -1
+xiaba
+  rotate: false
+  xy: 705, 132
+  size: 114, 143
+  orig: 121, 145
+  offset: 5, 1
+  index: -1
+youjiao
+  rotate: true
+  xy: 230, 4
+  size: 34, 32
+  orig: 40, 34
+  offset: 2, 1
+  index: -1
+yousou1
+  rotate: true
+  xy: 780, 89
+  size: 41, 39
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 264, 4
+  size: 34, 32
+  orig: 35, 32
+  offset: 1, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 187, 3
+  size: 35, 41
+  orig: 37, 42
+  offset: 1, 1
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 730, 4
+  size: 38, 37
+  orig: 41, 39
+  offset: 2, 1
+  index: -1

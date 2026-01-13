@@ -1,0 +1,90 @@
+
+lx_Statue_Result.png
+size: 484,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_Circle
+  rotate: true
+  xy: 391, 117
+  size: 90, 91
+  orig: 98, 98
+  offset: 4, 4
+  index: -1
+eff_CircleSmoke
+  rotate: true
+  xy: 2, 28
+  size: 179, 176
+  orig: 256, 256
+  offset: 36, 36
+  index: -1
+eff_Glow_000
+  rotate: false
+  xy: 452, 42
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eff_SmokeDiss_02
+  rotate: true
+  xy: 342, 12
+  size: 52, 46
+  orig: 128, 128
+  offset: 43, 35
+  index: -1
+eff_SmokeDiss_04
+  rotate: true
+  xy: 391, 3
+  size: 69, 59
+  orig: 128, 128
+  offset: 35, 30
+  index: -1
+eff_SmokeDiss_06
+  rotate: true
+  xy: 263, 115
+  size: 92, 71
+  orig: 128, 128
+  offset: 20, 23
+  index: -1
+eff_SmokeDiss_08
+  rotate: true
+  xy: 262, 3
+  size: 99, 78
+  orig: 128, 128
+  offset: 14, 20
+  index: -1
+eff_SmokeDiss_10
+  rotate: true
+  xy: 180, 2
+  size: 100, 80
+  orig: 128, 128
+  offset: 10, 22
+  index: -1
+eff_SmokeDiss_12
+  rotate: true
+  xy: 180, 104
+  size: 103, 81
+  orig: 128, 128
+  offset: 5, 27
+  index: -1
+eff_SmokeDiss_14
+  rotate: true
+  xy: 336, 115
+  size: 92, 53
+  orig: 128, 128
+  offset: 12, 54
+  index: -1
+eff_SmokeDiss_15
+  rotate: false
+  xy: 391, 74
+  size: 83, 41
+  orig: 128, 128
+  offset: 17, 62
+  index: -1
+eff_Star2
+  rotate: false
+  xy: 342, 66
+  size: 47, 47
+  orig: 61, 64
+  offset: 6, 9
+  index: -1

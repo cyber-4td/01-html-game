@@ -1,0 +1,20 @@
+
+station.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 198
+  size: 352, 199
+  orig: 352, 199
+  offset: 0, 0
+  index: -1
+station-in2
+  rotate: false
+  xy: 2, 2
+  size: 291, 194
+  orig: 291, 194
+  offset: 0, 0
+  index: -1

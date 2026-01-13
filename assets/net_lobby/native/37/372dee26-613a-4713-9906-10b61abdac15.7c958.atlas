@@ -1,0 +1,41 @@
+
+ZhuCheng-skin2.png
+size: 1305,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1004, 484
+  size: 518, 299
+  orig: 518, 299
+  offset: 0, 0
+  index: -1
+1-flag
+  rotate: true
+  xy: 1206, 384
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+Lv-1
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+star_0
+  rotate: false
+  xy: 1004, 180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+xuehua_0
+  rotate: false
+  xy: 1004, 282
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

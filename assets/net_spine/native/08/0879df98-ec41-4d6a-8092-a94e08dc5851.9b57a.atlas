@@ -1,0 +1,90 @@
+
+magician2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magician_0000_baoshi
+  rotate: false
+  xy: 241, 182
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+magician_0001_fazhang
+  rotate: true
+  xy: 2, 230
+  size: 72, 237
+  orig: 72, 237
+  offset: 0, 0
+  index: -1
+magician_0002_maozi
+  rotate: false
+  xy: 2, 304
+  size: 314, 194
+  orig: 314, 194
+  offset: 0, 0
+  index: -1
+magician_0003_fa1
+  rotate: false
+  xy: 74, 117
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+magician_0004_fa2
+  rotate: false
+  xy: 180, 85
+  size: 81, 95
+  orig: 81, 95
+  offset: 0, 0
+  index: -1
+magician_0005_fa3
+  rotate: false
+  xy: 354, 78
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+magician_0006_tou
+  rotate: true
+  xy: 318, 180
+  size: 172, 125
+  orig: 172, 125
+  offset: 0, 0
+  index: -1
+magician_0007_fa4
+  rotate: true
+  xy: 263, 101
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+magician_0008_lingzi
+  rotate: true
+  xy: 2, 85
+  size: 143, 70
+  orig: 143, 70
+  offset: 0, 0
+  index: -1
+magician_0009_lefthand
+  rotate: true
+  xy: 74, 33
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+magician_0010_body
+  rotate: false
+  xy: 318, 354
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+magician_0011_righthand
+  rotate: false
+  xy: 2, 2
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1

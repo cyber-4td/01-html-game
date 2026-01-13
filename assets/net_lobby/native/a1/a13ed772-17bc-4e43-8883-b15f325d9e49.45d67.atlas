@@ -1,0 +1,34 @@
+
+pf.png
+size: 580,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_effect/f_di_0
+  rotate: false
+  xy: 404, 20
+  size: 174, 207
+  orig: 174, 207
+  offset: 0, 0
+  index: -1
+f_effect/f_star_0
+  rotate: false
+  xy: 250, 25
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+g_effect/hong_0
+  rotate: true
+  xy: 2, 2
+  size: 123, 246
+  orig: 123, 246
+  offset: 0, 0
+  index: -1
+sweep_0
+  rotate: true
+  xy: 2, 127
+  size: 100, 400
+  orig: 100, 400
+  offset: 0, 0
+  index: -1

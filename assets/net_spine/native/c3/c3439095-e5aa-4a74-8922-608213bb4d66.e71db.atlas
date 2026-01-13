@@ -1,0 +1,258 @@
+
+redDP-fire-zuoqi.png
+size: 1642,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_bashou
+  rotate: false
+  xy: 1100, 7
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+C_chelunhou
+  rotate: false
+  xy: 1458, 716
+  size: 158, 145
+  orig: 158, 145
+  offset: 0, 0
+  index: -1
+C_chetou
+  rotate: false
+  xy: 1390, 242
+  size: 128, 91
+  orig: 128, 91
+  offset: 0, 0
+  index: -1
+C_fadongji
+  rotate: true
+  xy: 996, 14
+  size: 221, 102
+  orig: 221, 102
+  offset: 0, 0
+  index: -1
+C_hhengxian1
+  rotate: false
+  xy: 996, 2
+  size: 59, 10
+  orig: 59, 10
+  offset: 0, 0
+  index: -1
+C_houyaobi1
+  rotate: true
+  xy: 1262, 291
+  size: 192, 126
+  orig: 192, 126
+  offset: 0, 0
+  index: -1
+C_qianyaobi
+  rotate: false
+  xy: 1458, 468
+  size: 142, 97
+  orig: 142, 97
+  offset: 0, 0
+  index: -1
+C_qianyaobi2
+  rotate: true
+  xy: 1486, 338
+  size: 128, 82
+  orig: 128, 82
+  offset: 0, 0
+  index: -1
+C_zuoyi
+  rotate: true
+  xy: 1390, 335
+  size: 131, 94
+  orig: 131, 94
+  offset: 0, 0
+  index: -1
+effect/di_0
+  rotate: true
+  xy: 2, 485
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/di_1
+  rotate: true
+  xy: 184, 485
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/di_2
+  rotate: true
+  xy: 366, 485
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/di_3
+  rotate: true
+  xy: 548, 485
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/di_4
+  rotate: true
+  xy: 730, 485
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/di_5
+  rotate: true
+  xy: 912, 485
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/di_6
+  rotate: true
+  xy: 1094, 485
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/di_7
+  rotate: false
+  xy: 1100, 55
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/di_8
+  rotate: true
+  xy: 1276, 485
+  size: 540, 180
+  orig: 540, 180
+  offset: 0, 0
+  index: -1
+effect/h_0
+  rotate: true
+  xy: 2, 3
+  size: 232, 140
+  orig: 232, 140
+  offset: 0, 0
+  index: -1
+effect/h_1
+  rotate: true
+  xy: 144, 3
+  size: 232, 140
+  orig: 232, 140
+  offset: 0, 0
+  index: -1
+effect/h_2
+  rotate: true
+  xy: 286, 3
+  size: 232, 140
+  orig: 232, 140
+  offset: 0, 0
+  index: -1
+effect/h_3
+  rotate: true
+  xy: 428, 3
+  size: 232, 140
+  orig: 232, 140
+  offset: 0, 0
+  index: -1
+effect/h_4
+  rotate: true
+  xy: 570, 3
+  size: 232, 140
+  orig: 232, 140
+  offset: 0, 0
+  index: -1
+effect/h_5
+  rotate: true
+  xy: 712, 3
+  size: 232, 140
+  orig: 232, 140
+  offset: 0, 0
+  index: -1
+effect/h_6
+  rotate: true
+  xy: 854, 3
+  size: 232, 140
+  orig: 232, 140
+  offset: 0, 0
+  index: -1
+effect/lz_0
+  rotate: false
+  xy: 1458, 863
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+effect/shang_0
+  rotate: true
+  xy: 142, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+effect/shang_1
+  rotate: true
+  xy: 282, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+effect/shang_2
+  rotate: true
+  xy: 422, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+effect/shang_3
+  rotate: true
+  xy: 562, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+effect/shang_4
+  rotate: true
+  xy: 702, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+effect/shang_5
+  rotate: true
+  xy: 842, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+effect/shang_6
+  rotate: true
+  xy: 982, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+effect/shang_7
+  rotate: true
+  xy: 1122, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+effect/shang_8
+  rotate: true
+  xy: 2, 237
+  size: 246, 138
+  orig: 246, 138
+  offset: 0, 0
+  index: -1
+mt_luntai_lungu1
+  rotate: false
+  xy: 1458, 567
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+xiulijiqiren.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1 copy
+  rotate: false
+  xy: 251, 67
+  size: 42, 45
+  orig: 44, 47
+  offset: 1, 1
+  index: -1
+Group 1
+  rotate: true
+  xy: 2, 99
+  size: 151, 75
+  orig: 153, 77
+  offset: 1, 1
+  index: -1
+banShou
+  rotate: true
+  xy: 2, 18
+  size: 79, 127
+  orig: 80, 129
+  offset: 0, 1
+  index: -1
+boZi
+  rotate: true
+  xy: 155, 115
+  size: 27, 46
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+shenTi
+  rotate: true
+  xy: 79, 144
+  size: 106, 103
+  orig: 108, 105
+  offset: 1, 1
+  index: -1
+youJiao
+  rotate: true
+  xy: 184, 183
+  size: 67, 56
+  orig: 69, 58
+  offset: 1, 1
+  index: -1
+youShou
+  rotate: true
+  xy: 131, 21
+  size: 80, 72
+  orig: 82, 74
+  offset: 1, 1
+  index: -1
+youShoubi
+  rotate: true
+  xy: 242, 194
+  size: 56, 52
+  orig: 58, 54
+  offset: 1, 1
+  index: -1
+youTui
+  rotate: false
+  xy: 205, 58
+  size: 44, 54
+  orig: 46, 56
+  offset: 1, 1
+  index: -1
+zuoJiao
+  rotate: true
+  xy: 203, 114
+  size: 67, 56
+  orig: 69, 58
+  offset: 1, 1
+  index: -1
+zuoShou
+  rotate: false
+  xy: 79, 103
+  size: 74, 39
+  orig: 76, 41
+  offset: 1, 1
+  index: -1
+zuoTui
+  rotate: false
+  xy: 205, 2
+  size: 44, 54
+  orig: 46, 56
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,251 @@
+
+witch_bat.png
+size: 1300,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Youtui
+  rotate: true
+  xy: 1069, 99
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: false
+  xy: 1182, 42
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+arm-L
+  rotate: false
+  xy: 1112, 2
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+arm-R
+  rotate: false
+  xy: 1149, 5
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+armupper-L
+  rotate: true
+  xy: 1182, 2
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+armupper-R
+  rotate: true
+  xy: 970, 199
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 1285, 245
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+ear-L
+  rotate: true
+  xy: 1065, 204
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+ear-R
+  rotate: false
+  xy: 1261, 58
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+effect/sf_0
+  rotate: false
+  xy: 2, 6
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/sf_10
+  rotate: false
+  xy: 970, 248
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/sf_2
+  rotate: false
+  xy: 244, 248
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/sf_3
+  rotate: false
+  xy: 244, 6
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/sf_4
+  rotate: false
+  xy: 486, 248
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/sf_5
+  rotate: false
+  xy: 486, 6
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/sf_6
+  rotate: false
+  xy: 728, 248
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/sf_8
+  rotate: false
+  xy: 728, 6
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/sf_9
+  rotate: false
+  xy: 2, 248
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1206, 95
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+hand-L
+  rotate: false
+  xy: 1224, 4
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: true
+  xy: 1106, 156
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: true
+  xy: 1212, 450
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: false
+  xy: 1206, 162
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+hat4
+  rotate: false
+  xy: 1212, 198
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+magic
+  rotate: true
+  xy: 1148, 104
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 1212, 270
+  size: 178, 84
+  orig: 178, 84
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: false
+  xy: 1128, 37
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+qun2
+  rotate: true
+  xy: 1010, 203
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+qun3
+  rotate: false
+  xy: 1223, 43
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1069, 142
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1069, 31
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1069, 3
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 970, 10
+  size: 97, 186
+  orig: 97, 186
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 1102, 35
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+yaodaikou
+  rotate: true
+  xy: 1121, 102
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1

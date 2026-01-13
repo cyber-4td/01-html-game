@@ -1,0 +1,153 @@
+
+skeleton_guard_knight.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dunpai
+  rotate: false
+  xy: 387, 214
+  size: 56, 72
+  orig: 58, 74
+  offset: 1, 1
+  index: -1
+Shenti
+  rotate: false
+  xy: 304, 214
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+Wuqi
+  rotate: false
+  xy: 445, 233
+  size: 102, 53
+  orig: 104, 55
+  offset: 1, 1
+  index: -1
+YouDabi
+  rotate: false
+  xy: 528, 11
+  size: 24, 25
+  orig: 26, 27
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: true
+  xy: 528, 38
+  size: 29, 25
+  orig: 31, 27
+  offset: 1, 1
+  index: -1
+Youjian
+  rotate: false
+  xy: 528, 100
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+Youjiao
+  rotate: false
+  xy: 549, 249
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 528, 69
+  size: 26, 29
+  orig: 28, 31
+  offset: 1, 1
+  index: -1
+ZuoDabi
+  rotate: true
+  xy: 529, 292
+  size: 35, 27
+  orig: 37, 29
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: true
+  xy: 558, 293
+  size: 34, 30
+  orig: 36, 35
+  offset: 1, 4
+  index: -1
+Zuojian
+  rotate: true
+  xy: 493, 289
+  size: 38, 34
+  orig: 40, 36
+  offset: 1, 1
+  index: -1
+Zuojiao
+  rotate: false
+  xy: 584, 250
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+effect/0
+  rotate: true
+  xy: 493, 329
+  size: 177, 93
+  orig: 222, 238
+  offset: 2, 144
+  index: -1
+effect/1
+  rotate: true
+  xy: 2, 2
+  size: 202, 220
+  orig: 222, 238
+  offset: 12, 8
+  index: -1
+effect/2
+  rotate: true
+  xy: 2, 2
+  size: 202, 220
+  orig: 222, 238
+  offset: 12, 8
+  index: -1
+effect/3
+  rotate: false
+  xy: 304, 288
+  size: 187, 218
+  orig: 222, 238
+  offset: 28, 7
+  index: -1
+effect/4
+  rotate: false
+  xy: 304, 288
+  size: 187, 218
+  orig: 222, 238
+  offset: 28, 7
+  index: -1
+effect/5
+  rotate: false
+  xy: 224, 9
+  size: 109, 195
+  orig: 222, 238
+  offset: 104, 7
+  index: -1
+effect/g_0
+  rotate: false
+  xy: 335, 21
+  size: 191, 191
+  orig: 200, 200
+  offset: 3, 4
+  index: -1
+effect/glow_0
+  rotate: false
+  xy: 2, 206
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 528, 131
+  size: 94, 100
+  orig: 96, 102
+  offset: 1, 1
+  index: -1

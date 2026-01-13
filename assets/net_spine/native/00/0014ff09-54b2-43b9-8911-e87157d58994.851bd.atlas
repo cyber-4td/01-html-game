@@ -1,0 +1,139 @@
+
+n-bow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon/1
+  rotate: true
+  xy: 651, 732
+  size: 95, 158
+  orig: 95, 158
+  offset: 0, 0
+  index: -1
+weapon/2
+  rotate: true
+  xy: 260, 640
+  size: 159, 293
+  orig: 160, 294
+  offset: 1, 1
+  index: -1
+weapon/3
+  rotate: true
+  xy: 730, 514
+  size: 159, 284
+  orig: 159, 284
+  offset: 0, 0
+  index: -1
+weapon/N-bow
+  rotate: true
+  xy: 319, 2
+  size: 163, 594
+  orig: 163, 594
+  offset: 0, 0
+  index: -1
+weapon/N-bow2
+  rotate: true
+  xy: 319, 2
+  size: 163, 594
+  orig: 163, 594
+  offset: 0, 0
+  index: -1
+weapon/S-bowLine
+  rotate: true
+  xy: 6, 801
+  size: 26, 643
+  orig: 26, 643
+  offset: 0, 0
+  index: -1
+weapon/effect/0
+  rotate: true
+  xy: 2, 667
+  size: 132, 256
+  orig: 259, 348
+  offset: 1, 40
+  index: -1
+weapon/effect/1
+  rotate: true
+  xy: 715, 346
+  size: 166, 256
+  orig: 259, 348
+  offset: 1, 40
+  index: -1
+weapon/effect/2
+  rotate: true
+  xy: 2, 107
+  size: 194, 315
+  orig: 259, 348
+  offset: 9, 18
+  index: -1
+weapon/effect/3
+  rotate: true
+  xy: 173, 303
+  size: 167, 328
+  orig: 259, 348
+  offset: 40, 12
+  index: -1
+weapon/effect/4
+  rotate: true
+  xy: 503, 167
+  size: 177, 328
+  orig: 259, 348
+  offset: 42, 12
+  index: -1
+weapon/effect/a_0
+  rotate: true
+  xy: 2, 826
+  size: 1, 2
+  orig: 200, 200
+  offset: 102, 75
+  index: -1
+weapon/effect/a_1
+  rotate: false
+  xy: 555, 570
+  size: 173, 160
+  orig: 200, 200
+  offset: 19, 21
+  index: -1
+weapon/effect/a_2
+  rotate: false
+  xy: 355, 472
+  size: 178, 166
+  orig: 200, 200
+  offset: 12, 23
+  index: -1
+weapon/effect/a_3
+  rotate: false
+  xy: 2, 503
+  size: 174, 162
+  orig: 200, 200
+  offset: 11, 29
+  index: -1
+weapon/effect/a_4
+  rotate: false
+  xy: 535, 402
+  size: 178, 166
+  orig: 200, 200
+  offset: 11, 25
+  index: -1
+weapon/effect/a_5
+  rotate: true
+  xy: 2, 320
+  size: 181, 169
+  orig: 200, 200
+  offset: 12, 20
+  index: -1
+weapon/effect/a_6
+  rotate: false
+  xy: 178, 475
+  size: 175, 163
+  orig: 200, 200
+  offset: 15, 23
+  index: -1
+weapon/effect/a_7
+  rotate: false
+  xy: 811, 675
+  size: 165, 152
+  orig: 200, 200
+  offset: 20, 29
+  index: -1

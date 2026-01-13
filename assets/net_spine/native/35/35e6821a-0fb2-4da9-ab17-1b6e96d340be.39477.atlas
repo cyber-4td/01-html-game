@@ -1,0 +1,195 @@
+
+dragon_ender.png
+size: 979,979
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tou
+  rotate: false
+  xy: 600, 72
+  size: 137, 149
+  orig: 137, 149
+  offset: 0, 0
+  index: -1
+chibangL
+  rotate: false
+  xy: 2, 11
+  size: 150, 174
+  orig: 150, 174
+  offset: 0, 0
+  index: -1
+chibangLbei1
+  rotate: false
+  xy: 2, 435
+  size: 158, 269
+  orig: 158, 271
+  offset: 0, 2
+  index: -1
+chibangR
+  rotate: false
+  xy: 154, 11
+  size: 149, 174
+  orig: 149, 174
+  offset: 0, 0
+  index: -1
+chibangRbei
+  rotate: false
+  xy: 2, 706
+  size: 149, 271
+  orig: 149, 271
+  offset: 0, 0
+  index: -1
+chibangRbei1
+  rotate: false
+  xy: 305, 12
+  size: 149, 174
+  orig: 149, 174
+  offset: 0, 0
+  index: -1
+effect/0
+  rotate: true
+  xy: 153, 731
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/1
+  rotate: true
+  xy: 2, 187
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/2
+  rotate: true
+  xy: 162, 483
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/3
+  rotate: true
+  xy: 396, 731
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/4
+  rotate: true
+  xy: 245, 188
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/5
+  rotate: true
+  xy: 405, 483
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/6
+  rotate: true
+  xy: 639, 731
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/7
+  rotate: true
+  xy: 488, 235
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/8
+  rotate: false
+  xy: 731, 466
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+effect/9
+  rotate: false
+  xy: 731, 223
+  size: 246, 241
+  orig: 270, 246
+  offset: 9, 4
+  index: -1
+feixinghoutui3
+  rotate: true
+  xy: 648, 628
+  size: 50, 64
+  orig: 52, 65
+  offset: 1, 0
+  index: -1
+feixinghoutuiyou4
+  rotate: true
+  xy: 648, 680
+  size: 49, 70
+  orig: 58, 70
+  offset: 1, 0
+  index: -1
+feixinghouxiaotuiL
+  rotate: true
+  xy: 274, 437
+  size: 44, 65
+  orig: 50, 67
+  offset: 0, 1
+  index: -1
+feixingqiantuL1
+  rotate: true
+  xy: 882, 709
+  size: 50, 72
+  orig: 66, 76
+  offset: 0, 1
+  index: -1
+feixingqiantuL2
+  rotate: true
+  xy: 162, 436
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+feixingqianxiaotuiL
+  rotate: true
+  xy: 341, 438
+  size: 43, 76
+  orig: 56, 80
+  offset: 1, 2
+  index: -1
+houdatuiR
+  rotate: true
+  xy: 648, 579
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+qiandatuiR1
+  rotate: true
+  xy: 218, 436
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 456, 33
+  size: 153, 142
+  orig: 228, 289
+  offset: 0, 47
+  index: -1
+weiba
+  rotate: false
+  xy: 882, 826
+  size: 94, 151
+  orig: 94, 151
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 882, 761
+  size: 75, 63
+  orig: 75, 63
+  offset: 0, 0
+  index: -1

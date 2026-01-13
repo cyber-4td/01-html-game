@@ -1,0 +1,27 @@
+
+lx_NewItem.png
+size: 475,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_ItemGlow_000
+  rotate: false
+  xy: 2, 2
+  size: 271, 267
+  orig: 285, 285
+  offset: 7, 9
+  index: -1
+eff_KuangGlow_000
+  rotate: true
+  xy: 275, 69
+  size: 200, 198
+  orig: 209, 209
+  offset: 5, 5
+  index: -1
+eff_Star
+  rotate: false
+  xy: 275, 23
+  size: 44, 44
+  orig: 58, 61
+  offset: 6, 9
+  index: -1

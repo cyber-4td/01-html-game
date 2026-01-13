@@ -1,0 +1,34 @@
+
+lx_SpinningTrans.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_CircleFade_000
+  rotate: false
+  xy: 2, 123
+  size: 385, 385
+  orig: 385, 385
+  offset: 0, 0
+  index: -1
+eff_MaskCenter
+  rotate: true
+  xy: 389, 2
+  size: 248, 304
+  orig: 248, 304
+  offset: 0, 0
+  index: -1
+eff_WhiteSpinning1
+  rotate: false
+  xy: 389, 252
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+eff_WhiteSpinning4
+  rotate: false
+  xy: 647, 252
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

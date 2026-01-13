@@ -1,0 +1,20 @@
+
+dj.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd_0
+  rotate: true
+  xy: 2, 2
+  size: 225, 320
+  orig: 225, 320
+  offset: 0, 0
+  index: -1
+star_0
+  rotate: false
+  xy: 324, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

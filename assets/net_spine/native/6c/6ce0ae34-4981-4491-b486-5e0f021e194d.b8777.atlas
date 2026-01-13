@@ -1,0 +1,265 @@
+
+redPlus-fire-femaleLeg.png
+size: 521,913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi1
+  rotate: true
+  xy: 56, 881
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+effect/hh_0
+  rotate: false
+  xy: 403, 861
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/hh_1
+  rotate: false
+  xy: 455, 861
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/hh_2
+  rotate: false
+  xy: 2, 831
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/hh_3
+  rotate: false
+  xy: 54, 829
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/lh_0
+  rotate: false
+  xy: 167, 792
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/lh_1
+  rotate: false
+  xy: 249, 783
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/lh_2
+  rotate: false
+  xy: 331, 779
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/lh_3
+  rotate: false
+  xy: 413, 779
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/lh_4
+  rotate: false
+  xy: 2, 747
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/lh_5
+  rotate: false
+  xy: 84, 741
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/lh_6
+  rotate: false
+  xy: 166, 710
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/lh_7
+  rotate: false
+  xy: 248, 701
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/lh_8
+  rotate: false
+  xy: 330, 697
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/quan_0
+  rotate: false
+  xy: 2, 571
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_1
+  rotate: false
+  xy: 175, 558
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_10
+  rotate: false
+  xy: 175, 141
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_11
+  rotate: false
+  xy: 348, 141
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_12
+  rotate: false
+  xy: 2, 15
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_13
+  rotate: false
+  xy: 175, 2
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_14
+  rotate: false
+  xy: 348, 2
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_2
+  rotate: false
+  xy: 348, 558
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_3
+  rotate: false
+  xy: 2, 432
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_4
+  rotate: false
+  xy: 175, 419
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_5
+  rotate: false
+  xy: 348, 419
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_6
+  rotate: false
+  xy: 2, 293
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_7
+  rotate: false
+  xy: 175, 280
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_8
+  rotate: false
+  xy: 348, 280
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/quan_9
+  rotate: false
+  xy: 2, 154
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: false
+  xy: 111, 880
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: false
+  xy: 106, 823
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: true
+  xy: 248, 874
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+qunzi3
+  rotate: false
+  xy: 2, 883
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 157, 880
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+shoudai2
+  rotate: false
+  xy: 193, 879
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 343, 862
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 292, 865
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1

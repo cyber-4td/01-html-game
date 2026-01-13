@@ -1,0 +1,146 @@
+
+purple-water-femaleLeg.png
+size: 1451,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duanxiu-you
+  rotate: false
+  xy: 1406, 7
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+jianzhang
+  rotate: false
+  xy: 1421, 45
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+paopao_0
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_1
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_10
+  rotate: false
+  xy: 1022, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_11
+  rotate: false
+  xy: 1124, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_2
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_3
+  rotate: false
+  xy: 308, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_4
+  rotate: false
+  xy: 410, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_5
+  rotate: false
+  xy: 512, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_6
+  rotate: false
+  xy: 614, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_7
+  rotate: false
+  xy: 716, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_8
+  rotate: false
+  xy: 818, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+paopao_9
+  rotate: false
+  xy: 920, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 1384, 42
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+shoubi-R
+  rotate: false
+  xy: 1368, 5
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+star_0
+  rotate: false
+  xy: 1226, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+you-dabi
+  rotate: false
+  xy: 1328, 9
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1421, 72
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 1328, 59
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1

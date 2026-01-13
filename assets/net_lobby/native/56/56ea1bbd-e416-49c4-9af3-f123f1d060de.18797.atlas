@@ -1,0 +1,251 @@
+
+ZhuCheng-skin1.png
+size: 2034,1668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1064, 1367
+  size: 518, 299
+  orig: 518, 299
+  offset: 0, 0
+  index: -1
+Lv-1
+  rotate: false
+  xy: 2, 606
+  size: 1060, 1060
+  orig: 1060, 1060
+  offset: 0, 0
+  index: -1
+effect/love_0
+  rotate: false
+  xy: 1494, 399
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/q_0
+  rotate: false
+  xy: 2, 154
+  size: 400, 450
+  orig: 400, 450
+  offset: 0, 0
+  index: -1
+effect/star_0
+  rotate: false
+  xy: 1676, 96
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/tou_0
+  rotate: false
+  xy: 404, 334
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_1
+  rotate: false
+  xy: 1064, 1095
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_10
+  rotate: false
+  xy: 1336, 551
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_11
+  rotate: true
+  xy: 1222, 329
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_12
+  rotate: false
+  xy: 1660, 1124
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_13
+  rotate: true
+  xy: 1508, 843
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_14
+  rotate: false
+  xy: 1558, 571
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_15
+  rotate: false
+  xy: 1780, 822
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_16
+  rotate: false
+  xy: 1780, 550
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_17
+  rotate: false
+  xy: 706, 32
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_18
+  rotate: false
+  xy: 928, 32
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_19
+  rotate: false
+  xy: 1150, 57
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_2
+  rotate: false
+  xy: 1584, 1396
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_3
+  rotate: false
+  xy: 626, 334
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_4
+  rotate: false
+  xy: 1064, 823
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_5
+  rotate: false
+  xy: 1286, 1095
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_6
+  rotate: false
+  xy: 1806, 1396
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_7
+  rotate: false
+  xy: 1286, 823
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_8
+  rotate: true
+  xy: 1064, 601
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/tou_9
+  rotate: false
+  xy: 1000, 329
+  size: 220, 270
+  orig: 220, 270
+  offset: 0, 0
+  index: -1
+effect/yh_0
+  rotate: true
+  xy: 2, 2
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_1
+  rotate: true
+  xy: 404, 182
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_2
+  rotate: false
+  xy: 848, 304
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_3
+  rotate: false
+  xy: 1508, 1065
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_4
+  rotate: false
+  xy: 1882, 1094
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_5
+  rotate: true
+  xy: 404, 30
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_6
+  rotate: false
+  xy: 1372, 27
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_7
+  rotate: false
+  xy: 1524, 97
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_8
+  rotate: false
+  xy: 1676, 248
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+effect/yh_9
+  rotate: false
+  xy: 1828, 248
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1

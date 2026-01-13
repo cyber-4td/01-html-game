@@ -1,0 +1,132 @@
+
+shooter_crossbow_zhuge.png
+size: 354,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 176, 40
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 1, 11
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+Yougebo
+  rotate: true
+  xy: 279, 66
+  size: 42, 20
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 331, 13
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 275, 5
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Zuogebo
+  rotate: true
+  xy: 256, 56
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 330, 63
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 275, 33
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 253, 5
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+gong1
+  rotate: false
+  xy: 234, 56
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+gongxian
+  rotate: false
+  xy: 298, 55
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+gongxian1
+  rotate: false
+  xy: 300, 3
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 164, 3
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: false
+  xy: 107, 2
+  size: 57, 16
+  orig: 57, 16
+  offset: 0, 0
+  index: -1
+nushen
+  rotate: false
+  xy: 176, 18
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+nushen1
+  rotate: true
+  xy: 231, 4
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 107, 18
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 332, 37
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1

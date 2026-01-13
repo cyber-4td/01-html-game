@@ -1,0 +1,48 @@
+
+four.png
+size: 556,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baowui/di_0
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+baowui/di_1
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+baowui/di_2
+  rotate: false
+  xy: 404, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+f_effect/f_star_0
+  rotate: false
+  xy: 306, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+g_effect/g_satr_0
+  rotate: false
+  xy: 408, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sweep_0
+  rotate: true
+  xy: 2, 154
+  size: 100, 400
+  orig: 100, 400
+  offset: 0, 0
+  index: -1

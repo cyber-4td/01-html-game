@@ -1,0 +1,20 @@
+
+sj.png
+size: 507,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_0
+  rotate: false
+  xy: 0, 412
+  size: 470, 95
+  orig: 549, 121
+  offset: 47, 11
+  index: -1
+jt_0
+  rotate: true
+  xy: 472, 455
+  size: 52, 35
+  orig: 88, 50
+  offset: 18, 8
+  index: -1

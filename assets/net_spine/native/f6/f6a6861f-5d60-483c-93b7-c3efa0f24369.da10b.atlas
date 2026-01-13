@@ -1,0 +1,209 @@
+
+zs.png
+size: 1953,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aaa_0
+  rotate: false
+  xy: 2, 376
+  size: 237, 689
+  orig: 329, 707
+  offset: 46, 9
+  index: -1
+effect/effect/b_0
+  rotate: true
+  xy: 2, 91
+  size: 283, 280
+  orig: 350, 350
+  offset: 30, 38
+  index: -1
+effect/effect/shang_0
+  rotate: true
+  xy: 1522, 883
+  size: 92, 425
+  orig: 198, 485
+  offset: 50, 11
+  index: -1
+effect/effect/shang_10
+  rotate: true
+  xy: 1522, 693
+  size: 95, 422
+  orig: 198, 485
+  offset: 49, 15
+  index: -1
+effect/effect/shang_11
+  rotate: false
+  xy: 1429, 636
+  size: 91, 429
+  orig: 198, 485
+  offset: 54, 11
+  index: -1
+effect/effect/shang_12
+  rotate: true
+  xy: 1522, 977
+  size: 88, 429
+  orig: 198, 485
+  offset: 55, 13
+  index: -1
+effect/effect/shang_14
+  rotate: true
+  xy: 1522, 790
+  size: 91, 425
+  orig: 198, 485
+  offset: 52, 14
+  index: -1
+effect/effect/shang_2
+  rotate: true
+  xy: 680, 2
+  size: 97, 389
+  orig: 198, 485
+  offset: 47, 12
+  index: -1
+effect/effect/shang_3
+  rotate: false
+  xy: 1829, 199
+  size: 94, 394
+  orig: 198, 485
+  offset: 47, 12
+  index: -1
+effect/effect/shang_4
+  rotate: false
+  xy: 1732, 191
+  size: 95, 402
+  orig: 198, 485
+  offset: 47, 11
+  index: -1
+effect/effect/shang_6
+  rotate: true
+  xy: 1522, 595
+  size: 96, 418
+  orig: 198, 485
+  offset: 47, 8
+  index: -1
+effect/effect/shang_7
+  rotate: true
+  xy: 1497, 33
+  size: 98, 423
+  orig: 198, 485
+  offset: 46, 9
+  index: -1
+effect/effect/shang_8
+  rotate: true
+  xy: 1071, 21
+  size: 98, 424
+  orig: 198, 485
+  offset: 46, 11
+  index: -1
+effect/effect/x_0
+  rotate: false
+  xy: 241, 571
+  size: 196, 494
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_10
+  rotate: false
+  xy: 482, 82
+  size: 196, 490
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_11
+  rotate: false
+  xy: 284, 75
+  size: 196, 494
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_12
+  rotate: false
+  xy: 439, 574
+  size: 196, 491
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_14
+  rotate: false
+  xy: 637, 575
+  size: 196, 490
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_2
+  rotate: false
+  xy: 835, 594
+  size: 196, 471
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_3
+  rotate: false
+  xy: 878, 121
+  size: 196, 471
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_4
+  rotate: false
+  xy: 1033, 594
+  size: 196, 471
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_6
+  rotate: false
+  xy: 1076, 121
+  size: 196, 471
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_7
+  rotate: false
+  xy: 1231, 594
+  size: 196, 471
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/effect/x_8
+  rotate: false
+  xy: 680, 101
+  size: 196, 472
+  orig: 198, 500
+  offset: 0, 0
+  index: -1
+effect/quan_0
+  rotate: false
+  xy: 1274, 133
+  size: 456, 459
+  orig: 500, 500
+  offset: 21, 24
+  index: -1
+effect/star_0
+  rotate: true
+  xy: 72, 29
+  size: 60, 165
+  orig: 114, 228
+  offset: 28, 41
+  index: -1
+hua_0
+  rotate: false
+  xy: 72, 3
+  size: 54, 24
+  orig: 100, 100
+  offset: 25, 41
+  index: -1
+hua_1
+  rotate: false
+  xy: 239, 40
+  size: 40, 49
+  orig: 100, 100
+  offset: 32, 30
+  index: -1
+hua_2
+  rotate: true
+  xy: 2, 20
+  size: 69, 68
+  orig: 100, 100
+  offset: 23, 23
+  index: -1

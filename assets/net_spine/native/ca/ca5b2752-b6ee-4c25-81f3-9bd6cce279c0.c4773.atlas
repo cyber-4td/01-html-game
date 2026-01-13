@@ -1,0 +1,167 @@
+
+red-light-femaleLeg.png
+size: 1906,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi1
+  rotate: true
+  xy: 1821, 76
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+effect/a_0
+  rotate: true
+  xy: 2, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_10
+  rotate: false
+  xy: 758, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_11
+  rotate: true
+  xy: 950, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_12
+  rotate: false
+  xy: 1010, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_14
+  rotate: true
+  xy: 1187, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_15
+  rotate: false
+  xy: 1262, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_16
+  rotate: true
+  xy: 1424, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_18
+  rotate: false
+  xy: 1514, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_19
+  rotate: true
+  xy: 1661, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_2
+  rotate: false
+  xy: 2, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_3
+  rotate: true
+  xy: 239, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_4
+  rotate: false
+  xy: 254, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_6
+  rotate: true
+  xy: 476, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_7
+  rotate: false
+  xy: 506, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_8
+  rotate: true
+  xy: 713, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: true
+  xy: 1766, 119
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+jianjia2
+  rotate: true
+  xy: 1850, 108
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1
+jianjia3
+  rotate: false
+  xy: 1766, 50
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 1868, 76
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 1850, 192
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: false
+  xy: 1766, 178
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 1766, 80
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1

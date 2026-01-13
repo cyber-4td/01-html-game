@@ -1,0 +1,83 @@
+
+goblin_spirit_shaman.png
+size: 250,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 127, 7
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 128, 83
+  size: 119, 80
+  orig: 119, 81
+  offset: 0, 0
+  index: -1
+YouDabi
+  rotate: false
+  xy: 95, 107
+  size: 29, 38
+  orig: 31, 40
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 95, 38
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: false
+  xy: 197, 3
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 2, 2
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 95, 69
+  size: 30, 36
+  orig: 32, 38
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: true
+  xy: 197, 40
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+fazhang
+  rotate: false
+  xy: 2, 56
+  size: 91, 89
+  orig: 93, 91
+  offset: 1, 1
+  index: -1
+niutou
+  rotate: false
+  xy: 128, 165
+  size: 120, 97
+  orig: 122, 99
+  offset: 1, 1
+  index: -1
+toufa
+  rotate: true
+  xy: 2, 147
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+bombman_crazy.png
+size: 326,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dazhadan
+  rotate: false
+  xy: 94, 7
+  size: 94, 105
+  orig: 96, 107
+  offset: 1, 1
+  index: -1
+Layer1
+  rotate: true
+  xy: 294, 79
+  size: 33, 30
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+Tou
+  rotate: true
+  xy: 2, 2
+  size: 110, 90
+  orig: 112, 92
+  offset: 1, 1
+  index: -1
+Xiaozhadan
+  rotate: false
+  xy: 257, 70
+  size: 35, 42
+  orig: 37, 44
+  offset: 1, 1
+  index: -1
+YouDabi
+  rotate: true
+  xy: 261, 7
+  size: 35, 29
+  orig: 37, 31
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 281, 46
+  size: 28, 22
+  orig: 30, 24
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: false
+  xy: 292, 11
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: true
+  xy: 257, 44
+  size: 24, 22
+  orig: 26, 24
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 231, 3
+  size: 28, 38
+  orig: 30, 40
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: false
+  xy: 190, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 190, 43
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1

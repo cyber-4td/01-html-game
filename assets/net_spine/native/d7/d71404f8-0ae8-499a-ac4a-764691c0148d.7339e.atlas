@@ -1,0 +1,90 @@
+
+shooter_archer_ranger.png
+size: 519,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gongxian
+  rotate: 270
+  xy: 403, 4
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+Group18
+  rotate: false
+  xy: 381, 40
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+Group_18
+  rotate: 180
+  xy: 328, 3
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: true
+  xy: 286, 43
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 1, 4
+  size: 155, 117
+  orig: 157, 119
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 490, 47
+  size: 28, 30
+  orig: 30, 32
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: false
+  xy: 281, 3
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Zuogebo
+  rotate: true
+  xy: 482, 4
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 227, 1
+  size: 25, 35
+  orig: 27, 37
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: 180
+  xy: 449, 76
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 156, 21
+  size: 71, 100
+  orig: 73, 102
+  offset: 1, 1
+  index: -1
+jiantou
+  rotate: true
+  xy: 227, 26
+  size: 95, 59
+  orig: 97, 61
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,258 @@
+
+demon_dread_lord.png
+size: 1008,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 700, 20
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+Youchibang
+  rotate: false
+  xy: 882, 458
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+Youdabi
+  rotate: false
+  xy: 594, 119
+  size: 57, 57
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 915, 806
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 833, 212
+  size: 65, 72
+  orig: 75, 72
+  offset: 10, 0
+  index: -1
+Youtuijia
+  rotate: true
+  xy: 960, 233
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Youxiaobi
+  rotate: false
+  xy: 915, 888
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Zuochibang
+  rotate: true
+  xy: 653, 142
+  size: 148, 178
+  orig: 148, 178
+  offset: 0, 0
+  index: -1
+Zuodabi
+  rotate: false
+  xy: 914, 741
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 907, 172
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 833, 148
+  size: 62, 72
+  orig: 75, 72
+  offset: 13, 0
+  index: -1
+Zuotuijia
+  rotate: false
+  xy: 907, 119
+  size: 58, 51
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Zuoxiaobi
+  rotate: false
+  xy: 900, 224
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+dangbu
+  rotate: true
+  xy: 914, 686
+  size: 53, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+effect/0
+  rotate: false
+  xy: 471, 10
+  size: 121, 130
+  orig: 246, 246
+  offset: 89, 52
+  index: -1
+effect/1
+  rotate: false
+  xy: 2, 760
+  size: 236, 246
+  orig: 246, 246
+  offset: 10, 0
+  index: -1
+effect/10
+  rotate: false
+  xy: 469, 775
+  size: 224, 231
+  orig: 246, 246
+  offset: 22, 4
+  index: -1
+effect/11
+  rotate: true
+  xy: 695, 656
+  size: 214, 217
+  orig: 246, 246
+  offset: 23, 17
+  index: -1
+effect/12
+  rotate: true
+  xy: 695, 872
+  size: 134, 218
+  orig: 246, 246
+  offset: 22, 16
+  index: -1
+effect/2
+  rotate: false
+  xy: 2, 512
+  size: 236, 246
+  orig: 246, 246
+  offset: 10, 0
+  index: -1
+effect/3
+  rotate: false
+  xy: 2, 264
+  size: 235, 246
+  orig: 246, 246
+  offset: 11, 0
+  index: -1
+effect/4
+  rotate: false
+  xy: 2, 16
+  size: 233, 246
+  orig: 246, 246
+  offset: 13, 0
+  index: -1
+effect/5
+  rotate: false
+  xy: 237, 16
+  size: 232, 246
+  orig: 246, 246
+  offset: 14, 0
+  index: -1
+effect/6
+  rotate: false
+  xy: 239, 264
+  size: 230, 246
+  orig: 246, 246
+  offset: 16, 0
+  index: -1
+effect/7
+  rotate: false
+  xy: 240, 760
+  size: 227, 246
+  orig: 246, 246
+  offset: 19, 0
+  index: -1
+effect/8
+  rotate: false
+  xy: 240, 512
+  size: 225, 246
+  orig: 246, 246
+  offset: 21, 0
+  index: -1
+effect/9
+  rotate: false
+  xy: 467, 515
+  size: 222, 243
+  orig: 246, 246
+  offset: 24, 0
+  index: -1
+effect/rffect_0
+  rotate: false
+  xy: 594, 7
+  size: 104, 110
+  orig: 240, 219
+  offset: 26, 88
+  index: -1
+effect/rffect_1
+  rotate: false
+  xy: 471, 333
+  size: 186, 180
+  orig: 240, 219
+  offset: 36, 17
+  index: -1
+effect/rffect_2
+  rotate: false
+  xy: 691, 467
+  size: 189, 187
+  orig: 240, 219
+  offset: 36, 14
+  index: -1
+effect/rffect_3
+  rotate: true
+  xy: 659, 292
+  size: 173, 184
+  orig: 240, 219
+  offset: 52, 14
+  index: -1
+effect/rffect_4
+  rotate: true
+  xy: 471, 178
+  size: 153, 180
+  orig: 240, 219
+  offset: 71, 17
+  index: -1
+jianjia
+  rotate: false
+  xy: 914, 626
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 845, 286
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 915, 956
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 797, 32
+  size: 108, 45
+  orig: 108, 45
+  offset: 0, 0
+  index: -1

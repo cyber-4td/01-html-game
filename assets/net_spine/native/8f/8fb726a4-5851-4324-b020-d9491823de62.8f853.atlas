@@ -1,0 +1,125 @@
+
+boar_armor.png
+size: 938,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Houtui1
+  rotate: false
+  xy: 800, 227
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Houtui2
+  rotate: false
+  xy: 843, 229
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 123, 15
+  size: 151, 156
+  orig: 151, 166
+  offset: 0, 10
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 14
+  size: 119, 157
+  orig: 121, 159
+  offset: 1, 1
+  index: -1
+Weiba1
+  rotate: true
+  xy: 276, 7
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Weiba2
+  rotate: true
+  xy: 754, 224
+  size: 59, 44
+  orig: 59, 62
+  offset: 0, 4
+  index: -1
+dunpai
+  rotate: true
+  xy: 375, 94
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+effect/0
+  rotate: false
+  xy: 276, 37
+  size: 97, 141
+  orig: 322, 245
+  offset: 96, 41
+  index: -1
+effect/1
+  rotate: true
+  xy: 754, 285
+  size: 181, 182
+  orig: 322, 245
+  offset: 62, 15
+  index: -1
+effect/2
+  rotate: false
+  xy: 669, 7
+  size: 260, 182
+  orig: 322, 245
+  offset: 28, 15
+  index: -1
+effect/3
+  rotate: true
+  xy: 191, 180
+  size: 286, 186
+  orig: 322, 245
+  offset: 18, 15
+  index: -1
+effect/4
+  rotate: true
+  xy: 2, 173
+  size: 293, 187
+  orig: 322, 245
+  offset: 16, 18
+  index: -1
+effect/5
+  rotate: true
+  xy: 379, 181
+  size: 285, 189
+  orig: 322, 245
+  offset: 24, 16
+  index: -1
+effect/6
+  rotate: true
+  xy: 570, 191
+  size: 275, 182
+  orig: 322, 245
+  offset: 30, 16
+  index: -1
+effect/7
+  rotate: false
+  xy: 455, 2
+  size: 212, 177
+  orig: 322, 245
+  offset: 35, 18
+  index: -1
+qiantui1
+  rotate: true
+  xy: 375, 47
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+qiantui2
+  rotate: true
+  xy: 375, 4
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1

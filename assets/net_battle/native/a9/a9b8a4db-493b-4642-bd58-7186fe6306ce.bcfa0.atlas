@@ -1,0 +1,167 @@
+
+hammer.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dai1
+  rotate: true
+  xy: 342, 152
+  size: 25, 54
+  orig: 34, 54
+  offset: 9, 0
+  index: -1
+dai2
+  rotate: true
+  xy: 759, 185
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+dz1
+  rotate: true
+  xy: 398, 152
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+dz2
+  rotate: false
+  xy: 503, 154
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+effect/b_0
+  rotate: false
+  xy: 2, 139
+  size: 175, 176
+  orig: 200, 200
+  offset: 14, 13
+  index: -1
+effect/cui_0
+  rotate: false
+  xy: 2, 317
+  size: 184, 193
+  orig: 200, 200
+  offset: 8, 0
+  index: -1
+effect/effec_0
+  rotate: false
+  xy: 711, 41
+  size: 140, 141
+  orig: 218, 185
+  offset: 38, 24
+  index: -1
+effect/effec_1
+  rotate: false
+  xy: 654, 221
+  size: 140, 149
+  orig: 218, 185
+  offset: 38, 24
+  index: -1
+effect/effec_10
+  rotate: false
+  xy: 188, 341
+  size: 155, 169
+  orig: 218, 185
+  offset: 29, 13
+  index: -1
+effect/effec_11
+  rotate: false
+  xy: 562, 31
+  size: 147, 151
+  orig: 218, 185
+  offset: 28, 31
+  index: -1
+effect/effec_2
+  rotate: true
+  xy: 503, 184
+  size: 161, 149
+  orig: 218, 185
+  offset: 31, 24
+  index: -1
+effect/effec_3
+  rotate: false
+  xy: 225, 3
+  size: 163, 143
+  orig: 218, 185
+  offset: 28, 24
+  index: -1
+effect/effec_4
+  rotate: true
+  xy: 494, 347
+  size: 163, 150
+  orig: 218, 185
+  offset: 27, 25
+  index: -1
+effect/effec_5
+  rotate: true
+  xy: 342, 179
+  size: 160, 159
+  orig: 218, 185
+  offset: 28, 23
+  index: -1
+effect/effec_6
+  rotate: false
+  xy: 179, 148
+  size: 161, 167
+  orig: 218, 185
+  offset: 28, 18
+  index: -1
+effect/effec_7
+  rotate: true
+  xy: 390, 2
+  size: 148, 170
+  orig: 218, 185
+  offset: 36, 15
+  index: -1
+effect/effec_8
+  rotate: true
+  xy: 646, 372
+  size: 138, 166
+  orig: 218, 185
+  offset: 35, 13
+  index: -1
+effect/effec_9
+  rotate: false
+  xy: 345, 341
+  size: 147, 169
+  orig: 218, 185
+  offset: 32, 12
+  index: -1
+hammerDown2
+  rotate: false
+  xy: 119, 15
+  size: 104, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+hammerUp
+  rotate: false
+  xy: 2, 18
+  size: 115, 119
+  orig: 122, 129
+  offset: 7, 10
+  index: -1
+hammerUp2
+  rotate: true
+  xy: 815, 187
+  size: 41, 54
+  orig: 41, 56
+  offset: 0, 2
+  index: -1
+shadow
+  rotate: false
+  xy: 654, 184
+  size: 103, 35
+  orig: 103, 35
+  offset: 0, 0
+  index: -1
+stone
+  rotate: true
+  xy: 796, 230
+  size: 140, 69
+  orig: 142, 69
+  offset: 1, 0
+  index: -1

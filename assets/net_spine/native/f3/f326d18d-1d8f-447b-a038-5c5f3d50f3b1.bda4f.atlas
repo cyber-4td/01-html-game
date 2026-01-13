@@ -1,0 +1,237 @@
+
+wyvern_venom.png
+size: 1389,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Youdatui
+  rotate: true
+  xy: 1289, 7
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Youxiaotui
+  rotate: true
+  xy: 148, 2
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Zuodatui
+  rotate: true
+  xy: 1143, 6
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Zuoxiaotui
+  rotate: true
+  xy: 1187, 9
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 1319, 222
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+chi-L
+  rotate: false
+  xy: 950, 20
+  size: 191, 122
+  orig: 191, 122
+  offset: 0, 0
+  index: -1
+chi-R
+  rotate: false
+  xy: 759, 5
+  size: 189, 137
+  orig: 189, 137
+  offset: 0, 0
+  index: -1
+ci-1
+  rotate: false
+  xy: 148, 34
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+ci-2
+  rotate: true
+  xy: 1235, 13
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+ci-3
+  rotate: false
+  xy: 1336, 7
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+ci-4
+  rotate: true
+  xy: 1372, 22
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+ci-5
+  rotate: false
+  xy: 1372, 9
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+ci-6
+  rotate: false
+  xy: 122, 10
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+ci-7
+  rotate: false
+  xy: 98, 9
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+ci-8
+  rotate: false
+  xy: 78, 8
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+effect/g_0
+  rotate: false
+  xy: 2, 87
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+effect/p_0
+  rotate: false
+  xy: 199, 144
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_1
+  rotate: false
+  xy: 339, 144
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_10
+  rotate: false
+  xy: 479, 4
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_11
+  rotate: false
+  xy: 619, 4
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_2
+  rotate: false
+  xy: 479, 144
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_3
+  rotate: false
+  xy: 619, 144
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_4
+  rotate: false
+  xy: 759, 144
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_5
+  rotate: false
+  xy: 899, 144
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_6
+  rotate: false
+  xy: 1039, 144
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_7
+  rotate: false
+  xy: 1179, 144
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_8
+  rotate: false
+  xy: 199, 4
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+effect/p_9
+  rotate: false
+  xy: 339, 4
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: true
+  xy: 78, 28
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1289, 42
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 1319, 170
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1143, 40
+  size: 102, 144
+  orig: 102, 144
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 13
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1

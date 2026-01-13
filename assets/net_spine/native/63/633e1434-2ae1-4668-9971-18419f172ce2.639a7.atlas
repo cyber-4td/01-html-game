@@ -1,0 +1,132 @@
+
+skeleton_shooter_crossbow_zhuge.png
+size: 491,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 223, 37
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 3
+  size: 131, 120
+  orig: 133, 122
+  offset: 1, 1
+  index: -1
+Yougebo
+  rotate: true
+  xy: 341, 3
+  size: 53, 26
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 457, 43
+  size: 25, 28
+  orig: 27, 30
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: true
+  xy: 223, 2
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Zuogebo
+  rotate: false
+  xy: 292, 7
+  size: 47, 28
+  orig: 49, 30
+  offset: 1, 1
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 263, 4
+  size: 27, 31
+  orig: 29, 33
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: true
+  xy: 451, 73
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 367, 59
+  size: 26, 64
+  orig: 28, 66
+  offset: 1, 1
+  index: -1
+gong1
+  rotate: false
+  xy: 423, 61
+  size: 26, 62
+  orig: 28, 64
+  offset: 1, 1
+  index: -1
+gongxian
+  rotate: false
+  xy: 412, 7
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+gongxian1
+  rotate: false
+  xy: 369, 5
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 298, 53
+  size: 70, 19
+  orig: 72, 21
+  offset: 1, 1
+  index: -1
+jian1
+  rotate: true
+  xy: 319, 53
+  size: 70, 19
+  orig: 72, 21
+  offset: 1, 1
+  index: -1
+nushen
+  rotate: true
+  xy: 395, 59
+  size: 64, 26
+  orig: 66, 28
+  offset: 1, 1
+  index: -1
+nushen1
+  rotate: true
+  xy: 340, 58
+  size: 65, 25
+  orig: 67, 27
+  offset: 1, 1
+  index: -1
+pifeng
+  rotate: true
+  xy: 135, 11
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 457, 15
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1

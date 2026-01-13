@@ -1,0 +1,20 @@
+
+shibai2.png
+size: 408,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hengfu1
+  rotate: false
+  xy: 1, 2
+  size: 204, 84
+  orig: 204, 85
+  offset: 0, 0
+  index: -1
+hengfu2
+  rotate: false
+  xy: 205, 2
+  size: 203, 85
+  orig: 203, 85
+  offset: 0, 0
+  index: -1

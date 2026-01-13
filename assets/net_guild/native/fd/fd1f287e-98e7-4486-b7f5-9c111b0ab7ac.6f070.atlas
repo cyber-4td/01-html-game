@@ -1,0 +1,202 @@
+
+juDian-epic.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Djundian2
+  rotate: false
+  xy: 224, 6
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+Djundian2-1
+  rotate: false
+  xy: 253, 6
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+Rqizi3
+  rotate: false
+  xy: 282, 8
+  size: 143, 56
+  orig: 145, 58
+  offset: 1, 1
+  index: -1
+Xjundian1
+  rotate: true
+  xy: 534, 82
+  size: 169, 116
+  orig: 169, 116
+  offset: 0, 0
+  index: -1
+Xjundian1-1
+  rotate: true
+  xy: 652, 82
+  size: 169, 116
+  orig: 169, 116
+  offset: 0, 0
+  index: -1
+Xjundian2
+  rotate: false
+  xy: 770, 92
+  size: 143, 159
+  orig: 143, 159
+  offset: 0, 0
+  index: -1
+Xjundian2-1
+  rotate: false
+  xy: 915, 92
+  size: 143, 159
+  orig: 143, 159
+  offset: 0, 0
+  index: -1
+Xjundian2-2
+  rotate: true
+  xy: 478, 20
+  size: 44, 153
+  orig: 46, 155
+  offset: 1, 1
+  index: -1
+Xjundian3
+  rotate: false
+  xy: 633, 3
+  size: 66, 77
+  orig: 70, 81
+  offset: 2, 2
+  index: -1
+Xjundian3-1
+  rotate: false
+  xy: 701, 3
+  size: 66, 77
+  orig: 70, 81
+  offset: 2, 2
+  index: -1
+Xjundian3-2
+  rotate: false
+  xy: 805, 7
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Xjundian4
+  rotate: true
+  xy: 1060, 105
+  size: 146, 100
+  orig: 146, 100
+  offset: 0, 0
+  index: -1
+Xjundian4-1
+  rotate: false
+  xy: 1060, 3
+  size: 146, 100
+  orig: 146, 100
+  offset: 0, 0
+  index: -1
+eff_AroundLight_000
+  rotate: true
+  xy: 224, 66
+  size: 185, 153
+  orig: 200, 300
+  offset: 8, 109
+  index: -1
+eff_AroundLight_Red
+  rotate: true
+  xy: 379, 66
+  size: 185, 153
+  orig: 200, 300
+  offset: 8, 109
+  index: -1
+eff_FireBullet_000
+  rotate: false
+  xy: 1499, 125
+  size: 111, 126
+  orig: 150, 164
+  offset: 19, 11
+  index: -1
+eff_FireBullet_001
+  rotate: true
+  xy: 1476, 6
+  size: 112, 129
+  orig: 150, 164
+  offset: 19, 10
+  index: -1
+eff_FireBullet_002
+  rotate: false
+  xy: 1386, 120
+  size: 111, 131
+  orig: 150, 164
+  offset: 20, 10
+  index: -1
+eff_FireBullet_003
+  rotate: true
+  xy: 1342, 3
+  size: 113, 132
+  orig: 150, 164
+  offset: 19, 10
+  index: -1
+eff_FireBullet_004
+  rotate: true
+  xy: 1208, 2
+  size: 114, 132
+  orig: 150, 164
+  offset: 19, 10
+  index: -1
+eff_FireBullet_005
+  rotate: false
+  xy: 1162, 118
+  size: 112, 133
+  orig: 150, 164
+  offset: 19, 11
+  index: -1
+eff_FireBullet_006
+  rotate: false
+  xy: 1276, 118
+  size: 108, 133
+  orig: 150, 164
+  offset: 19, 11
+  index: -1
+eff_FireBullet_007
+  rotate: true
+  xy: 1607, 14
+  size: 109, 126
+  orig: 150, 164
+  offset: 19, 11
+  index: -1
+eff_FloorCircle_000
+  rotate: true
+  xy: 2, 7
+  size: 244, 109
+  orig: 300, 200
+  offset: 29, 14
+  index: -1
+eff_FloorCircle_Red
+  rotate: true
+  xy: 113, 7
+  size: 244, 109
+  orig: 300, 200
+  offset: 29, 14
+  index: -1
+eff_Glow_000
+  rotate: false
+  xy: 769, 46
+  size: 34, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1
+eff_Point
+  rotate: false
+  xy: 769, 23
+  size: 21, 21
+  orig: 25, 25
+  offset: 2, 2
+  index: -1
+eff_Star
+  rotate: true
+  xy: 427, 14
+  size: 50, 49
+  orig: 65, 61
+  offset: 6, 6
+  index: -1

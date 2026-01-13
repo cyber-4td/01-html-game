@@ -1,0 +1,83 @@
+
+redDP-water-female.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_dabi1
+  rotate: false
+  xy: 154, 108
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+Q_lingjie
+  rotate: true
+  xy: 197, 63
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Q_pijian1
+  rotate: true
+  xy: 104, 4
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+Q_shou1
+  rotate: true
+  xy: 231, 26
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Q_tui
+  rotate: true
+  xy: 213, 186
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+Q_tui2
+  rotate: true
+  xy: 154, 167
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+Q_tui3
+  rotate: true
+  xy: 231, 154
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Q_tui4
+  rotate: false
+  xy: 197, 21
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Q_xiaobi1
+  rotate: true
+  xy: 193, 112
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+effect/star_0
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/xuehua_0
+  rotate: false
+  xy: 2, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

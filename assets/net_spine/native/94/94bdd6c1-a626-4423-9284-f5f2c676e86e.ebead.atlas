@@ -1,0 +1,188 @@
+
+orange-water-female.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+binjiao1
+  rotate: true
+  xy: 165, 33
+  size: 47, 106
+  orig: 47, 106
+  offset: 0, 0
+  index: -1
+binjiao2
+  rotate: false
+  xy: 297, 2
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 89, 90
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+dabi2
+  rotate: false
+  xy: 55, 4
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+effect/hou_0
+  rotate: true
+  xy: 710, 140
+  size: 181, 154
+  orig: 192, 170
+  offset: 9, 10
+  index: -1
+effect/hou_1
+  rotate: false
+  xy: 527, 10
+  size: 181, 154
+  orig: 192, 170
+  offset: 9, 10
+  index: -1
+effect/hou_2
+  rotate: false
+  xy: 527, 166
+  size: 181, 155
+  orig: 192, 170
+  offset: 9, 10
+  index: -1
+effect/hou_3
+  rotate: true
+  xy: 368, 163
+  size: 181, 157
+  orig: 192, 170
+  offset: 9, 8
+  index: -1
+effect/hou_4
+  rotate: true
+  xy: 185, 162
+  size: 181, 157
+  orig: 192, 170
+  offset: 9, 8
+  index: -1
+effect/hou_5
+  rotate: false
+  xy: 368, 346
+  size: 181, 158
+  orig: 192, 170
+  offset: 9, 8
+  index: -1
+effect/hou_6
+  rotate: true
+  xy: 551, 323
+  size: 181, 158
+  orig: 192, 170
+  offset: 9, 8
+  index: -1
+effect/hou_7
+  rotate: true
+  xy: 2, 160
+  size: 181, 157
+  orig: 192, 170
+  offset: 9, 10
+  index: -1
+effect/hou_8
+  rotate: false
+  xy: 185, 345
+  size: 181, 159
+  orig: 192, 170
+  offset: 9, 9
+  index: -1
+effect/hou_9
+  rotate: false
+  xy: 2, 343
+  size: 181, 161
+  orig: 192, 170
+  offset: 9, 8
+  index: -1
+face
+  rotate: true
+  xy: 711, 409
+  size: 95, 99
+  orig: 97, 101
+  offset: 1, 1
+  index: -1
+pifeng1
+  rotate: false
+  xy: 161, 82
+  size: 134, 78
+  orig: 134, 78
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 2, 42
+  size: 116, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+shou4
+  rotate: false
+  xy: 161, 314
+  size: 22, 27
+  orig: 24, 29
+  offset: 1, 1
+  index: -1
+toufa1
+  rotate: false
+  xy: 89, 7
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 2, 2
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 297, 88
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+toushi1 v
+  rotate: false
+  xy: 344, 26
+  size: 152, 135
+  orig: 154, 135
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: false
+  xy: 812, 457
+  size: 48, 47
+  orig: 50, 49
+  offset: 1, 1
+  index: -1
+toushi3
+  rotate: true
+  xy: 498, 133
+  size: 28, 27
+  orig: 30, 29
+  offset: 1, 1
+  index: -1
+toushi4
+  rotate: false
+  xy: 161, 292
+  size: 15, 20
+  orig: 17, 22
+  offset: 1, 1
+  index: -1
+xiaobi2
+  rotate: true
+  xy: 498, 104
+  size: 27, 24
+  orig: 29, 26
+  offset: 1, 1
+  index: -1

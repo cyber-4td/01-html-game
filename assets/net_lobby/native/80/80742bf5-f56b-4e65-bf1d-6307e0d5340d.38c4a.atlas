@@ -1,0 +1,181 @@
+
+skin-bingZhuCheng.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi
+  rotate: false
+  xy: 134, 25
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 370, 182
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 208, 173
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: false
+  xy: 370, 218
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: true
+  xy: 285, 181
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+chilun1
+  rotate: false
+  xy: 185, 11
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+chuanduo
+  rotate: true
+  xy: 296, 139
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+chuanjiang1
+  rotate: true
+  xy: 337, 57
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+chuanjiang2
+  rotate: false
+  xy: 313, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+chuanjiang3
+  rotate: true
+  xy: 337, 32
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+chuanshen1
+  rotate: true
+  xy: 117, 108
+  size: 146, 89
+  orig: 146, 89
+  offset: 0, 0
+  index: -1
+chuanshen2
+  rotate: false
+  xy: 2, 14
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+chuantou1
+  rotate: true
+  xy: 321, 87
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+chuantou2
+  rotate: true
+  xy: 277, 22
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+ci
+  rotate: false
+  xy: 277, 5
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+jiang2_7
+  rotate: true
+  xy: 134, 5
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+jiang4
+  rotate: true
+  xy: 277, 47
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+pigu
+  rotate: true
+  xy: 348, 149
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+shengzi1
+  rotate: true
+  xy: 208, 115
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+shengzi2
+  rotate: true
+  xy: 208, 139
+  size: 32, 86
+  orig: 32, 86
+  offset: 0, 0
+  index: -1
+shengzi3
+  rotate: false
+  xy: 321, 31
+  size: 14, 54
+  orig: 14, 54
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 86
+  size: 168, 113
+  orig: 168, 113
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 277, 73
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+zhuangshi1
+  rotate: true
+  xy: 264, 119
+  size: 18, 55
+  orig: 18, 55
+  offset: 0, 0
+  index: -1
+zhuangshi2
+  rotate: true
+  xy: 117, 88
+  size: 18, 66
+  orig: 18, 66
+  offset: 0, 0
+  index: -1

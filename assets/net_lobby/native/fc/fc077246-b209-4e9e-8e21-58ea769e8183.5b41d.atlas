@@ -1,0 +1,160 @@
+
+gz.png
+size: 368,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star_0
+  rotate: true
+  xy: 2, 856
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+sweep2_0
+  rotate: true
+  xy: 2, 734
+  size: 98, 300
+  orig: 98, 300
+  offset: 0, 0
+  index: -1
+sweep3_0
+  rotate: false
+  xy: 104, 834
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_11
+  rotate: false
+  xy: 246, 490
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_12
+  rotate: false
+  xy: 2, 368
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_14
+  rotate: false
+  xy: 124, 368
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_15
+  rotate: false
+  xy: 246, 368
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_17
+  rotate: false
+  xy: 2, 246
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_18
+  rotate: false
+  xy: 124, 246
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_2
+  rotate: false
+  xy: 226, 834
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_20
+  rotate: false
+  xy: 246, 246
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_21
+  rotate: false
+  xy: 2, 124
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_23
+  rotate: false
+  xy: 124, 124
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_24
+  rotate: false
+  xy: 246, 124
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_26
+  rotate: false
+  xy: 2, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_27
+  rotate: false
+  xy: 124, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_28
+  rotate: false
+  xy: 246, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_3
+  rotate: false
+  xy: 2, 612
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_5
+  rotate: false
+  xy: 124, 612
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_6
+  rotate: false
+  xy: 246, 612
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_8
+  rotate: false
+  xy: 2, 490
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sweep3_9
+  rotate: false
+  xy: 124, 490
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+orange-earth-femaleLeg.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianjia
+  rotate: false
+  xy: 126, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+yaojia
+  rotate: false
+  xy: 45, 28
+  size: 49, 34
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 96, 34
+  size: 41, 28
+  orig: 43, 30
+  offset: 1, 1
+  index: -1
+yougebo
+  rotate: true
+  xy: 87, 2
+  size: 24, 37
+  orig: 26, 39
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: false
+  xy: 2, 14
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 139, 34
+  size: 28, 24
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 45, 2
+  size: 40, 24
+  orig: 42, 26
+  offset: 1, 1
+  index: -1
+youxiaobi-fur
+  rotate: false
+  xy: 165, 22
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1

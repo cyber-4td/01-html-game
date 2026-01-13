@@ -1,0 +1,160 @@
+
+rukou4.png
+size: 1916,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 1547, 28
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+effect/fs_0
+  rotate: false
+  xy: 1649, 38
+  size: 60, 120
+  orig: 60, 120
+  offset: 0, 0
+  index: -1
+effect/kj_0
+  rotate: false
+  xy: 1792, 88
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+effect/kj_1
+  rotate: false
+  xy: 1803, 16
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+effect/liu_0
+  rotate: true
+  xy: 2, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_10
+  rotate: true
+  xy: 723, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_11
+  rotate: true
+  xy: 826, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_12
+  rotate: true
+  xy: 929, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_13
+  rotate: true
+  xy: 1032, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_15
+  rotate: true
+  xy: 1135, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_16
+  rotate: true
+  xy: 1238, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_17
+  rotate: true
+  xy: 1341, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_19
+  rotate: true
+  xy: 1444, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_2
+  rotate: true
+  xy: 105, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_3
+  rotate: true
+  xy: 208, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_4
+  rotate: true
+  xy: 311, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_6
+  rotate: true
+  xy: 414, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_7
+  rotate: true
+  xy: 517, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/liu_8
+  rotate: true
+  xy: 620, 2
+  size: 156, 101
+  orig: 156, 101
+  offset: 0, 0
+  index: -1
+effect/star_0
+  rotate: false
+  xy: 1864, 88
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+wl1
+  rotate: true
+  xy: 1711, 77
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+wl2
+  rotate: false
+  xy: 1711, 5
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1

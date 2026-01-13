@@ -1,0 +1,20 @@
+
+tiao.png
+size: 234,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk_0
+  rotate: false
+  xy: 2, 159
+  size: 230, 105
+  orig: 245, 148
+  offset: 11, 20
+  index: -1
+tiao_0
+  rotate: true
+  xy: 2, 2
+  size: 155, 217
+  orig: 200, 280
+  offset: 26, 30
+  index: -1

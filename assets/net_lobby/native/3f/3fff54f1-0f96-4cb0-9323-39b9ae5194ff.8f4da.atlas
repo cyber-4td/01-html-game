@@ -1,0 +1,41 @@
+
+dandujiangli.png
+size: 385,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian01
+  rotate: true
+  xy: 2, 75
+  size: 178, 180
+  orig: 185, 188
+  offset: 4, 4
+  index: -1
+guangdian02
+  rotate: false
+  xy: 232, 51
+  size: 30, 30
+  orig: 31, 41
+  offset: 1, 5
+  index: -1
+guangdian04
+  rotate: true
+  xy: 184, 83
+  size: 170, 133
+  orig: 200, 156
+  offset: 14, 11
+  index: -1
+guangzhu01
+  rotate: false
+  xy: 2, 255
+  size: 381, 128
+  orig: 410, 160
+  offset: 23, 16
+  index: -1
+xingxing02
+  rotate: false
+  xy: 184, 35
+  size: 46, 46
+  orig: 60, 60
+  offset: 7, 6
+  index: -1

@@ -1,0 +1,48 @@
+
+six.png
+size: 1010,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+one/diguan2_0
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+one/diguan3_0
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+rstar_0
+  rotate: false
+  xy: 806, 58
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sweep/sweep_0
+  rotate: true
+  xy: 806, 282
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+sweep/sweep_1
+  rotate: true
+  xy: 806, 160
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+ystar_0
+  rotate: false
+  xy: 908, 58
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

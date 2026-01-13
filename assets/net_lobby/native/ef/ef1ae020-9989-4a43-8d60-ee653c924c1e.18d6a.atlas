@@ -1,0 +1,48 @@
+
+yuekatubiao.png
+size: 379,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: false
+  xy: 204, 243
+  size: 134, 134
+  orig: 136, 136
+  offset: 1, 1
+  index: -1
+kapai
+  rotate: false
+  xy: 88, 263
+  size: 114, 114
+  orig: 116, 116
+  offset: 1, 1
+  index: -1
+tianfusaoguang
+  rotate: true
+  xy: 2, 85
+  size: 156, 375
+  orig: 156, 375
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: true
+  xy: 2, 344
+  size: 33, 37
+  orig: 37, 43
+  offset: 2, 3
+  index: -1
+xingxing2
+  rotate: true
+  xy: 2, 344
+  size: 33, 37
+  orig: 37, 43
+  offset: 2, 3
+  index: -1
+xingxing3
+  rotate: true
+  xy: 41, 337
+  size: 40, 45
+  orig: 44, 51
+  offset: 2, 3
+  index: -1

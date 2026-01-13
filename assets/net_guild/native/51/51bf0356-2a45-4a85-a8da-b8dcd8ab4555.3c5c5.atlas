@@ -1,0 +1,48 @@
+
+lb.png
+size: 822,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 741, 200
+  size: 102, 37
+  orig: 102, 37
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 723, 57
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 606, 42
+  size: 131, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+effect/quan2_0
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+effect/quan_0
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 606, 175
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1

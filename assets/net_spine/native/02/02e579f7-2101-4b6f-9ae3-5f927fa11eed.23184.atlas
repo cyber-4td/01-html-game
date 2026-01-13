@@ -1,0 +1,160 @@
+
+red-light-maleLeg.png
+size: 1902,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi1
+  rotate: false
+  xy: 1865, 137
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+effect/a_0
+  rotate: true
+  xy: 2, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_10
+  rotate: false
+  xy: 758, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_11
+  rotate: true
+  xy: 950, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_12
+  rotate: false
+  xy: 1010, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_14
+  rotate: true
+  xy: 1187, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_15
+  rotate: false
+  xy: 1262, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_16
+  rotate: true
+  xy: 1424, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_18
+  rotate: false
+  xy: 1514, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_19
+  rotate: true
+  xy: 1661, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_2
+  rotate: false
+  xy: 2, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_3
+  rotate: true
+  xy: 239, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_4
+  rotate: false
+  xy: 254, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_6
+  rotate: true
+  xy: 476, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_7
+  rotate: false
+  xy: 506, 2
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+effect/a_8
+  rotate: true
+  xy: 713, 239
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: false
+  xy: 1766, 153
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 1816, 58
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 1847, 90
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: false
+  xy: 1766, 105
+  size: 79, 46
+  orig: 79, 46
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: false
+  xy: 1766, 79
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: true
+  xy: 1865, 187
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1

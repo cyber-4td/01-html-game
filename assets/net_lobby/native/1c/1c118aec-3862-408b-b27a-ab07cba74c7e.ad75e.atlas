@@ -1,0 +1,20 @@
+
+ct.png
+size: 499,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk2_0
+  rotate: false
+  xy: 380, 5
+  size: 117, 99
+  orig: 172, 128
+  offset: 33, 15
+  index: -1
+kk_0
+  rotate: false
+  xy: 2, 2
+  size: 376, 102
+  orig: 400, 128
+  offset: 11, 12
+  index: -1

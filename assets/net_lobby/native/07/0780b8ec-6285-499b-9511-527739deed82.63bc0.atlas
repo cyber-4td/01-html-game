@@ -1,0 +1,125 @@
+
+famugong.png
+size: 757,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi1
+  rotate: true
+  xy: 485, 8
+  size: 57, 67
+  orig: 59, 69
+  offset: 1, 1
+  index: -1
+dabi2
+  rotate: 180
+  xy: 568, 99
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 717, 57
+  size: 35, 43
+  orig: 37, 45
+  offset: 1, 1
+  index: -1
+eye
+  rotate: true
+  xy: 720, 6
+  size: 47, 29
+  orig: 49, 31
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 172, 23
+  size: 149, 146
+  orig: 151, 148
+  offset: 1, 1
+  index: -1
+futou
+  rotate: false
+  xy: 325, 57
+  size: 95, 112
+  orig: 97, 114
+  offset: 1, 1
+  index: -1
+kua
+  rotate: true
+  xy: 568, 19
+  size: 75, 38
+  orig: 77, 40
+  offset: 1, 1
+  index: -1
+leg1
+  rotate: 180
+  xy: 607, 67
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 610, 9
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 424, 6
+  size: 163, 57
+  orig: 165, 59
+  offset: 1, 1
+  index: -1
+shangshen
+  rotate: true
+  xy: 485, 69
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 652, 121
+  size: 44, 48
+  orig: 46, 50
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 669, 57
+  size: 44, 47
+  orig: 46, 49
+  offset: 1, 1
+  index: -1
+toufa
+  rotate: false
+  xy: 5, 27
+  size: 163, 142
+  orig: 170, 144
+  offset: 6, 1
+  index: -1
+xiaobi1
+  rotate: true
+  xy: 674, 9
+  size: 44, 42
+  orig: 46, 44
+  offset: 1, 1
+  index: -1
+xiaobi2
+  rotate: true
+  xy: 700, 108
+  size: 44, 42
+  orig: 46, 44
+  offset: 1, 1
+  index: -1
+yaodai
+  rotate: false
+  xy: 325, 21
+  size: 92, 32
+  orig: 94, 34
+  offset: 1, 1
+  index: -1

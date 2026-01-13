@@ -1,0 +1,62 @@
+
+orange-fire-maleLeg.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-L
+  rotate: false
+  xy: 2, 5
+  size: 50, 30
+  orig: 52, 32
+  offset: 1, 1
+  index: -1
+armUpper-L
+  rotate: false
+  xy: 99, 12
+  size: 24, 30
+  orig: 26, 32
+  offset: 1, 1
+  index: -1
+dress-L
+  rotate: false
+  xy: 64, 78
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+foot-L
+  rotate: true
+  xy: 99, 44
+  size: 32, 27
+  orig: 34, 29
+  offset: 1, 1
+  index: -1
+hand-L
+  rotate: false
+  xy: 55, 45
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+leg-L
+  rotate: true
+  xy: 2, 37
+  size: 40, 51
+  orig: 42, 53
+  offset: 1, 1
+  index: -1
+legUpper-L
+  rotate: false
+  xy: 54, 3
+  size: 43, 32
+  orig: 45, 34
+  offset: 1, 1
+  index: -1
+shoulder-L
+  rotate: false
+  xy: 2, 79
+  size: 60, 47
+  orig: 62, 49
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,202 @@
+
+orange-water-femaleLeg.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/wu1_0
+  rotate: true
+  xy: 332, 2
+  size: 47, 41
+  orig: 136, 136
+  offset: 39, 6
+  index: -1
+effect/wu1_10
+  rotate: false
+  xy: 2, 5
+  size: 90, 53
+  orig: 136, 136
+  offset: 28, 47
+  index: -1
+effect/wu1_12
+  rotate: false
+  xy: 490, 10
+  size: 20, 22
+  orig: 136, 136
+  offset: 96, 78
+  index: -1
+effect/wu1_14
+  rotate: false
+  xy: 244, 85
+  size: 12, 14
+  orig: 136, 136
+  offset: 101, 86
+  index: -1
+effect/wu1_15
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/wu1_2
+  rotate: false
+  xy: 183, 8
+  size: 76, 74
+  orig: 136, 136
+  offset: 27, 16
+  index: -1
+effect/wu1_4
+  rotate: false
+  xy: 387, 178
+  size: 87, 76
+  orig: 136, 136
+  offset: 23, 25
+  index: -1
+effect/wu1_6
+  rotate: false
+  xy: 292, 179
+  size: 93, 75
+  orig: 136, 136
+  offset: 22, 29
+  index: -1
+effect/wu1_8
+  rotate: false
+  xy: 292, 113
+  size: 92, 64
+  orig: 136, 136
+  offset: 25, 42
+  index: -1
+effect/wu2_0
+  rotate: true
+  xy: 102, 84
+  size: 77, 81
+  orig: 136, 136
+  offset: 28, 29
+  index: -1
+effect/wu2_10
+  rotate: false
+  xy: 386, 98
+  size: 83, 78
+  orig: 136, 136
+  offset: 15, 20
+  index: -1
+effect/wu2_12
+  rotate: true
+  xy: 261, 25
+  size: 74, 69
+  orig: 136, 136
+  offset: 36, 42
+  index: -1
+effect/wu2_14
+  rotate: true
+  xy: 185, 84
+  size: 77, 57
+  orig: 136, 136
+  offset: 36, 63
+  index: -1
+effect/wu2_15
+  rotate: false
+  xy: 100, 30
+  size: 81, 52
+  orig: 136, 136
+  offset: 33, 71
+  index: -1
+effect/wu2_2
+  rotate: false
+  xy: 198, 164
+  size: 92, 90
+  orig: 136, 136
+  offset: 19, 26
+  index: -1
+effect/wu2_4
+  rotate: false
+  xy: 2, 60
+  size: 96, 90
+  orig: 136, 136
+  offset: 21, 28
+  index: -1
+effect/wu2_6
+  rotate: false
+  xy: 2, 152
+  size: 98, 102
+  orig: 136, 136
+  offset: 22, 18
+  index: -1
+effect/wu2_8
+  rotate: false
+  xy: 102, 163
+  size: 94, 91
+  orig: 136, 136
+  offset: 15, 17
+  index: -1
+effect/xuehua_0
+  rotate: true
+  xy: 450, 34
+  size: 62, 60
+  orig: 100, 100
+  offset: 17, 21
+  index: -1
+jianjia1
+  rotate: true
+  xy: 476, 199
+  size: 55, 34
+  orig: 57, 36
+  offset: 1, 1
+  index: -1
+jianjia2
+  rotate: true
+  xy: 261, 8
+  size: 15, 19
+  orig: 17, 21
+  offset: 1, 1
+  index: -1
+leg
+  rotate: false
+  xy: 332, 51
+  size: 41, 60
+  orig: 46, 63
+  offset: 1, 2
+  index: -1
+mao1
+  rotate: true
+  xy: 244, 101
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 94, 2
+  size: 26, 31
+  orig: 28, 33
+  offset: 1, 1
+  index: -1
+xiabai1
+  rotate: false
+  xy: 375, 2
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: false
+  xy: 375, 42
+  size: 73, 54
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 439, 2
+  size: 49, 30
+  orig: 53, 32
+  offset: 1, 1
+  index: -1
+yougebo
+  rotate: false
+  xy: 476, 150
+  size: 32, 47
+  orig: 34, 49
+  offset: 1, 1
+  index: -1

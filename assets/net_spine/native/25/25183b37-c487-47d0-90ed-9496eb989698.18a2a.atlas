@@ -1,0 +1,146 @@
+
+fatiaomolin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 189, 17
+  size: 57, 57
+  orig: 59, 59
+  offset: 1, 1
+  index: -1
+Group 2
+  rotate: false
+  xy: 248, 9
+  size: 52, 65
+  orig: 54, 67
+  offset: 1, 1
+  index: -1
+Group 3
+  rotate: false
+  xy: 302, 8
+  size: 42, 77
+  orig: 44, 79
+  offset: 1, 1
+  index: -1
+Group 4
+  rotate: true
+  xy: 112, 23
+  size: 51, 75
+  orig: 52, 77
+  offset: 0, 1
+  index: -1
+faJi
+  rotate: false
+  xy: 355, 76
+  size: 81, 79
+  orig: 83, 81
+  offset: 1, 1
+  index: -1
+faTiao
+  rotate: false
+  xy: 148, 125
+  size: 131, 116
+  orig: 132, 118
+  offset: 0, 1
+  index: -1
+jiXieqiu
+  rotate: false
+  xy: 355, 157
+  size: 89, 84
+  orig: 91, 86
+  offset: 1, 1
+  index: -1
+shenTi
+  rotate: true
+  xy: 438, 63
+  size: 80, 70
+  orig: 81, 72
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 96
+  size: 144, 145
+  orig: 170, 147
+  offset: 25, 1
+  index: -1
+touFa1
+  rotate: false
+  xy: 2, 15
+  size: 108, 79
+  orig: 110, 81
+  offset: 1, 1
+  index: -1
+touFa2
+  rotate: false
+  xy: 281, 127
+  size: 72, 114
+  orig: 74, 116
+  offset: 1, 1
+  index: -1
+touFa3
+  rotate: false
+  xy: 446, 145
+  size: 52, 96
+  orig: 54, 98
+  offset: 1, 1
+  index: -1
+xiongBuchilun
+  rotate: false
+  xy: 346, 35
+  size: 39, 39
+  orig: 41, 40
+  offset: 1, 0
+  index: -1
+yaoBu
+  rotate: false
+  xy: 148, 76
+  size: 93, 47
+  orig: 95, 48
+  offset: 1, 0
+  index: -1
+youShou
+  rotate: false
+  xy: 387, 41
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+youYan
+  rotate: false
+  xy: 422, 44
+  size: 14, 30
+  orig: 16, 32
+  offset: 1, 1
+  index: -1
+zuoJian
+  rotate: true
+  xy: 243, 76
+  size: 47, 54
+  orig: 49, 56
+  offset: 1, 1
+  index: -1
+zuoShou
+  rotate: false
+  xy: 346, 2
+  size: 34, 31
+  orig: 36, 33
+  offset: 1, 1
+  index: -1
+zuoYan
+  rotate: true
+  xy: 112, 79
+  size: 15, 30
+  orig: 17, 32
+  offset: 1, 1
+  index: -1
+zuoZhou
+  rotate: false
+  xy: 302, 87
+  size: 51, 38
+  orig: 53, 40
+  offset: 1, 1
+  index: -1

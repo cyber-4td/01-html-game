@@ -1,0 +1,160 @@
+
+demon_guard.png
+size: 539,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: true
+  xy: 435, 444
+  size: 93, 97
+  orig: 136, 182
+  offset: 11, 23
+  index: -1
+Tou
+  rotate: true
+  xy: 301, 40
+  size: 134, 119
+  orig: 134, 119
+  offset: 0, 0
+  index: -1
+Weiba
+  rotate: false
+  xy: 156, 319
+  size: 61, 48
+  orig: 61, 63
+  offset: 0, 15
+  index: -1
+Youdabi
+  rotate: false
+  xy: 186, 188
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Youjianjia
+  rotate: false
+  xy: 186, 156
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Youshouzhang
+  rotate: true
+  xy: 301, 2
+  size: 36, 46
+  orig: 40, 46
+  offset: 4, 0
+  index: -1
+Youshouzhi
+  rotate: false
+  xy: 349, 2
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: true
+  xy: 477, 131
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Youxiaobi
+  rotate: false
+  xy: 422, 85
+  size: 44, 43
+  orig: 51, 43
+  offset: 1, 0
+  index: -1
+Zuodabi
+  rotate: true
+  xy: 156, 272
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+Zuojianjia
+  rotate: true
+  xy: 148, 176
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 422, 130
+  size: 53, 42
+  orig: 54, 42
+  offset: 1, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 477, 88
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Zuoxiaobi
+  rotate: false
+  xy: 156, 228
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+effect/eff_0
+  rotate: false
+  xy: 435, 315
+  size: 94, 127
+  orig: 240, 219
+  offset: 8, 52
+  index: -1
+effect/eff_1
+  rotate: true
+  xy: 2, 179
+  size: 188, 144
+  orig: 240, 219
+  offset: 8, 51
+  index: -1
+effect/eff_2
+  rotate: false
+  xy: 2, 369
+  size: 219, 168
+  orig: 240, 219
+  offset: 8, 27
+  index: -1
+effect/eff_3
+  rotate: false
+  xy: 223, 377
+  size: 210, 160
+  orig: 240, 219
+  offset: 17, 35
+  index: -1
+effect/eff_4
+  rotate: true
+  xy: 2, 16
+  size: 158, 152
+  orig: 240, 219
+  offset: 69, 43
+  index: -1
+effect/eff_5
+  rotate: false
+  xy: 433, 174
+  size: 89, 139
+  orig: 240, 219
+  offset: 138, 52
+  index: -1
+effect/glow_0
+  rotate: false
+  xy: 223, 176
+  size: 208, 199
+  orig: 240, 219
+  offset: 28, 15
+  index: -1
+futou
+  rotate: false
+  xy: 156, 6
+  size: 143, 148
+  orig: 143, 149
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+slime_fast_lava.png
+size: 251,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 2, 3
+  size: 175, 133
+  orig: 175, 133
+  offset: 0, 0
+  index: -1
+mei1
+  rotate: false
+  xy: 179, 77
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+mei2
+  rotate: true
+  xy: 179, 45
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+shi1
+  rotate: false
+  xy: 207, 19
+  size: 28, 24
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+shi2
+  rotate: false
+  xy: 207, 2
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+yan1
+  rotate: false
+  xy: 242, 122
+  size: 7, 14
+  orig: 9, 16
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: false
+  xy: 237, 28
+  size: 8, 15
+  orig: 10, 17
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 179, 4
+  size: 39, 26
+  orig: 41, 28
+  offset: 1, 1
+  index: -1

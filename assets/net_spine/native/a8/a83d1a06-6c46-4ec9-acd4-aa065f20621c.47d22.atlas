@@ -1,0 +1,195 @@
+
+skeleton_caster_chain_lighting.png
+size: 543,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pifeng
+  rotate: true
+  xy: 203, 27
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+Pifengqian
+  rotate: false
+  xy: 496, 45
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1
+Shenti
+  rotate: false
+  xy: 96, 21
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 2, 4
+  size: 96, 92
+  orig: 98, 94
+  offset: 1, 1
+  index: -1
+Toufa1
+  rotate: false
+  xy: 440, 68
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Toufa2
+  rotate: true
+  xy: 343, 50
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+Toufa3
+  rotate: false
+  xy: 343, 2
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+Yiling
+  rotate: false
+  xy: 203, 2
+  size: 41, 23
+  orig: 43, 25
+  offset: 1, 1
+  index: -1
+Yougebo
+  rotate: false
+  xy: 474, 82
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 511, 90
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: false
+  xy: 398, 67
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+Zuogebo
+  rotate: true
+  xy: 460, 24
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: true
+  xy: 496, 12
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: false
+  xy: 414, 17
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+effect/d_0
+  rotate: false
+  xy: 185, 112
+  size: 176, 198
+  orig: 250, 225
+  offset: 42, 23
+  index: -1
+effect/d_1
+  rotate: false
+  xy: 185, 112
+  size: 176, 198
+  orig: 250, 225
+  offset: 42, 23
+  index: -1
+effect/d_10
+  rotate: false
+  xy: 363, 122
+  size: 175, 196
+  orig: 250, 225
+  offset: 40, 18
+  index: -1
+effect/d_2
+  rotate: false
+  xy: 96, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/d_11
+  rotate: false
+  xy: 96, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/d_7
+  rotate: false
+  xy: 96, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/d_3
+  rotate: false
+  xy: 183, 312
+  size: 176, 209
+  orig: 250, 225
+  offset: 34, 16
+  index: -1
+effect/d_4
+  rotate: false
+  xy: 2, 311
+  size: 179, 210
+  orig: 250, 225
+  offset: 29, 9
+  index: -1
+effect/d_5
+  rotate: false
+  xy: 2, 311
+  size: 179, 210
+  orig: 250, 225
+  offset: 29, 9
+  index: -1
+effect/d_6
+  rotate: false
+  xy: 2, 102
+  size: 181, 207
+  orig: 250, 225
+  offset: 29, 12
+  index: -1
+effect/d_9
+  rotate: false
+  xy: 361, 320
+  size: 171, 201
+  orig: 250, 225
+  offset: 44, 18
+  index: -1
+effect/d_8
+  rotate: false
+  xy: 361, 320
+  size: 171, 201
+  orig: 250, 225
+  offset: 44, 18
+  index: -1
+shandian
+  rotate: false
+  xy: 277, 21
+  size: 64, 89
+  orig: 66, 91
+  offset: 1, 1
+  index: -1

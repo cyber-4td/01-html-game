@@ -1,0 +1,223 @@
+
+dragon_fire.png
+size: 810,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibangL
+  rotate: false
+  xy: 452, 131
+  size: 152, 177
+  orig: 152, 177
+  offset: 0, 0
+  index: -1
+chibangLbei
+  rotate: false
+  xy: 2, 540
+  size: 158, 268
+  orig: 158, 271
+  offset: 0, 3
+  index: -1
+chibangR
+  rotate: false
+  xy: 309, 116
+  size: 141, 192
+  orig: 141, 192
+  offset: 0, 0
+  index: -1
+chibangR bei
+  rotate: false
+  xy: 2, 270
+  size: 151, 268
+  orig: 151, 268
+  offset: 0, 0
+  index: -1
+effect/0
+  rotate: false
+  xy: 645, 568
+  size: 158, 240
+  orig: 184, 268
+  offset: 16, 8
+  index: -1
+effect/1
+  rotate: false
+  xy: 488, 559
+  size: 155, 249
+  orig: 184, 268
+  offset: 8, 8
+  index: -1
+effect/2
+  rotate: false
+  xy: 324, 559
+  size: 162, 249
+  orig: 184, 268
+  offset: 0, 8
+  index: -1
+effect/3
+  rotate: false
+  xy: 162, 556
+  size: 160, 252
+  orig: 184, 268
+  offset: 0, 8
+  index: -1
+effect/4
+  rotate: false
+  xy: 155, 286
+  size: 143, 252
+  orig: 184, 268
+  offset: 17, 8
+  index: -1
+effect/5
+  rotate: false
+  xy: 2, 12
+  size: 150, 256
+  orig: 184, 268
+  offset: 14, 8
+  index: -1
+effect/6
+  rotate: false
+  xy: 154, 56
+  size: 153, 212
+  orig: 184, 268
+  offset: 10, 8
+  index: -1
+effect/7
+  rotate: false
+  xy: 454, 338
+  size: 148, 219
+  orig: 184, 268
+  offset: 12, 8
+  index: -1
+effect/8
+  rotate: false
+  xy: 604, 325
+  size: 135, 232
+  orig: 184, 268
+  offset: 19, 8
+  index: -1
+effect/9
+  rotate: false
+  xy: 300, 310
+  size: 152, 244
+  orig: 184, 268
+  offset: 8, 8
+  index: -1
+feixinghoutuiyou2
+  rotate: false
+  xy: 561, 64
+  size: 43, 65
+  orig: 50, 67
+  offset: 1, 1
+  index: -1
+feixinghoutuiyou3
+  rotate: false
+  xy: 737, 145
+  size: 51, 62
+  orig: 53, 64
+  offset: 1, 1
+  index: -1
+feixinghoutuiyou4
+  rotate: false
+  xy: 737, 209
+  size: 49, 70
+  orig: 58, 70
+  offset: 1, 0
+  index: -1
+feixingqiantuiyou1
+  rotate: true
+  xy: 154, 2
+  size: 52, 74
+  orig: 69, 75
+  offset: 0, 1
+  index: -1
+feixingqiantuiyou2
+  rotate: true
+  xy: 517, 4
+  size: 46, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+feixingqianxiaotuiL
+  rotate: false
+  xy: 517, 52
+  size: 42, 77
+  orig: 54, 79
+  offset: 1, 2
+  index: -1
+houdatuiR
+  rotate: false
+  xy: 732, 80
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 741, 468
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: false
+  xy: 424, 21
+  size: 91, 93
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: true
+  xy: 741, 320
+  size: 70, 57
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+huo4
+  rotate: true
+  xy: 737, 281
+  size: 37, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+huo5
+  rotate: true
+  xy: 230, 9
+  size: 45, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+qiandatuiR
+  rotate: true
+  xy: 732, 42
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 606, 178
+  size: 145, 129
+  orig: 145, 129
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 606, 63
+  size: 124, 113
+  orig: 126, 113
+  offset: 2, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 309, 6
+  size: 108, 113
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 741, 392
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1

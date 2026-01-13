@@ -1,0 +1,125 @@
+
+ZhuCheng.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1329, 1260
+  size: 337, 194
+  orig: 337, 194
+  offset: 0, 0
+  index: -1
+1-flag
+  rotate: false
+  xy: 754, 775
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+2-flag
+  rotate: false
+  xy: 943, 777
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+3-flag
+  rotate: false
+  xy: 866, 777
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+4-flag
+  rotate: false
+  xy: 1017, 777
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+41
+  rotate: true
+  xy: 1125, 786
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+42
+  rotate: false
+  xy: 1158, 771
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+43
+  rotate: false
+  xy: 1088, 746
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Lv-1
+  rotate: false
+  xy: 2, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+Lv-2
+  rotate: false
+  xy: 654, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+Lv-3
+  rotate: false
+  xy: 677, 804
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+Lv-4
+  rotate: false
+  xy: 1306, 152
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+Lv-5
+  rotate: false
+  xy: 2, 654
+  size: 673, 800
+  orig: 673, 800
+  offset: 0, 0
+  index: -1
+chilun
+  rotate: true
+  xy: 677, 739
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+flag-lv1
+  rotate: true
+  xy: 827, 776
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+flag-lv2
+  rotate: true
+  xy: 827, 776
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+flag-lv3
+  rotate: true
+  xy: 1088, 779
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1

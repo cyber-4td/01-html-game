@@ -1,0 +1,118 @@
+
+huan.png
+size: 1431,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 730, 100
+  size: 283, 10
+  orig: 293, 10
+  offset: 1, 0
+  index: -1
+10
+  rotate: false
+  xy: 730, 88
+  size: 283, 10
+  orig: 293, 10
+  offset: 1, 0
+  index: -1
+2
+  rotate: false
+  xy: 730, 112
+  size: 258, 257
+  orig: 276, 278
+  offset: 10, 11
+  index: -1
+20
+  rotate: false
+  xy: 990, 112
+  size: 258, 257
+  orig: 276, 278
+  offset: 10, 11
+  index: -1
+3
+  rotate: false
+  xy: 1046, 26
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+30
+  rotate: true
+  xy: 1186, 2
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1116, 26
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+40
+  rotate: true
+  xy: 1272, 2
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 730, 11
+  size: 75, 156
+  orig: 75, 158
+  offset: 0, 1
+  index: -1
+50
+  rotate: true
+  xy: 888, 11
+  size: 75, 156
+  orig: 75, 158
+  offset: 0, 1
+  index: -1
+6
+  rotate: false
+  xy: 1250, 72
+  size: 179, 147
+  orig: 179, 149
+  offset: 0, 1
+  index: -1
+60
+  rotate: false
+  xy: 1250, 221
+  size: 179, 148
+  orig: 179, 149
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 4
+  size: 362, 365
+  orig: 390, 393
+  offset: 15, 14
+  index: -1
+70
+  rotate: false
+  xy: 366, 4
+  size: 362, 365
+  orig: 390, 393
+  offset: 15, 14
+  index: -1
+lizi2_0
+  rotate: false
+  xy: 1186, 80
+  size: 30, 30
+  orig: 64, 64
+  offset: 17, 17
+  index: -1
+lizi_0
+  rotate: false
+  xy: 1218, 80
+  size: 30, 30
+  orig: 64, 64
+  offset: 17, 17
+  index: -1

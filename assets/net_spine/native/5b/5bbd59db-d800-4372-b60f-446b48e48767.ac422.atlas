@@ -1,0 +1,174 @@
+
+dragon_jade.png
+size: 636,636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibangL
+  rotate: false
+  xy: 201, 275
+  size: 215, 177
+  orig: 215, 177
+  offset: 0, 0
+  index: -1
+chibangLbei
+  rotate: false
+  xy: 2, 295
+  size: 197, 339
+  orig: 197, 339
+  offset: 0, 0
+  index: -1
+chibangR
+  rotate: false
+  xy: 194, 81
+  size: 160, 192
+  orig: 160, 192
+  offset: 0, 0
+  index: -1
+chibangRbei1
+  rotate: true
+  xy: 201, 454
+  size: 180, 345
+  orig: 180, 345
+  offset: 0, 0
+  index: -1
+feixinghouxiaotuiL
+  rotate: false
+  xy: 564, 205
+  size: 54, 82
+  orig: 63, 84
+  offset: 1, 1
+  index: -1
+feixingqianxiaotuiL
+  rotate: false
+  xy: 555, 289
+  size: 54, 100
+  orig: 72, 103
+  offset: 2, 3
+  index: -1
+houdatuiL99
+  rotate: true
+  xy: 555, 391
+  size: 61, 79
+  orig: 65, 82
+  offset: 2, 1
+  index: -1
+houxiaotuiL98
+  rotate: false
+  xy: 548, 454
+  size: 62, 87
+  orig: 72, 88
+  offset: 1, 1
+  index: -1
+mutoukaijia1
+  rotate: false
+  xy: 89, 4
+  size: 73, 66
+  orig: 75, 68
+  offset: 1, 1
+  index: -1
+mutoukaijia2
+  rotate: false
+  xy: 486, 181
+  size: 76, 92
+  orig: 78, 94
+  offset: 1, 1
+  index: -1
+mutoukaijia3
+  rotate: true
+  xy: 564, 74
+  size: 46, 66
+  orig: 48, 69
+  offset: 1, 2
+  index: -1
+mutoukaijia4
+  rotate: false
+  xy: 486, 87
+  size: 76, 92
+  orig: 78, 94
+  offset: 1, 1
+  index: -1
+mutoukaijia5
+  rotate: true
+  xy: 356, 37
+  size: 45, 67
+  orig: 47, 69
+  offset: 1, 1
+  index: -1
+qiandatuiL199
+  rotate: true
+  xy: 269, 18
+  size: 61, 80
+  orig: 71, 82
+  offset: 9, 1
+  index: -1
+qiandatuiR
+  rotate: true
+  xy: 425, 31
+  size: 51, 63
+  orig: 53, 65
+  offset: 1, 1
+  index: -1
+qianxiaotuiL9
+  rotate: true
+  xy: 2, 5
+  size: 65, 85
+  orig: 88, 85
+  offset: 2, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 72
+  size: 221, 190
+  orig: 221, 228
+  offset: 0, 38
+  index: -1
+tou
+  rotate: true
+  xy: 418, 275
+  size: 177, 135
+  orig: 179, 139
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 356, 84
+  size: 128, 189
+  orig: 128, 189
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 548, 543
+  size: 91, 81
+  orig: 93, 83
+  offset: 1, 1
+  index: -1
+yezi1
+  rotate: true
+  xy: 194, 2
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 564, 122
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 490, 53
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: true
+  xy: 490, 19
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1

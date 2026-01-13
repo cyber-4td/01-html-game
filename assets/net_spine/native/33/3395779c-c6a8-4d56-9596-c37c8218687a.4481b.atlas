@@ -1,0 +1,83 @@
+
+red-fire-femaleLeg.png
+size: 99,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-L
+  rotate: true
+  xy: 32, 2
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+dress-L1
+  rotate: true
+  xy: 67, 127
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+dress-L2
+  rotate: true
+  xy: 2, 82
+  size: 95, 36
+  orig: 95, 36
+  offset: 0, 0
+  index: -1
+foot-L
+  rotate: true
+  xy: 40, 119
+  size: 27, 22
+  orig: 29, 25
+  offset: 1, 1
+  index: -1
+fur-1
+  rotate: true
+  xy: 64, 83
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+fur-2
+  rotate: false
+  xy: 2, 39
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+hand-L
+  rotate: true
+  xy: 40, 148
+  size: 29, 25
+  orig: 31, 27
+  offset: 1, 1
+  index: -1
+knee-L
+  rotate: true
+  xy: 40, 92
+  size: 25, 22
+  orig: 27, 24
+  offset: 1, 1
+  index: -1
+leg-L
+  rotate: true
+  xy: 2, 179
+  size: 58, 63
+  orig: 59, 63
+  offset: 1, 0
+  index: -1
+scarf-L
+  rotate: false
+  xy: 40, 44
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+scarf-L2
+  rotate: true
+  xy: 2, 2
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1

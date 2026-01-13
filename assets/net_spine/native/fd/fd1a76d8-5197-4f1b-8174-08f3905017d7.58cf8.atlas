@@ -1,0 +1,160 @@
+
+skeleton_guard_flail_valkyrie.png
+size: 1053,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mawei
+  rotate: false
+  xy: 960, 89
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: false
+  xy: 881, 83
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 641, 33
+  size: 134, 107
+  orig: 136, 109
+  offset: 1, 1
+  index: -1
+Youjianbang
+  rotate: false
+  xy: 708, 3
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 858, 7
+  size: 28, 27
+  orig: 30, 29
+  offset: 1, 1
+  index: -1
+Youshoubi
+  rotate: false
+  xy: 896, 43
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 896, 2
+  size: 35, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Zuojian
+  rotate: false
+  xy: 672, 4
+  size: 34, 27
+  orig: 36, 29
+  offset: 1, 1
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 641, 2
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+Zuoshoubi
+  rotate: true
+  xy: 858, 36
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: true
+  xy: 808, 8
+  size: 51, 48
+  orig: 53, 48
+  offset: 2, 0
+  index: -1
+dunpai
+  rotate: false
+  xy: 750, 61
+  size: 81, 107
+  orig: 83, 109
+  offset: 1, 1
+  index: -1
+effect/ll_0
+  rotate: false
+  xy: 887, 254
+  size: 146, 132
+  orig: 320, 320
+  offset: 1, 151
+  index: -1
+effect/ll_1
+  rotate: false
+  xy: 382, 16
+  size: 257, 151
+  orig: 320, 320
+  offset: 0, 148
+  index: -1
+effect/ll_2
+  rotate: false
+  xy: 382, 169
+  size: 298, 217
+  orig: 320, 320
+  offset: 0, 71
+  index: -1
+effect/ll_3
+  rotate: false
+  xy: 682, 170
+  size: 203, 216
+  orig: 320, 320
+  offset: 97, 81
+  index: -1
+effect/ll_4
+  rotate: true
+  xy: 887, 161
+  size: 91, 164
+  orig: 320, 320
+  offset: 215, 90
+  index: -1
+effect/qu_0
+  rotate: false
+  xy: 2, 8
+  size: 378, 378
+  orig: 400, 400
+  offset: 8, 14
+  index: -1
+toufahou
+  rotate: false
+  xy: 833, 81
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 750, 6
+  size: 53, 56
+  orig: 55, 58
+  offset: 1, 1
+  index: -1
+wuqi2
+  rotate: false
+  xy: 960, 23
+  size: 66, 64
+  orig: 68, 66
+  offset: 1, 1
+  index: -1
+wuqi3
+  rotate: false
+  xy: 1035, 328
+  size: 13, 58
+  orig: 13, 58
+  offset: 0, 0
+  index: -1

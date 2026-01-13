@@ -1,0 +1,174 @@
+
+demon_wizard_cure.png
+size: 494,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tou
+  rotate: false
+  xy: 126, 334
+  size: 159, 158
+  orig: 159, 159
+  offset: 0, 1
+  index: -1
+Youdabi
+  rotate: true
+  xy: 358, 336
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+Youerduo
+  rotate: false
+  xy: 409, 336
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Youqunbai
+  rotate: true
+  xy: 287, 336
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 2, 245
+  size: 122, 247
+  orig: 122, 247
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 442, 228
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Youxiaobi
+  rotate: false
+  xy: 440, 22
+  size: 46, 57
+  orig: 46, 218
+  offset: 0, 24
+  index: -1
+Zuodabi
+  rotate: false
+  xy: 186, 252
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+Zuoerduo
+  rotate: true
+  xy: 440, 81
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+Zuoqunbai
+  rotate: false
+  xy: 375, 148
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: false
+  xy: 442, 283
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+Zuoxiaobi
+  rotate: false
+  xy: 244, 64
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+dangbu
+  rotate: false
+  xy: 451, 163
+  size: 38, 63
+  orig: 44, 63
+  offset: 6, 0
+  index: -1
+effect/glow_0
+  rotate: false
+  xy: 2, 3
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/yuan2_0
+  rotate: false
+  xy: 244, 207
+  size: 125, 125
+  orig: 136, 136
+  offset: 4, 4
+  index: -1
+effect/yuan6_107
+  rotate: false
+  xy: 287, 380
+  size: 169, 112
+  orig: 179, 112
+  offset: 5, 0
+  index: -1
+houqunbai
+  rotate: true
+  xy: 371, 226
+  size: 108, 69
+  orig: 108, 70
+  offset: 0, 0
+  index: -1
+pijian
+  rotate: false
+  xy: 244, 135
+  size: 129, 70
+  orig: 129, 70
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 375, 60
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 244, 2
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 126, 298
+  size: 34, 115
+  orig: 34, 115
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 126, 245
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 458, 418
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+yaodaikou
+  rotate: false
+  xy: 455, 347
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1

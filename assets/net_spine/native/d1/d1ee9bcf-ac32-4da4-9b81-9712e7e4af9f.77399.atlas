@@ -1,0 +1,167 @@
+
+orc_bugler_war.png
+size: 986,655
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer1
+  rotate: true
+  xy: 2, 124
+  size: 167, 182
+  orig: 169, 184
+  offset: 1, 1
+  index: -1
+effect/0
+  rotate: true
+  xy: 877, 2
+  size: 121, 97
+  orig: 288, 250
+  offset: 5, 132
+  index: -1
+effect/1
+  rotate: false
+  xy: 735, 344
+  size: 235, 115
+  orig: 288, 250
+  offset: 5, 116
+  index: -1
+effect/2
+  rotate: false
+  xy: 404, 122
+  size: 271, 183
+  orig: 288, 250
+  offset: 5, 48
+  index: -1
+effect/3
+  rotate: false
+  xy: 677, 122
+  size: 198, 183
+  orig: 288, 250
+  offset: 78, 48
+  index: -1
+effect/4
+  rotate: true
+  xy: 362, 20
+  size: 100, 174
+  orig: 288, 250
+  offset: 176, 48
+  index: -1
+effect/5
+  rotate: true
+  xy: 538, 20
+  size: 100, 106
+  orig: 288, 250
+  offset: 176, 48
+  index: -1
+effect1/a_0
+  rotate: false
+  xy: 2, 293
+  size: 400, 360
+  orig: 400, 400
+  offset: 0, 17
+  index: -1
+effect1/c_0
+  rotate: false
+  xy: 404, 307
+  size: 329, 346
+  orig: 400, 400
+  offset: 27, 34
+  index: -1
+haojiao
+  rotate: true
+  xy: 260, 8
+  size: 151, 100
+  orig: 151, 100
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 646, 31
+  size: 104, 89
+  orig: 106, 92
+  offset: 1, 1
+  index: -1
+kuzi
+  rotate: true
+  xy: 912, 535
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 735, 461
+  size: 175, 192
+  orig: 175, 192
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 133, 40
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 186, 84
+  size: 207, 72
+  orig: 209, 74
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: true
+  xy: 186, 13
+  size: 69, 51
+  orig: 69, 53
+  offset: 0, 1
+  index: -1
+youshou1
+  rotate: true
+  xy: 877, 125
+  size: 103, 101
+  orig: 105, 103
+  offset: 1, 1
+  index: -1
+youshou2
+  rotate: true
+  xy: 260, 161
+  size: 130, 118
+  orig: 140, 120
+  offset: 2, 1
+  index: -1
+youshouzhi
+  rotate: false
+  xy: 752, 4
+  size: 65, 56
+  orig: 67, 58
+  offset: 1, 1
+  index: -1
+zuojiao
+  rotate: false
+  xy: 912, 478
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 877, 230
+  size: 112, 107
+  orig: 114, 110
+  offset: 1, 1
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 2, 2
+  size: 120, 129
+  orig: 120, 129
+  offset: 0, 0
+  index: -1
+zuoshouzhi
+  rotate: false
+  xy: 752, 62
+  size: 88, 58
+  orig: 91, 60
+  offset: 2, 1
+  index: -1

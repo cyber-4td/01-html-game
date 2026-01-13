@@ -1,0 +1,90 @@
+
+huo.png
+size: 648,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo_10
+  rotate: true
+  xy: 2, 449
+  size: 215, 316
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+huo_12
+  rotate: true
+  xy: 320, 247
+  size: 217, 293
+  orig: 224, 335
+  offset: 0, 2
+  index: -1
+huo_13
+  rotate: false
+  xy: 2, 2
+  size: 216, 243
+  orig: 224, 335
+  offset: 0, 12
+  index: -1
+huo_14
+  rotate: false
+  xy: 220, 13
+  size: 215, 232
+  orig: 224, 335
+  offset: 0, 24
+  index: -1
+huo_16
+  rotate: true
+  xy: 437, 32
+  size: 213, 201
+  orig: 224, 335
+  offset: 0, 43
+  index: -1
+huo_17
+  rotate: false
+  xy: 2, 255
+  size: 208, 192
+  orig: 224, 335
+  offset: 0, 44
+  index: -1
+huo_2
+  rotate: false
+  xy: 212, 327
+  size: 38, 120
+  orig: 224, 335
+  offset: 0, 142
+  index: -1
+huo_4
+  rotate: true
+  xy: 320, 466
+  size: 182, 315
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+huo_5
+  rotate: true
+  xy: 2, 880
+  size: 193, 323
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+huo_6
+  rotate: true
+  xy: 325, 650
+  size: 206, 321
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+huo_8
+  rotate: true
+  xy: 2, 666
+  size: 212, 321
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+huo_9
+  rotate: true
+  xy: 327, 858
+  size: 215, 319
+  orig: 224, 335
+  offset: 0, 0
+  index: -1

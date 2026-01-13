@@ -1,0 +1,13 @@
+
+ronglu-flag.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qz1_xin
+  rotate: true
+  xy: 2, 2
+  size: 194, 548
+  orig: 194, 548
+  offset: 0, 0
+  index: -1

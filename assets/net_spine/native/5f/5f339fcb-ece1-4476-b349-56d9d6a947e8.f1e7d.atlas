@@ -1,0 +1,83 @@
+
+bombman.png
+size: 209,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dazhadan
+  rotate: true
+  xy: 2, 106
+  size: 100, 110
+  orig: 102, 112
+  offset: 1, 1
+  index: -1
+Layer1
+  rotate: true
+  xy: 80, 24
+  size: 35, 32
+  orig: 37, 34
+  offset: 1, 1
+  index: -1
+Shenti
+  rotate: false
+  xy: 2, 32
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 114, 84
+  size: 122, 82
+  orig: 124, 84
+  offset: 1, 1
+  index: -1
+YouDabi
+  rotate: false
+  xy: 114, 7
+  size: 39, 33
+  orig: 41, 35
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 2, 2
+  size: 33, 28
+  orig: 35, 30
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: true
+  xy: 155, 3
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 37, 4
+  size: 28, 26
+  orig: 30, 28
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 80, 61
+  size: 32, 43
+  orig: 34, 45
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: true
+  xy: 164, 40
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+xiaoZHADAN
+  rotate: true
+  xy: 114, 42
+  size: 40, 48
+  orig: 42, 50
+  offset: 1, 1
+  index: -1

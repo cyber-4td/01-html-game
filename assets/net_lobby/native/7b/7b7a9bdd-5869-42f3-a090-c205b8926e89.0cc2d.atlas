@@ -1,0 +1,48 @@
+
+lx_ChuanSong_Red.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_BlueSpinning1
+  rotate: true
+  xy: 108, 38
+  size: 62, 63
+  orig: 96, 96
+  offset: 19, 16
+  index: -1
+eff_Glow_000
+  rotate: false
+  xy: 108, 2
+  size: 34, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1
+eff_PointPar
+  rotate: false
+  xy: 144, 24
+  size: 12, 12
+  orig: 16, 16
+  offset: 2, 2
+  index: -1
+eff_WhiteSpinning1
+  rotate: true
+  xy: 173, 9
+  size: 42, 43
+  orig: 51, 51
+  offset: 5, 3
+  index: -1
+eff_WhiteSpinning4
+  rotate: true
+  xy: 173, 53
+  size: 47, 43
+  orig: 51, 51
+  offset: 2, 4
+  index: -1
+self_ChuanSong_Red
+  rotate: true
+  xy: 2, 8
+  size: 92, 104
+  orig: 110, 120
+  offset: 9, 7
+  index: -1

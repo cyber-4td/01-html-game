@@ -1,0 +1,27 @@
+
+guangaotuquan.png
+size: 192,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianshi
+  rotate: true
+  xy: 34, 124
+  size: 66, 73
+  orig: 68, 75
+  offset: 1, 1
+  index: -1
+dikuang
+  rotate: false
+  xy: 109, 109
+  size: 81, 81
+  orig: 83, 83
+  offset: 1, 1
+  index: -1
+wu
+  rotate: false
+  xy: 2, 160
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1

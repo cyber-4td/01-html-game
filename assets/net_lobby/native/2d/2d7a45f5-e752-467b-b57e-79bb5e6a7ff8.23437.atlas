@@ -1,0 +1,27 @@
+
+yingdiniao_2.png
+size: 115,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang3
+  rotate: false
+  xy: 5, 58
+  size: 41, 114
+  orig: 68, 116
+  offset: 20, 2
+  index: -1
+chibang4
+  rotate: false
+  xy: 48, 78
+  size: 63, 94
+  orig: 65, 96
+  offset: 2, 2
+  index: -1
+niao2
+  rotate: false
+  xy: 5, 7
+  size: 102, 50
+  orig: 104, 69
+  offset: 2, 0
+  index: -1

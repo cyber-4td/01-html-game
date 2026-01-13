@@ -1,0 +1,20 @@
+
+citiao.png
+size: 844,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_img2_4up
+  rotate: false
+  xy: 2, 761
+  size: 678, 81
+  orig: 680, 83
+  offset: 1, 1
+  index: -1
+saoguang
+  rotate: true
+  xy: 682, 742
+  size: 100, 160
+  orig: 102, 162
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,174 @@
+
+redPlus-water-maleLeg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N_dabi1
+  rotate: true
+  xy: 325, 214
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+N_duanxiu1
+  rotate: true
+  xy: 589, 24
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+N_haixing
+  rotate: true
+  xy: 630, 83
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+N_huahuan1
+  rotate: true
+  xy: 530, 10
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+N_qunzi
+  rotate: false
+  xy: 184, 2
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+N_shou1
+  rotate: true
+  xy: 661, 47
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+N_xiaobi1
+  rotate: true
+  xy: 629, 16
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+N_youtu
+  rotate: false
+  xy: 530, 55
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+effect/caiho_0
+  rotate: true
+  xy: 2, 206
+  size: 300, 226
+  orig: 300, 226
+  offset: 0, 0
+  index: -1
+effect/paopao2_0
+  rotate: false
+  xy: 184, 54
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/star2_0
+  rotate: false
+  xy: 600, 121
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+effect/star_0
+  rotate: false
+  xy: 2, 24
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+effect/starba_0
+  rotate: false
+  xy: 230, 376
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_1
+  rotate: false
+  xy: 230, 244
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_2
+  rotate: false
+  xy: 336, 82
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_3
+  rotate: false
+  xy: 362, 376
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_4
+  rotate: false
+  xy: 362, 244
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_5
+  rotate: false
+  xy: 468, 112
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_6
+  rotate: false
+  xy: 494, 376
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_7
+  rotate: false
+  xy: 494, 244
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/yb_0
+  rotate: false
+  xy: 583, 65
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+effect/yu_0
+  rotate: true
+  xy: 336, 3
+  size: 77, 192
+  orig: 77, 192
+  offset: 0, 0
+  index: -1
+niao1-body
+  rotate: false
+  xy: 230, 213
+  size: 93, 29
+  orig: 93, 29
+  offset: 0, 0
+  index: -1
+niao1-chibang1-1
+  rotate: true
+  xy: 269, 5
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1

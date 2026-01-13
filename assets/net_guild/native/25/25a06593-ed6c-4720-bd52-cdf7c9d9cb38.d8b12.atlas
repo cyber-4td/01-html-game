@@ -1,0 +1,41 @@
+
+juDian-boss.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dboos
+  rotate: false
+  xy: 387, 2
+  size: 532, 351
+  orig: 532, 351
+  offset: 0, 0
+  index: -1
+Dboos-1
+  rotate: false
+  xy: 921, 2
+  size: 532, 351
+  orig: 532, 351
+  offset: 0, 0
+  index: -1
+Rqizi3
+  rotate: false
+  xy: 157, 297
+  size: 143, 56
+  orig: 145, 58
+  offset: 1, 1
+  index: -1
+Xjundian2-2
+  rotate: true
+  xy: 2, 309
+  size: 44, 153
+  orig: 46, 155
+  offset: 1, 1
+  index: -1
+Xjundian3-2
+  rotate: false
+  xy: 302, 270
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

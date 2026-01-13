@@ -1,0 +1,258 @@
+
+kodo_armor.png
+size: 1921,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anju
+  rotate: false
+  xy: 1042, 5
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+effect/2
+  rotate: false
+  xy: 2, 6
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/3
+  rotate: false
+  xy: 727, 53
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/4
+  rotate: false
+  xy: 830, 333
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/5
+  rotate: false
+  xy: 969, 91
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/6
+  rotate: false
+  xy: 1072, 333
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+effect/a_0
+  rotate: true
+  xy: 1211, 129
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+effect/a_2
+  rotate: true
+  xy: 1314, 371
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+effect/a_3
+  rotate: true
+  xy: 1393, 167
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+effect/a_5
+  rotate: true
+  xy: 1496, 371
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+effect/a_6
+  rotate: true
+  xy: 1575, 167
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+effect/a_8
+  rotate: true
+  xy: 1678, 371
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+effect/wu_0
+  rotate: true
+  xy: 244, 15
+  size: 278, 159
+  orig: 278, 159
+  offset: 0, 0
+  index: -1
+effect/wu_2
+  rotate: true
+  xy: 347, 295
+  size: 278, 159
+  orig: 278, 159
+  offset: 0, 0
+  index: -1
+effect/wu_3
+  rotate: true
+  xy: 405, 15
+  size: 278, 159
+  orig: 278, 159
+  offset: 0, 0
+  index: -1
+effect/wu_5
+  rotate: true
+  xy: 508, 295
+  size: 278, 159
+  orig: 278, 159
+  offset: 0, 0
+  index: -1
+effect/wu_6
+  rotate: true
+  xy: 566, 15
+  size: 278, 159
+  orig: 278, 159
+  offset: 0, 0
+  index: -1
+effect/wu_7
+  rotate: true
+  xy: 669, 295
+  size: 278, 159
+  orig: 278, 159
+  offset: 0, 0
+  index: -1
+effect/wu_9
+  rotate: true
+  xy: 186, 295
+  size: 278, 159
+  orig: 278, 159
+  offset: 0, 0
+  index: -1
+houtui1
+  rotate: false
+  xy: 1830, 32
+  size: 70, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+houtui2
+  rotate: false
+  xy: 1834, 141
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+hujia2
+  rotate: true
+  xy: 1357, 9
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 1281, 4
+  size: 74, 123
+  orig: 74, 123
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 1860, 402
+  size: 58, 89
+  orig: 58, 89
+  offset: 0, 0
+  index: -1
+kulou
+  rotate: false
+  xy: 727, 3
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+pigujia
+  rotate: true
+  xy: 1757, 169
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+qiantui1
+  rotate: true
+  xy: 1159, 7
+  size: 82, 120
+  orig: 82, 120
+  offset: 0, 0
+  index: -1
+qiantui2
+  rotate: false
+  xy: 1830, 251
+  size: 80, 118
+  orig: 80, 118
+  offset: 0, 0
+  index: -1
+qigan
+  rotate: true
+  xy: 776, 28
+  size: 23, 151
+  orig: 23, 151
+  offset: 0, 0
+  index: -1
+qigan2
+  rotate: false
+  xy: 776, 4
+  size: 98, 22
+  orig: 98, 22
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: false
+  xy: 1860, 493
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 248
+  size: 325, 182
+  orig: 325, 182
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1468, 5
+  size: 185, 160
+  orig: 185, 160
+  offset: 0, 0
+  index: -1
+toujia
+  rotate: false
+  xy: 1655, 15
+  size: 173, 150
+  orig: 173, 150
+  offset: 0, 0
+  index: -1
+toujia2
+  rotate: true
+  xy: 969, 2
+  size: 87, 71
+  orig: 87, 71
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 1757, 255
+  size: 114, 70
+  orig: 114, 70
+  offset: 0, 0
+  index: -1

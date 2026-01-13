@@ -1,0 +1,146 @@
+
+SS-cossbow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon/di_0
+  rotate: false
+  xy: 438, 422
+  size: 266, 226
+  orig: 300, 270
+  offset: 16, 23
+  index: -1
+weapon/ss/HuaGui
+  rotate: false
+  xy: 908, 565
+  size: 103, 83
+  orig: 105, 85
+  offset: 1, 1
+  index: -1
+weapon/ss/crossbow
+  rotate: false
+  xy: 2, 294
+  size: 434, 354
+  orig: 434, 354
+  offset: 0, 0
+  index: -1
+weapon/ss/decorate
+  rotate: false
+  xy: 706, 483
+  size: 200, 165
+  orig: 202, 167
+  offset: 1, 1
+  index: -1
+weapon/ss/decorateB
+  rotate: true
+  xy: 908, 438
+  size: 125, 70
+  orig: 127, 72
+  offset: 1, 1
+  index: -1
+weapon/ss/diamonB
+  rotate: true
+  xy: 980, 478
+  size: 53, 27
+  orig: 56, 29
+  offset: 1, 1
+  index: -1
+weapon/ss/diamondA
+  rotate: false
+  xy: 980, 533
+  size: 33, 30
+  orig: 36, 32
+  offset: 1, 1
+  index: -1
+weapon/ss/effect/b_0
+  rotate: false
+  xy: 2, 2
+  size: 145, 144
+  orig: 173, 167
+  offset: 12, 8
+  index: -1
+weapon/ss/effect/b_1
+  rotate: true
+  xy: 582, 80
+  size: 137, 141
+  orig: 173, 167
+  offset: 20, 8
+  index: -1
+weapon/ss/effect/b_2
+  rotate: false
+  xy: 2, 148
+  size: 147, 144
+  orig: 173, 167
+  offset: 10, 9
+  index: -1
+weapon/ss/effect/b_3
+  rotate: false
+  xy: 151, 152
+  size: 147, 140
+  orig: 173, 167
+  offset: 10, 17
+  index: -1
+weapon/ss/effect/b_4
+  rotate: false
+  xy: 762, 81
+  size: 148, 143
+  orig: 173, 167
+  offset: 9, 15
+  index: -1
+weapon/ss/effect/b_5
+  rotate: true
+  xy: 762, 226
+  size: 128, 152
+  orig: 173, 167
+  offset: 29, 6
+  index: -1
+weapon/ss/effect/b_6
+  rotate: true
+  xy: 606, 219
+  size: 135, 154
+  orig: 173, 167
+  offset: 22, 4
+  index: -1
+weapon/ss/effect/b_7
+  rotate: false
+  xy: 437, 145
+  size: 143, 142
+  orig: 173, 167
+  offset: 14, 11
+  index: -1
+weapon/ss/effect/b_8
+  rotate: false
+  xy: 151, 10
+  size: 146, 140
+  orig: 173, 167
+  offset: 11, 12
+  index: -1
+weapon/ss/effect/b_9
+  rotate: false
+  xy: 299, 10
+  size: 130, 139
+  orig: 173, 167
+  offset: 27, 12
+  index: -1
+weapon/ss/effect/guang_0
+  rotate: true
+  xy: 438, 289
+  size: 131, 166
+  orig: 201, 194
+  offset: 53, 21
+  index: -1
+weapon/ss/line
+  rotate: true
+  xy: 706, 356
+  size: 125, 195
+  orig: 125, 195
+  offset: 0, 0
+  index: -1
+weapon/star_0
+  rotate: false
+  xy: 300, 151
+  size: 135, 141
+  orig: 150, 150
+  offset: 7, 4
+  index: -1

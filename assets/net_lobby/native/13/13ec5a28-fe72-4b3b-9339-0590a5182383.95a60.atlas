@@ -1,0 +1,48 @@
+
+gaojizhaohuanguangxiao.png
+size: 635,635
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/eff_ui_zhaomu_tex_38
+  rotate: false
+  xy: 2, 2
+  size: 165, 159
+  orig: 256, 256
+  offset: 50, 51
+  index: -1
+images/kabei_1
+  rotate: false
+  xy: 284, 377
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/public_yinshen_mutl_D_00
+  rotate: false
+  xy: 284, 119
+  size: 254, 256
+  orig: 256, 256
+  offset: 1, 0
+  index: -1
+images/ring_1
+  rotate: false
+  xy: 2, 163
+  size: 194, 194
+  orig: 256, 256
+  offset: 31, 31
+  index: -1
+images/ringsav_10
+  rotate: false
+  xy: 2, 359
+  size: 280, 274
+  orig: 280, 280
+  offset: 0, 6
+  index: -1
+images/uieffect_1158
+  rotate: false
+  xy: 169, 115
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1

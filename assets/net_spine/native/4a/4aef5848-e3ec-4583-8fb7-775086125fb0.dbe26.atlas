@@ -1,0 +1,90 @@
+
+slime_metal_split.png
+size: 310,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci1
+  rotate: false
+  xy: 284, 72
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+ci2
+  rotate: false
+  xy: 284, 43
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+ci3
+  rotate: true
+  xy: 182, 30
+  size: 45, 48
+  orig: 48, 50
+  offset: 1, 1
+  index: -1
+ci4
+  rotate: false
+  xy: 271, 8
+  size: 35, 32
+  orig: 37, 34
+  offset: 1, 1
+  index: -1
+ci5
+  rotate: true
+  xy: 232, 42
+  size: 37, 50
+  orig: 129, 57
+  offset: 91, 6
+  index: -1
+kuLou1
+  rotate: false
+  xy: 182, 77
+  size: 47, 61
+  orig: 49, 63
+  offset: 1, 1
+  index: -1
+kuLou2
+  rotate: false
+  xy: 232, 7
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+kuLou3
+  rotate: false
+  xy: 231, 101
+  size: 53, 37
+  orig: 55, 39
+  offset: 1, 1
+  index: -1
+shen
+  rotate: false
+  xy: 2, 2
+  size: 178, 136
+  orig: 178, 136
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 231, 91
+  size: 8, 16
+  orig: 10, 18
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: true
+  xy: 231, 81
+  size: 8, 16
+  orig: 10, 18
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 182, 2
+  size: 41, 26
+  orig: 43, 28
+  offset: 1, 1
+  index: -1

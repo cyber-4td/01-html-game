@@ -1,0 +1,132 @@
+
+lx_Icon_Danger.png
+size: 242,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Delete_Icon
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+cht
+  rotate: false
+  xy: 150, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+eff_Shine_00
+  rotate: false
+  xy: 2, 256
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_01
+  rotate: false
+  xy: 62, 256
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_02
+  rotate: false
+  xy: 122, 256
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_03
+  rotate: false
+  xy: 182, 256
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_04
+  rotate: false
+  xy: 2, 196
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_05
+  rotate: false
+  xy: 62, 196
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_06
+  rotate: false
+  xy: 122, 196
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_07
+  rotate: false
+  xy: 182, 196
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_08
+  rotate: false
+  xy: 2, 136
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_09
+  rotate: false
+  xy: 62, 136
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_10
+  rotate: false
+  xy: 122, 136
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_11
+  rotate: false
+  xy: 182, 136
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_12
+  rotate: false
+  xy: 2, 76
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_13
+  rotate: false
+  xy: 62, 76
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_Shine_14
+  rotate: false
+  xy: 122, 76
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+kr
+  rotate: false
+  xy: 76, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+zr.png
+size: 1812,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 97
+  size: 256, 267
+  orig: 263, 313
+  offset: 6, 23
+  index: -1
+6
+  rotate: false
+  xy: 163, 2
+  size: 53, 93
+  orig: 53, 93
+  offset: 0, 0
+  index: -1
+effect/5_0
+  rotate: true
+  xy: 2, 5
+  size: 90, 159
+  orig: 90, 159
+  offset: 0, 0
+  index: -1
+effect/z_0
+  rotate: true
+  xy: 260, 172
+  size: 192, 167
+  orig: 204, 178
+  offset: 3, 11
+  index: -1
+effect/z_10
+  rotate: false
+  xy: 1036, 4
+  size: 192, 166
+  orig: 204, 178
+  offset: 3, 12
+  index: -1
+effect/z_12
+  rotate: true
+  xy: 1272, 172
+  size: 192, 163
+  orig: 204, 178
+  offset: 3, 13
+  index: -1
+effect/z_14
+  rotate: false
+  xy: 1618, 202
+  size: 192, 162
+  orig: 204, 178
+  offset: 3, 13
+  index: -1
+effect/z_16
+  rotate: false
+  xy: 1618, 40
+  size: 192, 160
+  orig: 204, 178
+  offset: 3, 14
+  index: -1
+effect/z_18
+  rotate: true
+  xy: 1437, 172
+  size: 192, 161
+  orig: 204, 178
+  offset: 3, 13
+  index: -1
+effect/z_2
+  rotate: false
+  xy: 260, 3
+  size: 192, 167
+  orig: 204, 178
+  offset: 3, 11
+  index: -1
+effect/z_20
+  rotate: false
+  xy: 1424, 7
+  size: 192, 163
+  orig: 204, 178
+  offset: 3, 13
+  index: -1
+effect/z_22
+  rotate: false
+  xy: 1230, 5
+  size: 192, 165
+  orig: 204, 178
+  offset: 3, 12
+  index: -1
+effect/z_24
+  rotate: true
+  xy: 1104, 172
+  size: 192, 166
+  orig: 204, 178
+  offset: 3, 12
+  index: -1
+effect/z_26
+  rotate: false
+  xy: 454, 3
+  size: 192, 167
+  orig: 204, 178
+  offset: 3, 11
+  index: -1
+effect/z_28
+  rotate: true
+  xy: 598, 172
+  size: 192, 167
+  orig: 204, 178
+  offset: 3, 11
+  index: -1
+effect/z_30
+  rotate: false
+  xy: 648, 3
+  size: 192, 167
+  orig: 204, 178
+  offset: 3, 11
+  index: -1
+effect/z_31
+  rotate: true
+  xy: 767, 172
+  size: 192, 167
+  orig: 204, 178
+  offset: 3, 11
+  index: -1
+effect/z_4
+  rotate: true
+  xy: 429, 172
+  size: 192, 167
+  orig: 204, 178
+  offset: 3, 11
+  index: -1
+effect/z_6
+  rotate: false
+  xy: 842, 4
+  size: 192, 166
+  orig: 204, 178
+  offset: 3, 12
+  index: -1
+effect/z_8
+  rotate: true
+  xy: 936, 172
+  size: 192, 166
+  orig: 204, 178
+  offset: 3, 12
+  index: -1

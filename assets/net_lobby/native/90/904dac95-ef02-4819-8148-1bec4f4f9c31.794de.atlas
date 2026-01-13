@@ -1,0 +1,41 @@
+
+changku.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 2, 2
+  size: 264, 151
+  orig: 266, 151
+  offset: 2, 0
+  index: -1
+l1
+  rotate: true
+  xy: 155, 52
+  size: 214, 142
+  orig: 214, 143
+  offset: 0, 0
+  index: -1
+l2
+  rotate: true
+  xy: 299, 88
+  size: 214, 151
+  orig: 214, 151
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 218, 304
+  size: 214, 170
+  orig: 214, 170
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 2, 268
+  size: 214, 206
+  orig: 214, 206
+  offset: 0, 0
+  index: -1

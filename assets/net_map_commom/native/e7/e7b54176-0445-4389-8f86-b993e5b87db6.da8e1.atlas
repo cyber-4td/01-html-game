@@ -1,0 +1,41 @@
+
+wall-base.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 212, 107
+  size: 187, 112
+  orig: 187, 112
+  offset: 0, 0
+  index: -1
+1/1
+  rotate: true
+  xy: 212, 12
+  size: 93, 185
+  orig: 177, 296
+  offset: 42, 33
+  index: -1
+2/2
+  rotate: false
+  xy: 107, 8
+  size: 103, 211
+  orig: 177, 296
+  offset: 37, 33
+  index: -1
+3/3
+  rotate: false
+  xy: 2, 2
+  size: 103, 217
+  orig: 177, 296
+  offset: 37, 33
+  index: -1
+base1
+  rotate: true
+  xy: 401, 101
+  size: 118, 77
+  orig: 118, 77
+  offset: 0, 0
+  index: -1

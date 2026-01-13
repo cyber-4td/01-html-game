@@ -1,0 +1,20 @@
+
+zhuangbeijiemiansaoguang.png
+size: 589,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saoguang
+  rotate: false
+  xy: 2, 66
+  size: 434, 521
+  orig: 436, 523
+  offset: 1, 1
+  index: -1
+xing
+  rotate: false
+  xy: 2, 2
+  size: 62, 62
+  orig: 66, 66
+  offset: 2, 2
+  index: -1

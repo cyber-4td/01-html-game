@@ -1,0 +1,167 @@
+
+archers3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/gong
+  rotate: false
+  xy: 2, 216
+  size: 164, 294
+  orig: 164, 294
+  offset: 0, 0
+  index: -1
+3/jian
+  rotate: true
+  xy: 288, 259
+  size: 251, 120
+  orig: 251, 120
+  offset: 0, 0
+  index: -1
+3/jiandai
+  rotate: false
+  xy: 410, 259
+  size: 137, 92
+  orig: 137, 92
+  offset: 0, 0
+  index: -1
+3/jiao
+  rotate: false
+  xy: 686, 180
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+3/jiao1
+  rotate: false
+  xy: 664, 434
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+3/jinshu
+  rotate: false
+  xy: 664, 363
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+3/lian
+  rotate: true
+  xy: 530, 360
+  size: 150, 132
+  orig: 150, 132
+  offset: 0, 0
+  index: -1
+3/lingkou
+  rotate: true
+  xy: 2, 16
+  size: 198, 66
+  orig: 198, 66
+  offset: 0, 0
+  index: -1
+3/maoyan
+  rotate: true
+  xy: 168, 242
+  size: 268, 118
+  orig: 268, 118
+  offset: 0, 0
+  index: -1
+3/maozi
+  rotate: false
+  xy: 70, 29
+  size: 259, 185
+  orig: 259, 185
+  offset: 0, 0
+  index: -1
+3/piaodai
+  rotate: false
+  xy: 703, 286
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+3/shangshen
+  rotate: true
+  xy: 524, 113
+  size: 144, 86
+  orig: 144, 86
+  offset: 0, 0
+  index: -1
+3/shou
+  rotate: true
+  xy: 549, 259
+  size: 99, 64
+  orig: 99, 64
+  offset: 0, 0
+  index: -1
+3/shou1
+  rotate: false
+  xy: 331, 2
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+3/toufa
+  rotate: false
+  xy: 612, 138
+  size: 72, 119
+  orig: 72, 119
+  offset: 0, 0
+  index: -1
+3/toufa2
+  rotate: false
+  xy: 612, 138
+  size: 72, 119
+  orig: 72, 119
+  offset: 0, 0
+  index: -1
+3/toufa3
+  rotate: false
+  xy: 550, 11
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+3/toufa4
+  rotate: false
+  xy: 435, 2
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+3/toufa5
+  rotate: false
+  xy: 626, 42
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+3/xian
+  rotate: false
+  xy: 432, 109
+  size: 90, 148
+  orig: 90, 148
+  offset: 0, 0
+  index: -1
+3/xian1
+  rotate: true
+  xy: 331, 89
+  size: 168, 99
+  orig: 168, 99
+  offset: 0, 0
+  index: -1
+3/xiashen
+  rotate: true
+  xy: 410, 353
+  size: 157, 118
+  orig: 157, 118
+  offset: 0, 0
+  index: -1
+3/yumao
+  rotate: false
+  xy: 615, 262
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1

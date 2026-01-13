@@ -1,0 +1,90 @@
+
+lx_TechAvatarFrame.png
+size: 510,431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_Circle1_000
+  rotate: false
+  xy: 135, 299
+  size: 130, 130
+  orig: 144, 144
+  offset: 7, 7
+  index: -1
+eff_CircleGlow_000
+  rotate: false
+  xy: 2, 306
+  size: 131, 123
+  orig: 144, 144
+  offset: 7, 11
+  index: -1
+eff_CircleGlow_001
+  rotate: false
+  xy: 130, 174
+  size: 130, 123
+  orig: 144, 144
+  offset: 7, 12
+  index: -1
+eff_CircleGlow_002
+  rotate: true
+  xy: 389, 173
+  size: 129, 119
+  orig: 144, 144
+  offset: 7, 16
+  index: -1
+eff_CircleGlow_003
+  rotate: true
+  xy: 129, 45
+  size: 127, 124
+  orig: 144, 144
+  offset: 7, 12
+  index: -1
+eff_CircleGlow_004
+  rotate: false
+  xy: 267, 304
+  size: 126, 125
+  orig: 144, 144
+  offset: 7, 10
+  index: -1
+eff_CircleGlow_005
+  rotate: true
+  xy: 2, 176
+  size: 128, 126
+  orig: 144, 144
+  offset: 6, 9
+  index: -1
+eff_CircleGlow_006
+  rotate: true
+  xy: 262, 170
+  size: 127, 125
+  orig: 144, 144
+  offset: 8, 10
+  index: -1
+eff_CircleGlow_007
+  rotate: true
+  xy: 2, 46
+  size: 128, 125
+  orig: 144, 144
+  offset: 8, 10
+  index: -1
+eff_CircleGlow_008
+  rotate: false
+  xy: 255, 45
+  size: 128, 123
+  orig: 144, 144
+  offset: 8, 12
+  index: -1
+eff_CircleGlow_009
+  rotate: true
+  xy: 385, 38
+  size: 130, 122
+  orig: 144, 144
+  offset: 8, 12
+  index: -1
+eff_Star_Yellow
+  rotate: true
+  xy: 2, 2
+  size: 42, 43
+  orig: 55, 58
+  offset: 6, 8
+  index: -1

@@ -1,0 +1,111 @@
+
+archers2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+archers_0000_lefthand
+  rotate: true
+  xy: 198, 7
+  size: 87, 51
+  orig: 87, 51
+  offset: 0, 0
+  index: -1
+archers_0001_arrow
+  rotate: true
+  xy: 2, 120
+  size: 224, 75
+  orig: 224, 75
+  offset: 0, 0
+  index: -1
+archers_0002_weapon
+  rotate: false
+  xy: 302, 287
+  size: 167, 217
+  orig: 167, 217
+  offset: 0, 0
+  index: -1
+archers_0003_hatdecor
+  rotate: true
+  xy: 383, 73
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+archers_0004_hat
+  rotate: false
+  xy: 2, 346
+  size: 298, 158
+  orig: 298, 158
+  offset: 0, 0
+  index: -1
+archers_0005_hair1
+  rotate: true
+  xy: 369, 222
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+archers_0005_yiling
+  rotate: true
+  xy: 203, 168
+  size: 176, 57
+  orig: 176, 57
+  offset: 0, 0
+  index: -1
+archers_0007_face
+  rotate: true
+  xy: 79, 69
+  size: 132, 117
+  orig: 133, 117
+  offset: 0, 0
+  index: -1
+archers_0007_hair2
+  rotate: true
+  xy: 79, 2
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+archers_0009_body
+  rotate: true
+  xy: 79, 203
+  size: 141, 122
+  orig: 141, 122
+  offset: 0, 0
+  index: -1
+archers_0010_feet1
+  rotate: false
+  xy: 198, 96
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+archers_0011_feet2
+  rotate: true
+  xy: 369, 157
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+archers_0011_hair3
+  rotate: true
+  xy: 262, 154
+  size: 131, 105
+  orig: 131, 105
+  offset: 0, 0
+  index: -1
+archers_0013_righthand
+  rotate: true
+  xy: 2, 28
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+archers_0014_jiantong
+  rotate: false
+  xy: 259, 71
+  size: 122, 81
+  orig: 122, 81
+  offset: 0, 0
+  index: -1

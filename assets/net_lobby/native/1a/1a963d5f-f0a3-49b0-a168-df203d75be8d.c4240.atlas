@@ -1,0 +1,20 @@
+
+f1.png
+size: 194,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/kuan_0
+  rotate: false
+  xy: 2, 2
+  size: 166, 164
+  orig: 180, 180
+  offset: 6, 10
+  index: -1
+image/lizi_0
+  rotate: false
+  xy: 170, 144
+  size: 22, 22
+  orig: 30, 30
+  offset: 3, 4
+  index: -1

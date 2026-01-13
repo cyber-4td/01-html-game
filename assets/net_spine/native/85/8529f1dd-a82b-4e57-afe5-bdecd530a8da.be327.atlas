@@ -1,0 +1,195 @@
+
+redPlus-water-femaleLeg.png
+size: 659,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N_dabi1
+  rotate: false
+  xy: 394, 7
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+N_haixing
+  rotate: true
+  xy: 479, 67
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+N_jianjia1
+  rotate: false
+  xy: 361, 58
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+N_jianjia2
+  rotate: false
+  xy: 130, 4
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+N_qunzi1
+  rotate: true
+  xy: 2, 4
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+N_qunzi2
+  rotate: false
+  xy: 165, 5
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+N_qunzi3
+  rotate: true
+  xy: 81, 2
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+N_qunzi4
+  rotate: false
+  xy: 252, 9
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+N_shou1
+  rotate: true
+  xy: 220, 6
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+N_xiaobi1
+  rotate: true
+  xy: 425, 9
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+N_youtu
+  rotate: false
+  xy: 312, 50
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+effect/caiho_0
+  rotate: true
+  xy: 2, 223
+  size: 300, 226
+  orig: 300, 226
+  offset: 0, 0
+  index: -1
+effect/paopao2_0
+  rotate: false
+  xy: 230, 373
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/star2_0
+  rotate: false
+  xy: 527, 6
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+effect/star_0
+  rotate: false
+  xy: 81, 41
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+effect/starba_0
+  rotate: false
+  xy: 230, 241
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_1
+  rotate: false
+  xy: 263, 109
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_2
+  rotate: false
+  xy: 362, 241
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_3
+  rotate: false
+  xy: 395, 109
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_4
+  rotate: false
+  xy: 527, 393
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_5
+  rotate: false
+  xy: 527, 261
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_6
+  rotate: false
+  xy: 527, 129
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/starba_7
+  rotate: false
+  xy: 382, 393
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/yb_0
+  rotate: false
+  xy: 432, 62
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+effect/yu_0
+  rotate: false
+  xy: 2, 29
+  size: 77, 192
+  orig: 77, 192
+  offset: 0, 0
+  index: -1
+niao1-body
+  rotate: false
+  xy: 299, 11
+  size: 93, 29
+  orig: 93, 29
+  offset: 0, 0
+  index: -1
+niao1-chibang1-1
+  rotate: false
+  xy: 263, 42
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+MaoXianZheGonghui.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 40
+  size: 310, 176
+  orig: 312, 176
+  offset: 1, 0
+  index: -1
+1
+  rotate: false
+  xy: 480, 188
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 10
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 314, 2
+  size: 214, 164
+  orig: 214, 164
+  offset: 0, 0
+  index: -1

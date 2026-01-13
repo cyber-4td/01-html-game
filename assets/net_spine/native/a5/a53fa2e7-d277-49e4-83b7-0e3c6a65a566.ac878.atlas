@@ -1,0 +1,111 @@
+
+pet.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/qiangkou_0
+  rotate: true
+  xy: 422, 185
+  size: 90, 88
+  orig: 281, 273
+  offset: 65, 97
+  index: -1
+effect/qiangkou_2
+  rotate: false
+  xy: 2, 31
+  size: 213, 233
+  orig: 281, 273
+  offset: 40, 24
+  index: -1
+effect/qiangkou_3
+  rotate: false
+  xy: 2, 266
+  size: 220, 242
+  orig: 281, 273
+  offset: 37, 19
+  index: -1
+effect/qiangkou_5
+  rotate: false
+  xy: 224, 277
+  size: 211, 231
+  orig: 281, 273
+  offset: 41, 25
+  index: -1
+effect/qiangkou_6
+  rotate: false
+  xy: 217, 41
+  size: 203, 223
+  orig: 281, 273
+  offset: 45, 29
+  index: -1
+effect/qiangkou_8
+  rotate: false
+  xy: 63, 2
+  size: 41, 27
+  orig: 281, 273
+  offset: 177, 142
+  index: -1
+paoGuan
+  rotate: false
+  xy: 2, 3
+  size: 59, 26
+  orig: 63, 30
+  offset: 2, 2
+  index: -1
+paoJia-xia
+  rotate: false
+  xy: 422, 133
+  size: 77, 50
+  orig: 81, 54
+  offset: 2, 2
+  index: -1
+paoKou
+  rotate: true
+  xy: 467, 82
+  size: 49, 43
+  orig: 53, 47
+  offset: 2, 2
+  index: -1
+paoTai
+  rotate: true
+  xy: 437, 429
+  size: 79, 50
+  orig: 83, 54
+  offset: 2, 2
+  index: -1
+paoTui-hou
+  rotate: false
+  xy: 437, 284
+  size: 32, 38
+  orig: 33, 40
+  offset: 1, 1
+  index: -1
+paoTui-qian
+  rotate: false
+  xy: 437, 374
+  size: 49, 53
+  orig: 51, 55
+  offset: 1, 1
+  index: -1
+paoTui-you
+  rotate: false
+  xy: 422, 77
+  size: 43, 54
+  orig: 45, 56
+  offset: 1, 1
+  index: -1
+paoTui-zuo
+  rotate: false
+  xy: 437, 324
+  size: 37, 48
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+papJia-shang
+  rotate: false
+  xy: 422, 39
+  size: 49, 36
+  orig: 53, 40
+  offset: 2, 2
+  index: -1

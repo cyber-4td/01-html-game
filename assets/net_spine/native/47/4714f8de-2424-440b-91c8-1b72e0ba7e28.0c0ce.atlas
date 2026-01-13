@@ -1,0 +1,104 @@
+
+catapult.png
+size: 976,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dizuo
+  rotate: false
+  xy: 247, 104
+  size: 341, 223
+  orig: 343, 225
+  offset: 1, 1
+  index: -1
+LUNzhongzhou1
+  rotate: false
+  xy: 943, 54
+  size: 29, 39
+  orig: 30, 40
+  offset: 1, 0
+  index: -1
+LUNzhongzhou2
+  rotate: false
+  xy: 943, 95
+  size: 31, 40
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+gunlun
+  rotate: false
+  xy: 460, 7
+  size: 143, 95
+  orig: 145, 97
+  offset: 1, 1
+  index: -1
+henggang
+  rotate: false
+  xy: 834, 247
+  size: 131, 80
+  orig: 134, 85
+  offset: 2, 4
+  index: -1
+kuangjia
+  rotate: true
+  xy: 357, 3
+  size: 99, 101
+  orig: 99, 101
+  offset: 0, 0
+  index: -1
+lunzi1
+  rotate: true
+  xy: 247, 2
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+lunzi2
+  rotate: true
+  xy: 834, 137
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+lunzi3
+  rotate: false
+  xy: 834, 19
+  size: 107, 116
+  orig: 109, 118
+  offset: 1, 1
+  index: -1
+muzhuang1
+  rotate: false
+  xy: 590, 128
+  size: 120, 199
+  orig: 122, 201
+  offset: 1, 1
+  index: -1
+muzhuang2
+  rotate: false
+  xy: 712, 131
+  size: 120, 196
+  orig: 122, 198
+  offset: 1, 1
+  index: -1
+peizhong
+  rotate: true
+  xy: 727, 11
+  size: 118, 105
+  orig: 120, 107
+  offset: 1, 1
+  index: -1
+stone
+  rotate: true
+  xy: 605, 2
+  size: 124, 120
+  orig: 124, 120
+  offset: 0, 0
+  index: -1
+toushiqi
+  rotate: true
+  xy: 2, 30
+  size: 297, 243
+  orig: 297, 243
+  offset: 0, 0
+  index: -1

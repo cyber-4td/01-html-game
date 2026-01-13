@@ -1,0 +1,153 @@
+
+guard_lancer.png
+size: 995,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shenti
+  rotate: false
+  xy: 1, 16
+  size: 90, 67
+  orig: 99, 67
+  offset: 9, 0
+  index: -1
+YouDabi
+  rotate: false
+  xy: 117, 50
+  size: 25, 33
+  orig: 27, 35
+  offset: 1, 1
+  index: -1
+YouXiaobi
+  rotate: false
+  xy: 120, 18
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+Youjianbang
+  rotate: false
+  xy: 181, 62
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+Youshou
+  rotate: false
+  xy: 151, 21
+  size: 27, 28
+  orig: 29, 30
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: false
+  xy: 86, 39
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+ZuoDabi
+  rotate: false
+  xy: 205, 28
+  size: 27, 21
+  orig: 29, 23
+  offset: 1, 1
+  index: -1
+ZuoXiaobi
+  rotate: false
+  xy: 205, 49
+  size: 22, 28
+  orig: 24, 30
+  offset: 1, 1
+  index: -1
+Zuojianbang
+  rotate: false
+  xy: 151, 49
+  size: 30, 31
+  orig: 32, 33
+  offset: 1, 1
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 178, 21
+  size: 27, 28
+  orig: 29, 30
+  offset: 1, 1
+  index: -1
+Zuotui
+  rotate: false
+  xy: 80, 2
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+a_0
+  rotate: true
+  xy: 935, 103
+  size: 240, 60
+  orig: 400, 200
+  offset: 5, 74
+  index: -1
+a_10
+  rotate: false
+  xy: 659, 178
+  size: 212, 165
+  orig: 400, 200
+  offset: 136, 19
+  index: -1
+a_12
+  rotate: true
+  xy: 236, 31
+  size: 200, 165
+  orig: 400, 200
+  offset: 149, 18
+  index: -1
+a_2
+  rotate: false
+  xy: 668, 111
+  size: 267, 67
+  orig: 400, 200
+  offset: 36, 67
+  index: -1
+a_4
+  rotate: false
+  xy: 401, 70
+  size: 267, 107
+  orig: 400, 200
+  offset: 94, 47
+  index: -1
+a_6
+  rotate: false
+  xy: 1, 83
+  size: 235, 148
+  orig: 400, 200
+  offset: 90, 27
+  index: -1
+a_8
+  rotate: false
+  xy: 428, 177
+  size: 231, 166
+  orig: 400, 200
+  offset: 105, 19
+  index: -1
+c_0
+  rotate: false
+  xy: 1, 231
+  size: 427, 112
+  orig: 451, 170
+  offset: 10, 21
+  index: -1
+tou
+  rotate: false
+  xy: 873, 1
+  size: 103, 102
+  orig: 105, 104
+  offset: 1, 1
+  index: -1
+wuqi
+  rotate: false
+  xy: 668, 36
+  size: 205, 75
+  orig: 207, 77
+  offset: 1, 1
+  index: -1

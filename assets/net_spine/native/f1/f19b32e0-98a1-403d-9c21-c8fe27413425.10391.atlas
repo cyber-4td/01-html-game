@@ -1,0 +1,139 @@
+
+skeleton_guard_knight_paladin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mao
+  rotate: true
+  xy: 482, 211
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+Pifeng
+  rotate: true
+  xy: 581, 293
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 493, 386
+  size: 111, 120
+  orig: 113, 122
+  offset: 1, 1
+  index: -1
+Yougebo
+  rotate: false
+  xy: 584, 247
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+Youjianbang
+  rotate: false
+  xy: 574, 24
+  size: 34, 45
+  orig: 36, 64
+  offset: 1, 14
+  index: -1
+Youshou
+  rotate: true
+  xy: 541, 212
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+Youtui
+  rotate: false
+  xy: 528, 22
+  size: 44, 47
+  orig: 62, 47
+  offset: 14, 0
+  index: -1
+Zuojian
+  rotate: true
+  xy: 414, 210
+  size: 76, 66
+  orig: 78, 68
+  offset: 1, 1
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 584, 211
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: false
+  xy: 541, 244
+  size: 41, 44
+  orig: 52, 49
+  offset: 0, 5
+  index: -1
+dunpai
+  rotate: true
+  xy: 304, 206
+  size: 80, 108
+  orig: 82, 110
+  offset: 1, 1
+  index: -1
+effect/1
+  rotate: true
+  xy: 2, 2
+  size: 202, 220
+  orig: 222, 238
+  offset: 12, 8
+  index: -1
+effect/3
+  rotate: false
+  xy: 304, 288
+  size: 187, 218
+  orig: 222, 238
+  offset: 28, 7
+  index: -1
+effect/4
+  rotate: false
+  xy: 304, 288
+  size: 187, 218
+  orig: 222, 238
+  offset: 28, 7
+  index: -1
+effect/5
+  rotate: false
+  xy: 224, 9
+  size: 109, 195
+  orig: 222, 238
+  offset: 104, 7
+  index: -1
+effect/g_0
+  rotate: false
+  xy: 335, 13
+  size: 191, 191
+  orig: 200, 200
+  offset: 3, 4
+  index: -1
+effect/glow_0
+  rotate: false
+  xy: 2, 206
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 493, 290
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 528, 71
+  size: 72, 138
+  orig: 74, 140
+  offset: 1, 1
+  index: -1
