@@ -1,5 +1,7 @@
 {
-    "name": "01-html-game",
-    "pages_build_output_dir": "./",
-    "compatibility_date": "2025-01-01"
+  "name": "01-html-game",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./"
+  }
 }
